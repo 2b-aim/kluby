@@ -1,0 +1,302 @@
+<html>
+	<head>
+		<meta cherself="utf-8">
+		<title>Tottenham_Hotspur</title>
+	</head>
+	<body>
+		<style>
+		h1{
+			text-align: center;
+			color:rgb(255, 249, 66);
+		}
+		body{
+		background-color: rgb(10, 194, 250);
+		Color:rgb(255, 249, 66);
+		}
+		.trofea{
+		border:10px double rgb(48, 101, 217);
+		width:35%;
+		background-color:rgb(250, 24, 3);
+		}
+		.transfer{
+				border:10px double rgb(48, 101, 217);
+		width:35%;
+		}
+		</style>
+	</head>
+	<body>
+	<h1>Tottenham Hotspur</h1>
+	<div style="text-align: center"><img src="https://tmssl.akamaized.net/images/wappen/head/148.png?lm=1544345801" alt="Tottenham_Hotspur" width="300"></div>
+	<h2>Informacje ogólne</h2>
+	<p>Tottenham Hotspur Football Club (bryt. wym. [ˌtɒtnəmˈhɒtspɜ:]) – angielski klub piłkarski z siedzibą w londyńskiej dzielnicy Tottenham, założony w 1882 roku jako Hotspur F.C. dwukrotny mistrz Anglii, ośmiokrotny zdobywca Pucharu Anglii, zwycięzca Pucharu Zdobywców Pucharów oraz dwukrotny triumfator rozgrywek o Puchar UEFA.
+
+Pierwszy klub w Anglii, który w XX wieku zdobył „podwójną koronę”, czyli mistrzostwo oraz krajowy puchar w jednym sezonie (1961). Odwiecznym rywalem Tottenhamu jest drużyna z sąsiedniej gminy Londynu – Arsenal. W swojej historii występów w Premier League Spurs kończyli sezon przed Arsenalem w 1993, 1995, 2017 i 2018 roku[2]. Arsenal kwalifikował się do wszystkich edycji Ligi Mistrzów od 2005 do 2016, natomiast Tottenham pięć razy w 2010, 2016, 2017, 2018 i 2019.
+
+Do najbardziej znanych fanów tego zespołu należą aktorzy Jude Law, Pierce Brosnan oraz znany z filmów i boiska Vinnie Jones, a także Phil Collins, Adele, zespoły Klaxons oraz popularny w latach 70. Status Quo, Dave Murray (gitarzysta heavy metalowego zespołu Iron Maiden), pisarz Salman Rushdie, Taco Hemingway, prominentny polityk konserwatywny Iain Duncan Smith, znana z występów w Spice Girls Emma Bunton, koszykarz Steve Nash oraz aktor Leo Gregory, który w filmie Green Street Hooligans grał fana West Ham United. W przeszłości do kibiców Totttenhamu zaliczali się także Bob Marley i piosenkarka Amy Winehouse[3][4].</p>
+	<p>
+	<strong>W lidze od: </strong>29 lat<br>
+<strong>Liczba zawodników:</strong> 28<br>
+<strong>Średnia wieku:</strong> 26,3<br>
+<strong>Obcokrajowcy:</strong> 16  <em>(57,1 %)</em><br>
+<strong>Stadion:</strong> Old Trafford  <em>(74.879 miejsc)</em><br>
+	<strong>Łączna wartość rynkowa:</strong> 738,35 mln € <br></p>
+<div class="trofea">	<h2>Zdobyte Trofea</h2>
+				<ul>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/12.png?lm=1520606997" alt="Trofea" height="70">2X ENGLISH CHAMPION</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/29.png?lm=1520606999" alt="Trofea" height="70">8X FA CUP WINNER</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/47.png?lm=1520606999" alt="Trofea" height="70">4X THE LEAGUE CUP WINNER</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/7.png?lm=1520606999" alt="Trofea" height="70">2X UEFA CUP WINNER</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/53.png?lm=1603977500" alt="Trofea" height="70">1X CUP WINNERS CUP WINNER</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/316.png?lm=1520606999" alt="Trofea" height="70">7X ENGLISH SUPERCUP WINNER</li>
+				</ul>	</div>
+	<div class="transfer"><h2>Obecny Skład</h2></div>
+	<div class="trofea">Trener:José Mourinho
+					<table>
+	<thead>
+		<th>Zawodnik</th>
+		<th>Pozycja</th>
+		<th>Narodowość</th>
+		<th>Wartość Rynkowa</th>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Hugo Lloris</td>
+			<td>Bramkarz</td>
+			<td>Francja</td>
+			<td>12,00 mln €</td>
+		</tr>
+			<tr>
+			<td>Joe Hart</td>
+			<td>Bramkarz</td>
+			<td>Anglia</td>
+			<td>2,40 mln € </td>
+		</tr>
+		<tr>
+			<td>Davinson Sánchez</td>
+			<td>Środkowy obrońca</td>
+			<td>Kolumbia</td>
+			<td>40,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Eric Dier</td>
+			<td>Środkowy obrońca</td>
+			<td>Anglia, Portugalia</td>
+			<td>25,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Toby Alderweireld</td>
+			<td>Środkowy obrońca</td>
+			<td>Belgia</td>
+			<td>20,00 mln € </td>
+		</tr>		
+		<tr>
+			<td>Joe Rodon</td>
+			<td>Środkowy obrońca</td>
+			<td>Walia</td>
+			<td>10,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Sergio Reguilón</td>
+			<td>Lewy obrońca</td>
+			<td>Hiszpania</td>
+			<td>28,00 mln €</td>
+		</tr>
+
+		<tr>
+			<td>Ben Davies</td>
+			<td>Lewy obrońca</td>
+			<td>Walia</td>
+			<td>17,50 mln €</td>
+		</tr>
+		<tr>
+			<td>Matt Doherty</td>
+			<td>Prawy obrońca</td>
+			<td>Irlandia</td>
+			<td>20,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Serge Aurier</td>
+			<td>Prawy obrońca</td>
+			<td>WKS</td>
+			<td>20,00 mln €  </td>
+		</tr>
+		<tr>
+			<td>Harry Winks</td>
+			<td>Defensywny pomocnik</td>
+			<td>Anglia</td>
+			<td>25,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Tanguy Ndombélé</td>
+			<td>Środkowy pomocnik</td>
+			<td>Francja, DRK</td>
+			<td>45,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Giovani Lo Celso</td>
+			<td>Środkowy pomocnik</td>
+			<td>Argentyna, Włochy</td>
+			<td>35,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Pierre-Emile Höjbjerg</td>
+			<td>Środkowy pomocnik</td>
+			<td>Dania, Francja</td>
+			<td>30,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Moussa Sissoko</td>
+			<td>Środkowy pomocnik</td>
+			<td>Francja, Mali</td>
+			<td>18,00 mln € </td>
+		</tr>	
+		<tr>
+			<td>Dele Alli</td>
+			<td>Ofensywny pomocnik
+</td>
+			<td>Anglia, Nigeria</td>
+			<td>38,00 mln € </td>
+		</tr>	
+		<tr>
+			<td>Heung-min Son</td>
+			<td>Lewy napastnik</td>
+			<td>Korea Południowa</td>
+			<td>90,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Steven Bergwijn</td>
+			<td>Lewy napastnik</td>
+			<td>Holandia, Surinam</td>
+			<td>28,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Lucas Moura</td>
+			<td>Prawy napastnik</td>
+			<td>Brazylia</td>
+			<td>25,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Gareth Bale</td>
+			<td>Prawy napastnik</td>
+			<td>Walia</td>
+			<td>20,00 mln €</td>
+		</tr>
+				<tr>
+			<td>Harry Kane</td>
+			<td>Środkowy napastnik</td>
+			<td>Anglia</td>
+			<td>120,00 mln € </td>
+		</tr>
+				<tr>
+			<td>Carlos Vinícius</td>
+			<td>Środkowy napastnik</td>
+			<td>Brazylia</td>
+			<td>20,00 mln € </td>
+		</tr>
+	</tbody>
+</table></div>
+	<div class="transfer"><h2>Transfery</h2></div>
+	<div class="trofea"><h3>TOP-nabytki</h3>
+	<table>
+	<thead>
+		<th></th>
+		<th>Zawodnik</th>
+		<th>Sezon</th>
+		<th>Klub oddający</th>
+		<th>Kwota Transferu</th>
+	</thead>
+	<tbody>
+		<tr>
+			<td>1.</td>
+			<td>Tanguy Ndombélé</td>
+			<td>19/20</td>
+			<td>Olympique Lyon (Ligue 1)</td>
+			<td>60,00 mln €</td>
+		</tr>
+			<tr>			
+			<td>2.</td>
+			<td>Davinson Sánchez</td>
+			<td>17/18</td>
+			<td>Ajax (Eredivisie)
+</td>
+			<td>42,00 mln €</td>
+		</tr>
+		<tr>
+			<td>3.</td>
+			<td>Moussa Sissoko</td>
+			<td>16/17</td>
+			<td>Newcastle United(Premier League)
+</td>
+			<td>35,00 mln €</td>
+		</tr>
+		<tr>
+			<td>4.</td>
+			<td>Giovani Lo Celso</td>
+			<td>20/21</td>
+			<td>Real Betis (LaLiga)
+
+</td>
+			<td>32,00 mln €</td>
+		</tr>
+		<tr>
+			<td>5.</td>
+			<td>Steven Bergwijn</td>
+			<td>19/20</td>
+			<td>PSV Eindhoven(Eredivisie)
+</td>
+			<td>30,00 mln €</td>
+		</tr>
+	</tbody>
+</table></div>
+	<div class="trofea"><h3>TOP-odejścia</h3>
+	<table>
+	<thead>
+		<th></th>
+		<th>Zawodnik</th>
+		<th>Sezon</th>
+		<th>Klub kupujący</th>
+		<th>Kwota Transferu</th>
+	</thead>
+	<tbody>
+		<tr>
+			<td>1.</td>
+			<td>Gareth Bale</td>
+			<td>13/14</td>
+			<td>Real Madryt (LaLiga)
+</td>
+			<td>101,00 mln €</td>
+		</tr>
+			<tr>
+			<td>2.</td>
+			<td>Kyle Walker</td>
+			<td>17/18</td>
+			<td>Manchester City (Premier League)</td>
+			<td>52,70 mln €</td>
+		</tr>
+		<tr>
+			<td>3.</td>
+			<td>Dimitar Berbatov</td>
+			<td>08/09</td>
+			<td>Manchester United (Premier League)</td>
+			<td>38,00 mln €</td>
+		</tr>
+		<tr>
+			<td>4.</td>
+			<td>Luka Modric</td>
+			<td>12/13</td>
+			<td>Real Madryt (LaLiga)
+</td>
+			<td>35,00 mln €</td>
+		</tr>
+		<tr>
+			<td>5.</td>
+			<td>Michael Carrick</td>
+			<td>06/07</td>
+			<td>Manchester United (Premier League)
+</td>
+			<td>27,20 mln €</td>
+		</tr>
+	</tbody>
+</table></div>
+	</body>
+</html>
