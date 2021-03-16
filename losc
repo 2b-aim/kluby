@@ -1,0 +1,275 @@
+<html>
+	<head>
+		<meta cherself="utf-8">
+		<title>LOSC_Lille</title>
+		<style>
+		h1{
+			text-align: center;
+		}
+		.trofea{
+		border:10px double rgb(250, 5, 5);
+		width:35%;
+		background-color:white;
+		}
+		.transfer{
+				border:10px double rgb(48, 101, 217);
+		width:35%;
+		}
+				body{
+		background-color: rgb(250, 234, 60);		
+		color: rgb(5, 25, 250);
+		}
+		</style>
+	</head>
+	<body>
+	<h1>LOSC Lille</h1>
+	<div style="text-align: center"><img src="https://tmssl.akamaized.net/images/wappen/head/1082.png?lm=1529521041" alt="LOSC_Lille" width="300"></div>
+	<h2>Informacje ogólne</h2>
+	<p>Lille OSC (pełna nazwa Lille Olympique Sporting Club) – francuski klub piłkarski z siedzibą w mieście Lille. Trzykrotny mistrz kraju. W sezonie 2019/2020 grający w Ligue 1, Pucharze Francji oraz w Lidze Mistrzów. Trenerem klubu jest Christophe Galtier.Klub powstał w 1944 roku w wyniku fuzji klubów Olympique Lillois oraz SC Fives, po których klub przyjął do dziś obowiązującą nazwę Lille OSC.</p>
+	<p>
+		<strong>W lidze od:</strong> 21 lat<br>
+<strong>Liczba zawodników:</strong> 23<br>
+<strong>Średnia wieku:</strong> 25,2<br>
+<strong>Obcokrajowcy:</strong> 15  <em>(65,2 %)</em><br>
+<strong>Stadion:</strong> Stade Pierre-Mauroy <em> (50.186 miejsc)</em><br>
+	<strong>Łączna wartość rynkowa:</strong>279,80 mln €<br></p>
+	<div class="trofea"><h2>Zdobyte Trofea</h2>
+				<ul>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/14.png?lm=1520606997" alt="Trofea" height="70">4X FRENCH CHAMPION</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/35.png?lm=1520606999" alt="Trofea" height="70">6X FRENCH CUP WINNER (COUPE DE FRANCE)</li>								
+				</ul>	</div>
+	<div class="transfer"><h2>Obecny Skład</h2></div>
+	<div class="trofea">Trener:Christophe Galtier
+					<table>
+	<thead>
+		<th>Zawodnik</th>
+		<th>Pozycja</th>
+		<th>Narodowość</th>
+		<th>Wartość Rynkowa</th>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Mike Maignan</td>
+			<td>Bramkarz</td>
+			<td>Francja, Gujana Francuska</td>
+			<td>20,00 mln €</td>
+		</tr>
+			<tr>
+			<td>Orestis Karnezis</td>
+			<td>Bramkarz</td>
+			<td>Grecja</td>
+			<td>500 tys. € </td>
+		</tr>
+		<tr>
+			<td>Sven Botman</td>
+			<td>Środkowy obrońca</td>
+			<td>Holandia</td>
+			<td>25,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Tiago Djaló</td>
+			<td>Środkowy obrońca</td>
+			<td>Portugalia</td>
+			<td>4,50 mln €</td>
+		</tr>
+		<tr>
+			<td>José Fonte</td>
+			<td>Środkowy obrońca</td>
+			<td>Portugalia</td>
+			<td>1,50 mln € </td>
+		</tr>		
+		<tr>
+			<td>Domagoj Bradaric</td>
+			<td>Lewy obrońca</td>
+			<td>Chorwacja</td>
+			<td>6,00 mln €</td>
+		</tr>
+			<tr>
+			<td>Reinildo Mandava</td>
+			<td>Lewy obrońca</td>
+			<td>Mozambik</td>
+			<td>3,00 mln € </td>
+		</tr>		
+		<tr>
+			<td>Zeki Celik</td>
+			<td>Prawy obrońca</td>
+			<td>Turcja</td>
+			<td>20,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Jérémy Pied</td>
+			<td>Prawy obrońca</td>
+			<td>Francja</td>
+			<td>2,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Boubakary Soumaré</td>
+			<td>Defensywny pomocnik</td>
+			<td>Francja, Senegal</td>
+			<td>23,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Renato Sanches</td>
+			<td>Środkowy pomocnik</td>
+			<td>Portugalia, Wyspy Świętego Tomasza i Ksążęca</td>
+			<td>28,00 mln €</td>
+		</tr>
+		<tr>				
+		<tr>
+			<td>Benjamin André</td>
+			<td>Środkowy pomocnik</td>
+			<td>Francja</td>
+			<td>14,00 mln €</td>
+		</tr>
+			<td>Xeka</td>
+			<td>Środkowy pomocnik</td>
+			<td>Portugalia</td>
+			<td>7,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Jonathan Bamba</td>
+			<td>Lewy napastnik</td>
+			<td>Francja, WKS</td>
+			<td>25,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Jonathan Ikoné</td>
+			<td>Prawy napastnik</td>
+			<td>Francja, DRK</td>
+			<td>28,00 mln € </td>
+		</tr>
+				<tr>
+			<td>Luiz Araújo</td>
+			<td>Prawy napastnik</td>
+			<td>Brazylia</td>
+			<td>8,00 mln €</td>
+		</tr>
+						<tr>
+			<td>Isaac Lihadji</td>
+			<td>Prawy napastnik</td>
+			<td>Francja, Komory</td>
+			<td>4,00 mln €</td>
+		</tr>
+				<tr>
+			<td>Yusuf Yazici</td>
+			<td>Cofnięty napastnik</td>
+			<td>Francja, Tunezja</td>
+			<td>20,00 mln € </td>
+		</tr>
+				<tr>
+			<td>Jonathan David</td>
+			<td>Środkowy napastnik</td>
+			<td>Kanada, USA</td>
+			<td>30,00 mln € </td>
+		</tr>
+				<tr>
+			<td>Timothy Weah</td>
+			<td>Środkowy napastnik</td>
+			<td>USA, Francja</td>
+			<td>7,50 mln €</td>
+		</tr>
+						<tr>
+			<td>Burak Yilmaz</td>
+			<td>Środkowy napastnik</td>
+			<td>Turcja</td>
+			<td>2,00 mln €</td>
+		</tr>
+	</tbody>
+</table></div>
+	<div class="transfer"><h2>Transfery</h2></div>
+	<div class="trofea"><h3>TOP-nabytki</h3>
+	<table>
+	<thead>
+		<th></th>
+		<th>Zawodnik</th>
+		<th>Sezon</th>
+		<th>Klub oddający</th>
+		<th>Kwota Transferu</th>
+	</thead>
+	<tbody>
+		<tr>
+			<td>1.</td>
+			<td>Jonathan David</td>
+			<td>20/21</td>
+			<td>KAA Gent(Jupiler Pro League)</td>
+			<td>27,00 mln €</td>
+		</tr>
+			<tr>			
+			<td>2.</td>
+			<td>Victor Osimhen</td>
+			<td>19/20</td>
+			<td>RSC Charleroi( Jupiler Pro League)</td>
+			<td>22,40 mln €</td>
+		</tr>
+		<tr>
+			<td>3.</td>
+			<td>Renato Sanches</td>
+			<td>19/20</td>
+			<td>Bayern Monachium(Bundesliga)</td>
+			<td>20,00 mln €</td>
+		</tr>
+		<tr>
+			<td>4.</td>
+			<td>Yusuf Yazici</td>
+			<td>19/20</td>
+			<td>Trabzonspor(Süper Lig)</td>
+			<td>17,50 mln €</td>
+		</tr>
+		<tr>
+			<td>5.</td>
+			<td>Thiago Maia</td>
+			<td>17/18</td>
+			<td>Santos FC(Paulistão A1 - Primeira fase Série A)</td>
+			<td>10,50 mln €</td>
+		</tr>
+	</tbody>
+</table></div>
+	<div class="trofea"><h3>TOP-odejścia</h3>
+	<table>
+	<thead>
+		<th></th>
+		<th>Zawodnik</th>
+		<th>Sezon</th>
+		<th>Klub kupujący</th>
+		<th>Kwota Transferu</th>
+	</thead>
+	<tbody>
+		<tr>
+			<td>1.</td>
+			<td>Nicolas Pépé</td>
+			<td>19/20</td>
+			<td>FC Arsenal(Premier League)</td>
+			<td>80,00 mln €</td>
+		</tr>
+			<tr>
+			<td>2.</td>
+			<td>Victor Osimhen</td>
+			<td>20/21</td>
+			<td>SSC Napoli(Serie A)</td>
+			<td>70,00 mln €</td>
+		</tr>
+		<tr>
+			<td>3.</td>
+			<td>Eden Hazard</td>
+			<td>12/13</td>
+			<td>Chelsea FC(Premier League)</td>
+			<td>35,00 mln €</td>
+		</tr>
+		<tr>
+			<td>4.</td>
+			<td>Rafael Leão</td>
+			<td>19/20</td>
+			<td>AC Milan(Serie A)</td>
+			<td>29,50 mln €</td>
+		</tr>
+		<tr>
+			<td>5.</td>
+			<td>Gabriel</td>
+			<td>20/21</td>
+			<td>FC Arsenal(Premier League)</td>
+			<td>26,00 mln €</td>
+		</tr>
+	</tbody>
+</table></div>
+	</body>
+</html>
