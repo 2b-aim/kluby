@@ -1,0 +1,307 @@
+<html>
+	<head>
+		<meta cherself="utf-8">
+		<title>AS_Monaco</title>
+		<style>
+		h1{
+			text-align: center;
+		}
+		.trofea{
+		border:10px double rgb(250, 5, 5);
+		width:35%;
+		background-color:white;
+		}
+		.transfer{
+				border:10px double rgb(48, 101, 217);
+		width:35%;
+		}
+				body{
+		background-color: rgb(250, 234, 60);		
+		color: rgb(5, 25, 250);
+		}
+		</style>
+	</head>
+	<body>
+	<h1>AS Monaco</h1>
+	<div style="text-align: center"><img src="https://tmssl.akamaized.net/images/wappen/head/162.png?lm=1463176069" alt="AS_Monaco" width="300"></div>
+	<h2>Informacje ogólne</h2>
+	<p>Olympique Lyon (oficjalna nazwa Olympique lyonnais, wym. [ɔlɛ̃pik ʎɔnɛ]) – francuski klub piłkarski z siedzibą w Lyonie, założony w 1899 roku. Nazwa Olympique Lyon pojawiła się 3 sierpnia 1950 i funkcjonuje do dziś. Obecnie klub gra na najwyższym szczeblu ligi francuskiej znanej pod nazwą Ligue 1.</p>
+	<p>
+		<strong>W lidze od:</strong> 8 lat<br>
+<strong>Liczba zawodników:</strong> 27<br>
+<strong>Średnia wieku:</strong> 24,5<br>
+<strong>Obcokrajowcy: </strong>27 <em> (100,0 %)</em><br>
+<strong>Stadion:</strong> Stade Louis-II  <em>(18.523 miejsc)</em><br>
+	<strong>Łączna wartość rynkowa:</strong>310,50 mln €<br></p>
+	<div class="trofea"><h2>Zdobyte Trofea</h2>
+				<ul>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/14.png?lm=1520606997" alt="Trofea" height="70">8X FRENCH CHAMPION</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/35.png?lm=1520606999" alt="Trofea" height="70">5X FRENCH CUP WINNER (COUPE DE FRANCE)</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/37.png?lm=1520606999" alt="Trofea" height="70">1X FRENCH LEAGUE CUP WINNER</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/321.png?lm=1520606999" alt="Trofea" height="70">2X FRENCH SUPERCUP WINNER</li>									
+				</ul>	</div>
+	<div class="transfer"><h2>Obecny Skład</h2></div>
+	<div class="trofea">Trener:Niko Kovac
+					<table>
+	<thead>
+		<th>Zawodnik</th>
+		<th>Pozycja</th>
+		<th>Narodowość</th>
+		<th>Wartość Rynkowa</th>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Benjamin Lecomte</td>
+			<td>Bramkarz</td>
+			<td>Francja</td>
+			<td>11,00 mln € </td>
+		</tr>
+			<tr>
+			<td>Radoslaw Majecki</td>
+			<td>Bramkarz</td>
+			<td>Polska</td>
+			<td>4,50 mln € </td>
+		</tr>
+		<tr>
+			<td>Benoît Badiashile</td>
+			<td>Środkowy obrońca</td>
+			<td>Francja, DRK</td>
+			<td>25,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Axel Disasi</td>
+			<td>Środkowy obrońca</td>
+			<td>Francja, DRK</td>
+			<td>18,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Guillermo Maripán</td>
+			<td>Środkowy obrońca</td>
+			<td>Chile</td>
+			<td>8,00 mln € </td>
+		</tr>		
+		<tr>
+			<td>Chrislain Matsima</td>
+			<td>Środkowy obrońca</td>
+			<td>Francja, Kongo</td>
+			<td>4,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Caio Henrique</td>
+			<td>Lewy obrońca</td>
+			<td>Brazylia, Hiszpania</td>
+			<td>8,00 mln € </td>
+		</tr>
+			<tr>
+			<td>Fodé Ballo-Touré</td>
+			<td>Lewy obrońca</td>
+			<td>Francja, Senegal</td>
+			<td>6,50 mln € </td>
+		</tr>		
+		<tr>
+			<td>Ruben Aguilar</td>
+			<td>Prawy obrońca</td>
+			<td>Francja, Hiszpania</td>
+			<td>10,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Djibril Sidibé</td>
+			<td>Prawy obrońca</td>
+			<td>Francja, Mali</td>
+			<td>7,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Aurélien Tchouaméni</td>
+			<td>Defensywny pomocnik</td>
+			<td>Francja, Kamerun</td>
+			<td>16,00 mln € </td>
+		</tr>
+				<tr>
+			<td>Florentino</td>
+			<td>Defensywny pomocnik</td>
+			<td>Portugalia, Angola</td>
+			<td>13,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Youssouf Fofana</td>
+			<td>Środkowy pomocnik</td>
+			<td>Francja, WKS</td>
+			<td>13,00 mln €  </td>
+		</tr>
+		<tr>				
+		<tr>
+			<td>Cesc Fàbregas</td>
+			<td>Środkowy pomocnik</td>
+			<td>Hiszpania</td>
+			<td>6,50 mln € </td>
+		</tr>
+			<td>Youssef Aït Bennasser</td>
+			<td>Środkowy pomocnik</td>
+			<td>Maroko, Francja</td>
+			<td>3,00 mln € </td>
+		</tr>
+				</tr>
+			<td>Eliot Matazo</td>
+			<td>Środkowy pomocnik</td>
+			<td>Belgia, DRK</td>
+			<td>1,50 mln €</td>
+		</tr>
+		<tr>
+			<td>Enzo Millot</td>
+			<td>Środkowy pomocnik</td>
+			<td>Francja, Martynika</td>
+			<td>1,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Aleksandr Golovin</td>
+			<td>Ofensywny pomocnik</td>
+			<td>Rosja</td>
+			<td>19,00 mln €</td>
+		</tr>	
+				<tr>
+			<td>Sofiane Diop</td>
+			<td>Ofensywny pomocnik</td>
+			<td>Francja, Senegal</td>
+			<td>10,00 mln €</td>
+		</tr>	
+		<tr>
+			<td>Willem Geubbels</td>
+			<td>Lewy napastnik</td>
+			<td>Francja, Holandia</td>
+			<td>6,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Gelson Martins</td>
+			<td>Prawy napastnik</td>
+			<td>Portugalia, Republika Zielonego Przylądka</td>
+			<td>20,00 mln €</td>
+		</tr>
+				<tr>
+			<td>Krépin Diatta</td>
+			<td>Prawy napastnik</td>
+			<td>Senegal</td>
+			<td>18,00 mln €</td>
+		</tr>
+				<tr>
+			<td>Wissam Ben Yedder</td>
+			<td>Środkowy napastnik</td>
+			<td>Francja, Tunezja</td>
+			<td>40,00 mln € </td>
+		</tr>
+				<tr>
+			<td>Kevin Volland</td>
+			<td>Środkowy napastnik</td>
+			<td>Niemcy</td>
+			<td>28,00 mln €</td>
+		</tr>
+				<tr>
+			<td>Stevan Jovetic</td>
+			<td>Środkowy napastnik</td>
+			<td>Czarnogóra, Serbia</td>
+			<td>6,50 mln €  </td>
+		</tr>
+						<tr>
+			<td>Pietro Pellegri</td>
+			<td>Środkowy napastnik</td>
+			<td>Włochy</td>
+			<td>6,00 mln €</td>
+		</tr>
+	</tbody>
+</table></div>
+	<div class="transfer"><h2>Transfery</h2></div>
+	<div class="trofea"><h3>TOP-nabytki</h3>
+	<table>
+	<thead>
+		<th></th>
+		<th>Zawodnik</th>
+		<th>Sezon</th>
+		<th>Klub oddający</th>
+		<th>Kwota Transferu</th>
+	</thead>
+	<tbody>
+		<tr>
+			<td>1.</td>
+			<td>James Rodríguez</td>
+			<td>13/14</td>
+			<td>FC Porto(Liga NOS)</td>
+			<td>45,00 mln €</td>
+		</tr>
+			<tr>			
+			<td>2.</td>
+			<td>Falcao</td>
+			<td>13/14</td>
+			<td>Atlético Madryt(LaLiga)</td>
+			<td>43,00 mln €</td>
+		</tr>
+		<tr>
+			<td>3.</td>
+			<td>Wissam Ben Yedder</td>
+			<td>19/20</td>
+			<td>Sevilla FC(LaLiga)</td>
+			<td>40,00 mln €</td>
+		</tr>
+		<tr>
+			<td>4.</td>
+			<td>Gelson Martins</td>
+			<td>19/20</td>
+			<td>Atlético Madryt(LaLiga)</td>
+			<td>30,00 mln €</td>
+		</tr>
+		<tr>
+			<td>5.</td>
+			<td>Aleksandr Golovin</td>
+			<td>18/19</td>
+			<td>CSKA Moskwa(Premier Liga)</td>
+			<td>30,00 mln €</td>
+		</tr>
+	</tbody>
+</table></div>
+	<div class="trofea"><h3>TOP-odejścia</h3>
+	<table>
+	<thead>
+		<th></th>
+		<th>Zawodnik</th>
+		<th>Sezon</th>
+		<th>Klub kupujący</th>
+		<th>Kwota Transferu</th>
+	</thead>
+	<tbody>
+		<tr>
+			<td>1.</td>
+			<td>Kylian Mbappé</td>
+			<td>18/19</td>
+			<td>FC Paris Saint-Germain(Ligue 1)</td>
+			<td>145,00 mln €</td>
+		</tr>
+			<tr>
+			<td>2.</td>
+			<td>James Rodríguez</td>
+			<td>14/15</td>
+			<td>Real Madryt(LaLiga)</td>
+			<td>75,00 mln €</td>
+		</tr>
+		<tr>
+			<td>3.</td>
+			<td>Thomas Lemar</td>
+			<td>18/19</td>
+			<td>Atlético Madryt(LaLiga)</td>
+			<td>72,00 mln €</td>
+		</tr>
+		<tr>
+			<td>4.</td>
+			<td>Anthony Martial</td>
+			<td>15/16</td>
+			<td>Manchester United(Premier League)</td>
+			<td>60,00 mln €</td>
+		</tr>
+		<tr>
+			<td>5.</td>
+			<td>Benjamin Mendy</td>
+			<td>17/18</td>
+			<td>Manchester City(Premier League)</td>
+			<td>57,50 mln €</td>
+		</tr>
+	</tbody>
+</table></div>
+	</body>
+</html>
