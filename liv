@@ -1,0 +1,343 @@
+<html>
+	<head>
+		<meta cherself="utf-8">
+		<title>FC_Liverpool</title>
+		<style>
+		h1{
+			text-align: center;
+			color:rgb(255, 249, 66);
+		}
+		body{
+		background-color: rgb(10, 194, 250);
+		Color:rgb(255, 249, 66);
+		}
+		.trofea{
+		border:10px double rgb(48, 101, 217);
+		width:35%;
+		background-color:rgb(250, 24, 3);
+		}
+		.transfer{
+				border:10px double rgb(48, 101, 217);
+		width:35%;
+		}
+		</style>
+	</head>
+	<body>
+	<h1>FC Liverpool</h1>
+	<div style="text-align: center"><img src="https://tmssl.akamaized.net/images/wappen/head/31.png?lm=1456567819" alt="Liverpool" width="300"></div>
+	<h2>Informacje ogólne</h2>
+	Liverpool Football Club [ˈlɪvərˌpul] ( odsłuchaj) – angielski klub piłkarski z siedzibą w Liverpoolu. W sezonie 2020/2021 jego pierwsza drużyna występuje w Premier League. 19-krotnie zostawał mistrzem Anglii, 7-krotnie zdobywał Puchar Anglii oraz 8-krotnie Puchar Ligi Angielskiej. Ponadto 6-krotnie wygrywał rozgrywki Pucharu Europy lub Ligi Mistrzów, co jest najlepszym osiągnięciem wśród wszystkich angielskich klubów. Pod względem liczby triumfów w Pucharze Europy lub Lidze Mistrzów ustępuje jedynie hiszpańskiemu Realowi Madryt (13 zwycięstw) i włoskiemu Milanowi (7 zwycięstw).
+
+Liverpool F.C. został założony w 1892. Od 1900 do 1947, pięć razy zostawał mistrzem Anglii. Pod koniec lat 50., przez kilka sezonów grał na drugim szczeblu rozgrywek i do czasu zatrudnienia Billa Shankly’ego w 1959, nie awansował do pierwszej ligi. Klub tradycyjnie grał w strojach czerwono-białych, jednak w latach 60. usunięto barwę białą[5].
+
+Pod wodzą Shankly’ego Liverpool trzykrotnie wygrywał rozgrywki ligowe, dwa razy zdobył Puchar Anglii oraz jeden raz Puchar UEFA (było to pierwsze europejskie trofeum wywalczone przez klub). Od 1977 do 1984 roku, czterokrotnie wygrywał Puchar Europy. W latach 90., zespół zanotował spadek formy, jednak w roku 2001, zdobył małą potrójną koronę, zaś cztery lata później wygrał rozgrywki Ligi Mistrzów.
+
+Zamieszki na Heysel otoczyły klub ponurą sławą – 39 kibiców, w tym 32 włoskich fanów Juventusu, czterech Francuzów, dwóch Belgów i kibic z Irlandii Północnej[6] zostało przygniecionych przez ścianę, która zawaliła się z powodu naporu tłumu. Mimo rażących zaniedbań ze strony organizatorów spotkania, całkowitą odpowiedzialnością za tragedię obciążono kibiców drużyny angielskiej[7]. Cztery lata później wydarzyła się inna tragedia. Na stadionie Hillsborough, 96 fanów Liverpoolu zostało przygniecionych przez inne osoby. Z tego powodu do herbu klubu zostały dodane dwa płomienie[8][9]. Obydwie katastrofy miały duże znaczenie zarówno dla angielskiej, jak i europejskiej piłki nożnej, przyczyniając się m.in. do zmian przepisów prawa o imprezach masowych oraz podniesienia standardów bezpieczeństwa organizacji spotkań piłkarskich[10].
+
+Od czasu powstania, Liverpool F.C. rozgrywa swoje mecze domowe na Anfield, choć rozważano przenosiny do sąsiedniego Stanley Park. Pomysł budowy nowego stadionu został jednak zaniechany, gdyż zdecydowano się na rozbudowę dotychczasowego obiektu[11].
+
+Liverpool ma wielu kibiców na całym świecie. Tradycyjnymi rywalami są Manchester United i Everton. Mecze z Evertonem nazywane są derbami Liverpoolu bądź też derbami Merseyside.
+
+Drużyna bywa często, szczególnie w Polsce, mylnie określana jako F.C. Liverpool, podczas gdy pełna nazwa drużyny brzmi Liverpool Football Club, a więc Liverpool F.C.
+
+Liverpool jest klubem o marce globalnej, wycenianym w 2019 r. na 2,183 mld dolarów przez magazyn Forbes, co plasuje go na ósmym miejscu w światowym rankingu klubów piłkarskich[12]. Przychód za sezon 2018-2019 wyniósł 604,7 mln euro, plasując pod tym względem klub na siódmym miejscu na świecie
+	<p>
+	<strong>W lidze od:</strong> 29 lat<br>
+	<strong>Liczba zawodników:</strong> 29<br>
+	<strong>Średnia wieku:</strong> 26,5<br>
+	<strong>Obcokrajowcy:</strong> 20  <em>(69,0 %)</em><br>
+	<strong>Stadion:</strong> Anfield  <em>(54.074 miejsc)</em><br>
+	<strong>Łączna wartość rynkowa:</strong> 1,12 mld € <br></p>
+	<div class="trofea"><h2>Zdobyte Trofea</h2>
+				<ul>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/55.png?lm=1520606999" alt="Trofea" height="70">4X EUROPEAN CUP WINNER</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/12.png?lm=1520606997" alt="Trofea" height="70">19X ENGLISH CHAMPION</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/4.png?lm=1520606999" alt="Trofea" height="70">2X CHAMPIONS LEAGUE WINNER</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/29.png?lm=1520606999" alt="Trofea" height="70">7X FA CUP WINNER</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/47.png?lm=1520606999" alt="Trofea" height="70">8X THE LEAGUE CUP WINNER</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/318.png?lm=1520606999" alt="Trofea" height="70">1X FIFA CLUB WORLD CUP WINNER</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/7.png?lm=1520606999" alt="Trofea" height="70">3X UEFA CUP WINNER</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/354.png?lm=1520606999" alt="Trofea" height="70">4X UEFA SUPERCUP WINNER</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/316.png?lm=1520606999" alt="Trofea" height="70">15X ENGLISH SUPERCUP WINNER</li>
+				</ul>	</div>
+	<div class="transfer"><h2>Obecny Skład</h2></div>
+	<div class="trofea">Trener:Jürgen Klopp
+					<table>
+	<thead>
+		<th>Zawodnik</th>
+		<th>Pozycja</th>
+		<th>Narodowość</th>
+		<th>Wartość Rynkowa</th>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Alisson</td>
+			<td>Bramkarz</td>
+			<td>Brazylia</td>
+			<td>80,00 mln € </td>
+		</tr>
+			<tr>
+			<td>Adrián</td>
+			<td>Bramkarz</td>
+			<td>Hiszpania</td>
+			<td>2,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Virgil van Dijk</td>
+			<td>Środkowy obrońca</td>
+			<td>Holandia, Surinam</td>
+			<td>80,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Joe Gomez</td>
+			<td>Środkowy obrońca</td>
+			<td>Gambia,Anglia</td>
+			<td>40,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Joel Matip</td>
+			<td>Środkowy obrońca</td>
+			<td>Kamerun, Niemcy</td>
+			<td>32,00 mln € </td>
+		</tr>		
+		<tr>
+			<td>Ozan Kabak</td>
+			<td>Środkowy obrońca</td>
+			<td>Turcja</td>
+			<td>25,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Rhys Williams</td>
+			<td>Środkowy obrońca</td>
+			<td>Anglia</td>
+			<td>5,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Andrew Robertson</td>
+			<td>Lewy obrońca</td>
+			<td>Szkocja</td>
+			<td>75,00 mln €</td>
+		</tr>
+
+		<tr>
+			<td>Konstantinos Tsimikas</td>
+			<td>Lewy obrońca</td>
+			<td>Grecja</td>
+			<td>9,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Trent Alexander-Arnold</td>
+			<td>Prawy obrońca</td>
+			<td>Anglia</td>
+			<td>110,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Neco Williams</td>
+			<td>Prawy obrońca</td>
+			<td>Walia</td>
+			<td>10,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Fabinho</td>
+			<td>Defensywny pomocnik</td>
+			<td>Brazylia</td>
+			<td>60,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Thiago</td>
+			<td>Środkowy pomocnik</td>
+			<td>Hiszpania, Brazylia</td>
+			<td>48,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Georginio Wijnaldum</td>
+			<td>Środkowy pomocnik</td>
+			<td>Holandia, Surinam</td>
+			<td>40,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Naby Keïta</td>
+			<td>Środkowy pomocnik</td>
+			<td>Gwinea</td>
+			<td>40,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Jordan Henderson</td>
+			<td>Środkowy pomocnik</td>
+			<td>Anglia</td>
+			<td>28,00 mln € </td>
+		</tr>		
+		<tr>
+			<td>Alex Oxlade-Chamberlain</td>
+			<td>Środkowy pomocnik</td>
+			<td>Anglia</td>
+			<td>24,00 mln € </td>
+		</tr>	
+		<tr>
+			<td>Curtis Jones</td>
+			<td>Środkowy pomocnik</td>
+			<td>Anglia</td>
+			<td>17,00 mln €</td>
+		</tr>
+
+		<tr>
+			<td>James Milner</td>
+			<td>Środkowy pomocnik</td>
+			<td>Anglia</td>
+			<td>5,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Sadio Mané</td>
+			<td>Lewy napastnik</td>
+			<td>Senegal</td>
+			<td>120,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Diogo Jota</td>
+			<td>Lewy napastnik</td>
+			<td>Portugalia</td>
+			<td>40,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Mohamed Salah</td>
+			<td>Prawy napastnik</td>
+			<td>Egipt</td>
+			<td>120,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Xherdan Shaqiri</td>
+			<td>Prawy napastnik</td>
+			<td>Szwajcaria, Kosowo</td>
+			<td>16,00 mln €</td>
+		</tr>
+				<tr>
+			<td>Roberto Firmino</td>
+			<td>Środkowy napastnik</td>
+			<td>Brazylia</td>
+			<td>72,00 mln € </td>
+		</tr>
+				<tr>
+			<td>Divock Origi</td>
+			<td>Środkowy napastnik</td>
+			<td>Belgia, Kenia</td>
+			<td>16,00 mln € </td>
+		</tr>
+	</tbody>
+</table></div>
+	<div class="transfer"><h2>Transfery</h2></div>
+	<div class="trofea"><h3>TOP-nabytki</h3>
+	<table>
+	<thead>
+		<th></th>
+		<th>Zawodnik</th>
+		<th>Sezon</th>
+		<th>Klub oddający</th>
+		<th>Kwota Transferu</th>
+	</thead>
+	<tbody>
+		<tr>
+			<td>1.</td>
+			<td>Virgil van Dijk</td>
+			<td>17/18</td>
+			<td>FC Southampton
+(Premier League)
+</td>
+			<td>84,65 mln €</td>
+		</tr>
+			<tr>			
+			<td>2.</td>
+			<td>Alisson</td>
+			<td>18/19</td>
+			<td>AS Roma
+(Serie A)
+</td>
+
+			<td>62,50 mln €</td>
+		</tr>
+		<tr>
+			<td>3.</td>
+			<td>Naby Keïta</td>
+			<td>18/19</td>
+			<td>RB Leipzig
+(Bundesliga)
+</td>
+			<td>60,00 mln €</td>
+		</tr>
+		<tr>
+			<td>4.</td>
+			<td>Christian Benteke</td>
+			<td>15/16</td>
+			<td>Aston Villa
+(Premier League)
+</td>
+			<td>46,50 mln €</td>
+		</tr>
+		<tr>
+			<td>5.</td>
+			<td>Fabinho</td>
+			<td>18/19</td>
+			<td>Monaco
+Monako (Ligue 1)
+</td>
+			<td>45,00 mln €</td>
+		</tr>
+	</tbody>
+</table></div>
+	<div class="trofea"><h3>TOP-odejścia</h3>
+	<table>
+	<thead>
+		<th></th>
+		<th>Zawodnik</th>
+		<th>Sezon</th>
+		<th>Klub kupujący</th>
+		<th>Kwota Transferu</th>
+	</thead>
+	<tbody>
+		<tr>
+			<td>1.</td>
+			<td>Philippe Coutinho</td>
+			<td>17/18</td>
+			<td>FC Barcelona
+(LaLiga)
+</td>
+			<td>145,00 mln €</td>
+		</tr>
+			<tr>
+			<td>2.</td>
+			<td>Luis Suárez</td>
+			<td>14/15</td>
+			<td>	FC Barcelona
+(LaLiga)</td>
+			<td>81,72 mln €</td>
+		</tr>
+		<tr>
+			<td>3.</td>
+			<td>Raheem Sterling</td>
+			<td>15/16</td>
+			<td>Manchester City
+(Premier League)
+</td>
+			<td>63,70 mln €</td>
+		</tr>
+		<tr>
+			<td>4.</td>
+			<td>Fernando Torres</td>
+			<td>10/11</td>
+			<td>Chelsea FC
+(Premier League)
+</td>
+			<td>58,50 mln €</td>
+		</tr>
+		<tr>
+			<td>5.</td>
+			<td>Xabi Alonso</td>
+			<td>09/10</td>
+			<td>Real Madryt
+(LaLiga)
+</td>
+			<td>34,50 mln €</td>
+		</tr>
+	</tbody>
+</table></div>
+	</body>
+</html>
