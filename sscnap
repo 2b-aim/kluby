@@ -1,0 +1,299 @@
+<html>
+	<head>
+		<meta cherself="utf-8">
+		<title>SSC_Napoli</title>
+	</head>
+	<body>
+	</head>
+	<body>
+	</head>
+	<body>
+	</head>
+	<body>
+		<style>
+		h1{
+			text-align: center;
+		}
+		.trofea{
+		border:10px double rgb(48, 101, 217);
+		width:35%;
+		background-color:rgb(160, 250, 5);
+		}
+		.transfer{
+				border:10px double rgb(48, 101, 217);
+		width:35%;
+		}
+				body{
+		background-color: rgb(19, 240, 63);		
+		}
+		</style>
+	</head>
+	<body>
+	<h1>SSC Napoli</h1>
+	<div style="text-align: center"><img src="https://tmssl.akamaized.net/images/wappen/head/6195.png?lm=1437135876" alt="SSC_Napoli" width="300"></div>
+	<h2>Informacje ogólne</h2>
+	<p>Società Sportiva Calcio Napoli – włoski klub piłkarski z siedzibą w Neapolu, po sześciu latach przerwy powrócił do rozgrywek Serie A w sezonie 2007/2008. Napoli, pomimo problemów finansowych i trwającego od wielu lat kryzysu, znajduje się wśród klubów z największą liczbą fanów we Włoszech, związane jest to także z legendą klubu Diego Maradoną, uważanym za jednego z najlepszych piłkarzy w historii. SSC Napoli zostało założone w sierpniu 2004 pod nazwą Napoli Soccer przez Aurelio de Laurentiisa, znanego producenta filmowego, po bankructwie klubu SSC Napoli. Obecnie kapitanem Napoli jest Lorenzo Insigne.</p>
+	<p>
+	<strong>W lidze od:</strong> 14 lat<br>
+<strong>Liczba zawodników:</strong> 24<br>
+<strong>Średnia wieku:</strong> 27,2<br>
+<strong>Obcokrajowcy:</strong> 18  <em>(75,0 %)</em><br>
+<strong>Stadion:</strong> Stadio Diego Armando Maradona  <em>(54.726 miejsc)</em><br>
+	<strong>Łączna wartość rynkowa:</strong>557,58 mln €<br></p>
+	<div class="trofea"><h2>Zdobyte Trofea</h2>
+				<ul>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/13.png?lm=1520606997" alt="Trofea" height="70">2X ITALIAN CHAMPION</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/96.png?lm=1520606999" alt="Trofea" height="70">6X ITALIAN CUP WINNER (COPPA ITALIA)</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/97.png?lm=1520606999" alt="Trofea" height="70">2X ITALIAN SUPERCUP WINNER (SUPERCOPPA)</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/7.png?lm=1520606999" alt="Trofea" height="70">1X UEFA CUP WINNER</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/436.png?lm=1461847499" alt="Trofea" height="70">1X ITALIENISCHER ZWEITLIGAMEISTER</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/439.png?lm=1511174438" alt="Trofea" height="70">1X ITALIAN LEGA PRO CHAMPION (B)</li>
+				</ul>	</div>
+	<div class="transfer"><h2>Obecny Skład</h2></div>
+	<div class="trofea">Trener:Antonio Conte
+					<table>
+	<thead>
+		<th>Zawodnik</th>
+		<th>Pozycja</th>
+		<th>Narodowość</th>
+		<th>Wartość Rynkowa</th>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Alex Meret</td>
+			<td>Bramkarz</td>
+			<td>Włochy</td>
+			<td>20,00 mln € </td>
+		</tr>
+			<tr>
+			<td>David Ospina</td>
+			<td>Bramkarz</td>
+			<td>Kolumbia</td>
+			<td>5,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Kalidou Koulibaly</td>
+			<td>Środkowy obrońca</td>
+			<td>Senegal, Francja</td>
+			<td>60,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Konstantinos Manolas</td>
+			<td>Środkowy obrońca</td>
+			<td>Grecja</td>
+			<td>32,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Nikola Maksimovic</td>
+			<td>Środkowy obrońca</td>
+			<td>Serbia</td>
+			<td>15,00 mln € </td>
+		</tr>		
+		<tr>
+			<td>Amir Rrahmani</td>
+			<td>Środkowy obrońca</td>
+			<td>Kosowo, Albania</td>
+			<td>12,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Mário Rui</td>
+			<td>Lewy obrońca</td>
+			<td>Portugalia</td>
+			<td>14,00 mln € </td>
+		</tr>
+				<tr>
+			<td>Faouzi Ghoulam</td>
+			<td>Lewy obrońca</td>
+			<td>Algieria, Francja</td>
+			<td>5,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Giovanni Di Lorenzo</td>
+			<td>Prawy obrońca</td>
+			<td>Włochy</td>
+			<td>22,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Elseid Hysaj</td>
+			<td>Prawy obrońca</td>
+			<td>Albania</td>
+			<td>14,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Tiemoué Bakayoko</td>
+			<td>Defensywny pomocnik</td>
+			<td>Francja, WKS</td>
+			<td>30,00 mln €  </td>
+		</tr>
+		<tr>
+			<td>Diego Demme</td>
+			<td>Defensywny pomocnik</td>
+			<td>Niemcy, Włochy</td>
+			<td>15,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Stanislav Lobotka</td>
+			<td>Defensywny pomocnik</td>
+			<td>Słowacja</td>
+			<td>14,00 mln €  </td>
+		</tr>
+		<tr>
+			<td>Fabián Ruiz</td>
+			<td>Środkowy pomocnik</td>
+			<td>Hiszpania</td>
+			<td>48,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Piotr Zielinski</td>
+			<td>Środkowy pomocnik</td>
+			<td>Polska</td>
+			<td>40,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Eljif Elmas</td>
+			<td>Ofensywny pomocnik
+</td>
+			<td>Macedonia</td>
+			<td>18,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Lorenzo Insigne</td>
+			<td>Lewy napastnik</td>
+			<td>Włochy</td>
+			<td>48,00 mln € </td>
+		</tr>
+				<tr>
+			<td>Lorenzo Insigne</td>
+			<td>Lewy napastnik</td>
+			<td>Włochy</td>
+			<td>48,00 mln € </td>
+		</tr>		<tr>
+			<td>Hirving Lozano</td>
+			<td>Prawy napastnik</td>
+			<td>Meksyk</td>
+			<td>38,00 mln € </td>
+		</tr>		<tr>
+			<td>Matteo Politano</td>
+			<td>Prawy napastnik</td>
+			<td>Włochy</td>
+			<td>25,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Victor Osimhen</td>
+			<td>Środkowy napastnik</td>
+			<td>Nigeria</td>
+			<td>50,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Andrea Petagna</td>
+			<td>Środkowy napastnik</td>
+			<td>Włochy</td>
+			<td>17,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Dries Mertens</td>
+			<td>Środkowy napastnik</td>
+			<td>Belgia</td>
+			<td>15,00 mln €</td>
+		</tr>
+	</tbody>
+</table></div>
+	<div class="transfer"><h2>Transfery</h2></div>
+	<div class="trofea"><h3>TOP-nabytki</h3>
+	<table>
+	<thead>
+		<th></th>
+		<th>Zawodnik</th>
+		<th>Sezon</th>
+		<th>Klub oddający</th>
+		<th>Kwota Transferu</th>
+	</thead>
+	<tbody>
+		<tr>
+			<td>1.</td>
+			<td>Victor Osimhen</td>
+			<td>20/21</td>
+			<td>LOSC Lille(Ligue 1)
+</td>
+			<td>70,00 mln €</td>
+		</tr>
+			<tr>			
+			<td>2.</td>
+			<td>Gonzalo Higuaín</td>
+			<td>13/14</td>
+			<td>Real Madryt(LaLiga)</td>
+			<td>39,00 mln €</td>
+		</tr>
+		<tr>
+			<td>3.</td>
+			<td>Konstantinos Manolas</td>
+			<td>19/20</td>
+			<td>AS Roma(Serie A)</td>
+			<td>36,00 mln €</td>
+		</tr>
+		<tr>
+			<td>4.</td>
+			<td>Hirving Lozano</td>
+			<td>19/20</td>
+			<td>PSV Eindhoven(Eredivisie)</td>
+			<td>35,00 mln €</td>
+		</tr>
+		<tr>
+			<td>5.</td>
+			<td>Arkadiusz Milik</td>
+			<td>16/17</td>
+			<td>Ajax Amsterdam(Eredivisie)</td>
+			<td>32,00 mln €</td>
+		</tr>
+	</tbody>
+</table></div>
+	<div class="trofea"><h3>TOP-odejścia</h3>
+	<table>
+	<thead>
+		<th></th>
+		<th>Zawodnik</th>
+		<th>Sezon</th>
+		<th>Klub kupujący</th>
+		<th>Kwota Transferu</th>
+	</thead>
+	<tbody>
+		<tr>
+			<td>1.</td>
+			<td>Gonzalo Higuaín</td>
+			<td>16/17</td>
+			<td>Juventus FC (Serie A)</td>
+			<td>90,00 mln €</td>
+		</tr>
+			<tr>
+			<td>2.</td>
+			<td>Edinson Cavani</td>
+			<td>13/14</td>
+			<td>Paris SG(Ligue 1)</td>
+			<td>64,50 mln €</td>
+		</tr>
+		<tr>
+			<td>3.</td>
+			<td>Jorginho</td>
+			<td>02/03</td>
+			<td>Chelsea FC(Premier League)</td>
+			<td>57,00 mln €</td>
+		</tr>
+		<tr>
+			<td>4.</td>
+			<td>MEzequiel Lavezzi</td>
+			<td>Włochy	12/13</td>
+			<td>Paris SG(Ligue 1)
+</td>
+			<td>30,00 mln €</td>
+		</tr>
+		<tr>
+			<td>5.</td>
+			<td>Allan</td>
+			<td>20/21</td>
+			<td>FC Everton(Premier League)</td>
+			<td>25,00 mln €</td>
+		</tr>
+	</tbody>
+</table></div>
+	</body>
+</html>
