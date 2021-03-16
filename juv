@@ -1,0 +1,298 @@
+<html>
+	<head>
+		<meta cherself="utf-8">
+		<title>Juventus_FC</title>
+	</head>
+	<body>
+	</head>
+	<body>
+		<style>
+		h1{
+			text-align: center;
+		}
+		.trofea{
+		border:10px double rgb(48, 101, 217);
+		width:35%;
+		background-color:rgb(160, 250, 5);
+		}
+		.transfer{
+				border:10px double rgb(48, 101, 217);
+		width:35%;
+		}
+				body{
+		background-color: rgb(19, 240, 63);		
+		}
+		</style>
+	</head>
+	<body>
+	<h1>Juventus FC</h1>
+	<div style="text-align: center"><img src="https://tmssl.akamaized.net/images/wappen/head/506.png?lm=1594291454" alt="Juventus_FC" width="300"></div>
+	<h2>Informacje ogólne</h2>
+	<p>Juventus Football Club SpA (znany jako Juventus lub Juve) – włoski profesjonalny klub piłkarski założony 1 listopada 1897 roku jako SC Juventus przez grupę uczniów z liceum Massimo d’Azeglio, grający od 1903 roku w biało-czarnych strojach, Zespół ma siedzibę w Turynie. Często jest przez to niepoprawnie nazywany Juventusem Turyn.
+
+Juventus jest najbardziej utytułowanym klubem w kraju – ma na koncie trzydzieści sześć oficjalnych tytułów mistrza kraju, trzynaście Pucharów Włoch i osiem Superpucharów Włoch. W rozgrywkach międzynarodowych zespół zwyciężył dwa razy w Lidze Mistrzów, zdobył jeden Puchar Zdobywców Pucharów, a także trzy Puchary UEFA.
+
+Drużyna swoje domowe spotkania od sezonu 2011/2012 rozgrywa na nowo wybudowanym stadionie (Allianz Stadium) liczącym nieco ponad 41 tys. miejsc siedzących. Od sezonu 2020/2021 trenerem zespołu jest Andrea Pirlo który na tym stanowisku zastąpił Maurizio Sarriego. Funkcję kapitana drużyny pełni Giorgio Chiellini.</p>
+	<p>
+	<strong>W lidze od:</strong> 14 lat<br>
+<strong>Liczba zawodników:</strong> 24<br>
+<strong>Średnia wieku:</strong> 27,7<br>
+<strong>Obcokrajowcy:</strong> 16  <em>(66,7 %)</em><br>
+<strong>Stadion:</strong> Allianz Stadium  <em>(41.507 miejsc)</em><br>
+	<strong>Łączna wartość rynkowa:</strong> 689,60 mln € <br></p>
+	<div class="trofea"><h2>Zdobyte Trofea</h2>
+				<ul>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/55.png?lm=1520606999" alt="Trofea" height="70">1X EUROPEAN CUP WINNER</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/4.png?lm=1520606999" alt="Trofea" height="70">1X CHAMPIONS LEAGUE WINNER</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/13.png?lm=1520606997" alt="Trofea" height="70">36X ITALIAN CHAMPION</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/96.png?lm=1520606999" alt="Trofea" height="70">13X ITALIAN CUP WINNER (COPPA ITALIA)</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/97.png?lm=1520606999" alt="Trofea" height="70">9X ITALIAN SUPERCUP WINNER (SUPERCOPPA)</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/7.png?lm=1520606999" alt="Trofea" height="70">3X UEFA CUP WINNER</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/436.png?lm=1461847499" alt="Trofea" height="70">1X ITALIENISCHER ZWEITLIGAMEISTER</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/1.png?lm=1520606996" alt="Trofea" height="70">2X INTERCONTINENTAL CUP WINNER</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/53.png?lm=1603977500" alt="Trofea" height="70">1X CUP WINNERS CUP WINNER</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/354.png?lm=1520606999" alt="Trofea" height="70">2X UEFA SUPERCUP WINNER</li>
+				</ul>	</div>
+	<div class="transfer"><h2>Obecny Skład</h2></div>
+	<div class="trofea">Trener:Andrea Pirlo
+					<table>
+	<thead>
+		<th>Zawodnik</th>
+		<th>Pozycja</th>
+		<th>Narodowość</th>
+		<th>Wartość Rynkowa</th>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Wojciech Szczesny</td>
+			<td>Bramkarz</td>
+			<td>Polska</td>
+			<td>35,00 mln € </td>
+		</tr>
+			<tr>
+			<td>Gianluigi Buffon</td>
+			<td>Bramkarz</td>
+			<td>Włochy</td>
+			<td>1,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Matthijs de Ligt</td>
+			<td>Środkowy obrońca</td>
+			<td>Holandia</td>
+			<td>75,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Merih Demiral</td>
+			<td>Środkowy obrońca</td>
+			<td>Turcja</td>
+			<td>30,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Leonardo Bonucci</td>
+			<td>Środkowy obrońca</td>
+			<td>Włochy</td>
+			<td>13,00 mln € </td>
+		</tr>		
+		<tr>
+			<td>Giorgio Chiellini</td>
+			<td>Środkowy obrońca</td>
+			<td>Włochy</td>
+			<td>2,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Alex Sandro</td>
+			<td>Lewy obrońca</td>
+			<td>Brazylia</td>
+			<td>28,00 mln € </td>
+		</tr>
+
+		<tr>
+			<td>Gianluca Frabotta</td>
+			<td>Lewy obrońca</td>
+			<td>Włochy</td>
+			<td>2,50 mln € </td>
+		</tr>
+		<tr>
+			<td>Juan Cuadrado</td>
+			<td>Prawy obrońca</td>
+			<td>Kolumbia</td>
+			<td>18,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Danilo</td>
+			<td>Prawy obrońca</td>
+			<td>Brazylia</td>
+			<td>17,00 mln €  </td>
+		</tr>
+		<tr>
+			<td>Arthur</td>
+			<td>Środkowy pomocnik</td>
+			<td>Brazylia</td>
+			<td>50,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Rodrigo Bentancur</td>
+			<td>Środkowy pomocnik</td>
+			<td>Urugwaj</td>
+			<td>46,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Adrien Rabiot</td>
+			<td>Środkowy pomocnik</td>
+			<td>Francja</td>
+			<td>32,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Weston McKennie</td>
+			<td>Środkowy pomocnik</td>
+			<td>USA</td>
+			<td>25,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Aaron Ramsey</td>
+			<td>Środkowy pomocnik</td>
+			<td>Walia</td>
+			<td>20,00 mln € </td>
+		</tr>	
+		<tr>
+			<td>Cristiano Ronaldo</td>
+			<td>Lewy napastnik</td>
+			<td>Portugalia</td>
+			<td>60,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Federico Chiesa</td>
+			<td>Prawy napastnik</td>
+			<td>Włochy</td>
+			<td>48,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Dejan Kulusevski</td>
+			<td>Prawy napastnik</td>
+			<td>Szwecja, Macedonia Północna</td>
+			<td>45,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Federico Bernardeschi</td>
+			<td>Prawy napastnik</td>
+			<td>Włochy</td>
+			<td>20,00 mln €</td>
+		</tr>
+				<tr>
+			<td>Paulo Dybala</td>
+			<td>Cofnięty napastnik</td>
+			<td>Argentyna, Włochy</td>
+			<td>70,00 mln € </td>
+		</tr>
+				<tr>
+			<td>	Álvaro Morata</td>
+			<td>Środkowy napastnik</td>
+			<td>Hiszpania</td>
+			<td>50,00 mln € </td>
+		</tr>
+	</tbody>
+</table></div>
+	<div class="transfer"><h2>Transfery</h2></div>
+	<div class="trofea"><h3>TOP-nabytki</h3>
+	<table>
+	<thead>
+		<th></th>
+		<th>Zawodnik</th>
+		<th>Sezon</th>
+		<th>Klub oddający</th>
+		<th>Kwota Transferu</th>
+	</thead>
+	<tbody>
+		<tr>
+			<td>1.</td>
+			<td>Cristiano Ronaldo</td>
+			<td>18/19</td>
+			<td>Real Madryt (LaLiga)</td>
+			<td>117,00 mln €</td>
+		</tr>
+			<tr>			
+			<td>2.</td>
+			<td>Gonzalo Higuaín</td>
+			<td>16/17</td>
+			<td>SSC Napoli (Serie A)
+
+</td>
+			<td>90,00 mln €</td>
+		</tr>
+		<tr>
+			<td>3.</td>
+			<td>Matthijs de Ligt</td>
+			<td>19/20</td>
+			<td>Ajax (Eredivisie)
+</td>
+			<td>85,50 mln €</td>
+		</tr>
+		<tr>
+			<td>4.</td>
+			<td>Arthur</td>
+			<td>20/21</td>
+			<td>FC Barcelona (LaLiga)
+</td>
+			<td>72,00 mln €</td>
+		</tr>
+		<tr>
+			<td>5.</td>
+			<td>Gianluigi Buffon</td>
+			<td>01/02</td>
+			<td>AC Parma(Serie A)
+</td>
+			<td>52,88 mln €</td>
+		</tr>
+	</tbody>
+</table></div>
+	<div class="trofea"><h3>TOP-odejścia</h3>
+	<table>
+	<thead>
+		<th></th>
+		<th>Zawodnik</th>
+		<th>Sezon</th>
+		<th>Klub kupujący</th>
+		<th>Kwota Transferu</th>
+	</thead>
+	<tbody>
+		<tr>
+			<td>1.</td>
+			<td>Paul Pogba</td>
+			<td>16/17</td>
+			<td>Manchester United (Premier League)
+</td>
+			<td>105,00 mln €</td>
+		</tr>
+			<tr>
+			<td>2.</td>
+			<td>Zinédine Zidane</td>
+			<td>01/02</td>
+			<td>Real Madryt (LaLiga)</td>
+			<td>77,50 mln €</td>
+		</tr>
+		<tr>
+			<td>3.</td>
+			<td>João Cancelo</td>
+			<td>19/20</td>
+			<td>Manchester City (Premier League)</td>
+			<td>65,00 mln €</td>
+		</tr>
+		<tr>
+			<td>4.</td>
+			<td>Miralem Pjanić</td>
+			<td>20/21</td>
+			<td>FC Barcelona (LaLiga)
+</td>
+			<td>60,00 mln €</td>
+		</tr>
+		<tr>
+			<td>5.</td>
+			<td>Leonardo Bonucci</td>
+			<td>17/18</td>
+			<td>AC Milan (Serie A)</td>
+			<td>42,00 mln €</td>
+		</tr>
+	</tbody>
+</table></div>
+	</body>
+</html>
