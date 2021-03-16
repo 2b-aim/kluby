@@ -1,0 +1,284 @@
+<html>
+	<head>
+		<meta cherself="utf-8">
+		<title>AS_Roma</title>
+	<body>
+		<style>
+		h1{
+			text-align: center;
+		}
+		.trofea{
+		border:10px double rgb(48, 101, 217);
+		width:35%;
+		background-color:rgb(160, 250, 5);
+		}
+		.transfer{
+				border:10px double rgb(48, 101, 217);
+		width:35%;
+		}
+				body{
+		background-color: rgb(19, 240, 63);		
+		}
+		</style>
+	</head>
+	<body>
+	<h1>AS Roma</h1>
+	<div style="text-align: center"><img src="https://tmssl.akamaized.net/images/wappen/head/12.png?lm=1533302889" alt="AS_Roma" width="300"></div>
+	<h2>Informacje ogólne</h2>
+	<p>Associazione Sportiva Roma – włoski klub piłkarski ze stolicy kraju, Rzymu, obecnie występujący w rozgrywkach Serie A. Założony w 1927 roku, od tego czasu niemal nieprzerwanie występuje w pierwszej lidze Włoch, a sezon 2018/2019 był 67. z rzędu w najwyższej klasie rozgrywkowej. W swojej historii AS Roma trzykrotnie zdobywała mistrzostwa Włoch, dziewięciokrotnie Puchar Włoch, a także jeden raz Puchar Miast Targowych. Jeden raz klub ten wystąpił w finale Pucharu Europy. Domowe mecze rozgrywane są na mogącym pomieścić ponad 82 tysiące widzów stadionie Stadio Olimpico.
+
+Kibice we Włoszech mogą pasjonować się rywalizacją Romy z lokalnym rywalem S.S. Lazio. Obok derbów Turynu i derbów Mediolanu derby Rzymu należą do tych najdłużej rozgrywanych w Italii.</p>
+	<p>
+		<strong>W lidze od:</strong> 69 lat<br>
+<strong>Liczba zawodników:</strong> 29<br>
+<strong>Średnia wieku:</strong> 27,5<br>
+<strong>Obcokrajowcy:</strong> 19  <em>(65,5 %)</em><br>
+<strong>Stadion:</strong> Olimpico di Roma  <em>(73.261 miejsc)</em><br>
+	<strong>Łączna wartość rynkowa:</strong>370,35 mln €<br></p>
+	<div class="trofea"><h2>Zdobyte Trofea</h2>
+				<ul>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/13.png?lm=1520606997" alt="Trofea" height="70">3X ITALIAN CHAMPION</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/96.png?lm=1520606999" alt="Trofea" height="70">9X ITALIAN CUP WINNER (COPPA ITALIA)</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/97.png?lm=1520606999" alt="Trofea" height="70">2X ITALIAN SUPERCUP WINNER (SUPERCOPPA)</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/436.png?lm=1461847499" alt="Trofea" height="70">1X ITALIENISCHER ZWEITLIGAMEISTER</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/49.png?lm=1520606999" alt="Trofea" height="70">1X MESSE CUP WINNER</li>
+				</ul>	</div>
+	<div class="transfer"><h2>Obecny Skład</h2></div>
+	<div class="trofea">Trener:Paulo Fonseca
+					<table>
+	<thead>
+		<th>Zawodnik</th>
+		<th>Pozycja</th>
+		<th>Narodowość</th>
+		<th>Wartość Rynkowa</th>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Pau López</td>
+			<td>Bramkarz</td>
+			<td>Hiszpania</td>
+			<td>10,00 mln € </td>
+		</tr>
+			<tr>
+			<td>Antonio Mirante</td>
+			<td>Bramkarz</td>
+			<td>Włochy</td>
+			<td>1,50 mln €</td>
+		</tr>
+		<tr>
+			<td>Marash Kumbulla</td>
+			<td>Środkowy obrońca</td>
+			<td>Albania, Włochy</td>
+			<td>27,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Gianluca Mancini</td>
+			<td>Środkowy obrońca</td>
+			<td>Włochy</td>
+			<td>25,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Roger Ibañez</td>
+			<td>Środkowy obrońca</td>
+			<td>Brazylia, Urugwaj</td>
+			<td>20,00 mln € </td>
+		</tr>		
+		<tr>
+			<td>Chris Smalling</td>
+			<td>Środkowy obrońca</td>
+			<td>Anglia</td>
+			<td>17,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Leonardo Spinazzola</td>
+			<td>Lewy obrońca</td>
+			<td>Włochy</td>
+			<td>23,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Rick Karsdorp</td>
+			<td>Prawy obrońca</td>
+			<td>Holandia</td>
+			<td>6,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Bryan Reynolds</td>
+			<td>Prawy obrońca</td>
+			<td>USA</td>
+			<td>6,00 mln €  </td>
+		</tr>
+		<tr>
+			<td>Amadou Diawara</td>
+			<td>Defensywny pomocnik</td>
+			<td>Gwinea</td>
+			<td>18,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Lorenzo Pellegrini</td>
+			<td>Środkowy pomocnik</td>
+			<td>Włochy</td>
+			<td>37,00 mln €</td>
+		</tr>
+		<tr>				
+		<tr>
+			<td>Jordan Veretout</td>
+			<td>Środkowy pomocnik</td>
+			<td>Francja</td>
+			<td>30,00 mln €</td>
+		</tr>
+			<td>Bryan Cristante</td>
+			<td>Środkowy pomocnik</td>
+			<td>Włochy, Kanada</td>
+			<td>18,00 mln €</td>
+		</tr>
+				<tr>
+			<td>Gonzalo Villar</td>
+			<td>Środkowy pomocnik</td>
+			<td>Hiszpania</td>
+			<td>10,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Nicolò Zaniolo</td>
+			<td>Ofensywny pomocnik</td>
+			<td>Włochy</td>
+			<td>45,00 mln €</td>
+		</tr>	
+				<tr>
+			<td>Henrikh Mkhitaryan</td>
+			<td>Ofensywny pomocnik</td>
+			<td>Armenia</td>
+			<td>20,00 mln €  </td>
+		</tr>	
+		<tr>
+			<td>Stephan El Shaarawy</td>
+			<td>Lewy napastnik</td>
+			<td>Włochy</td>
+			<td>8,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Carles Pérez</td>
+			<td>Prawy napastnik</td>
+			<td>Hiszpania</td>
+			<td>9,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Pedro</td>
+			<td>Prawy napastnik</td>
+			<td>Hiszpania</td>
+			<td>7,50 mln €</td>
+		</tr>
+				<tr>
+			<td>Borja Mayoral</td>
+			<td>Środkowy napastnik</td>
+			<td>Hiszpania</td>
+			<td>10,00 mln € </td>
+		</tr>
+				<tr>
+			<td>Edin Dzeko</td>
+			<td>Środkowy napastnik</td>
+			<td>Bośnia i Hercegowina</td>
+			<td>8,00 mln € </td>
+		</tr>
+	</tbody>
+</table></div>
+	<div class="transfer"><h2>Transfery</h2></div>
+	<div class="trofea"><h3>TOP-nabytki</h3>
+	<table>
+	<thead>
+		<th></th>
+		<th>Zawodnik</th>
+		<th>Sezon</th>
+		<th>Klub oddający</th>
+		<th>Kwota Transferu</th>
+	</thead>
+	<tbody>
+		<tr>
+			<td>1.</td>
+			<td>Patrik Schick</td>
+			<td>18/19</td>
+			<td>UC Sampdoria(Serie A)</td>
+			<td>42,00 mln €</td>
+		</tr>
+			<tr>			
+			<td>2.</td>
+			<td>Gabriel Batistuta</td>
+			<td>00/01</td>
+			<td>AC Fiorentina(Serie A)
+
+</td>
+			<td>36,15 mln €</td>
+		</tr>
+		<tr>
+			<td>3.</td>
+			<td>Antonio Cassano</td>
+			<td>01/02</td>
+			<td>SSC Bari(Série B)
+</td>
+			<td>31,00 mln €</td>
+		</tr>
+		<tr>
+			<td>4.</td>
+			<td>Leonardo Spinazzola</td>
+			<td>19/20</td>
+			<td>Juventus FC(Serie A)</td>
+			<td>29,50 mln €</td>
+		</tr>
+		<tr>
+			<td>5.</td>
+			<td>Steven Nzonzi</td>
+			<td>18/19</td>
+			<td>Sevilla FC(LaLiga)</td>
+			<td>26,65 mln €</td>
+		</tr>
+	</tbody>
+</table></div>
+	<div class="trofea"><h3>TOP-odejścia</h3>
+	<table>
+	<thead>
+		<th></th>
+		<th>Zawodnik</th>
+		<th>Sezon</th>
+		<th>Klub kupujący</th>
+		<th>Kwota Transferu</th>
+	</thead>
+	<tbody>
+		<tr>
+			<td>1.</td>
+			<td>Alisson</td>
+			<td>18/19</td>
+			<td>FC Liverpool(Premier League)
+</td>
+			<td>62,50 mln €</td>
+		</tr>
+			<tr>
+			<td>2.</td>
+			<td>Mohamed Salah</td>
+			<td>06/07</td>
+			<td>FC Liverpool(Premier League)</td>
+			<td>42,00 mln €</td>
+		</tr>
+		<tr>
+			<td>3.</td>
+			<td>Radja Nainggolan</td>
+			<td>18/19</td>
+			<td>Inter Mediolan(Serie A)</td>
+			<td>38,00 mln €</td>
+		</tr>
+		<tr>
+			<td>4.</td>
+			<td>Konstantinos Manolas</td>
+			<td>19/20</td>
+			<td>SSC Napoli(Serie A)</td>
+			<td>36,00 mln €</td>
+		</tr>
+		<tr>
+			<td>5.</td>
+			<td>Antonio Rüdiger</td>
+			<td>17/18</td>
+			<td>Chelsea FC(Premier League)</td>
+			<td>35,00 mln €</td>
+		</tr>
+	</tbody>
+</table></div>
+	</body>
+</html>
