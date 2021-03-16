@@ -1,0 +1,288 @@
+<html>
+	<head>
+		<meta cherself="utf-8">
+		<title>Stade_Rennais_FC</title>
+	</head>
+	<body>
+		<style>
+		h1{
+			text-align: center;
+		}
+		.trofea{
+		border:10px double rgb(250, 5, 5);
+		width:35%;
+		background-color:white;
+		}
+		.transfer{
+				border:10px double rgb(48, 101, 217);
+		width:35%;
+		}
+				body{
+		background-color: rgb(250, 234, 60);		
+		color: rgb(5, 25, 250);
+		}
+		</style>
+	</head>
+	<body>
+	<h1>Stade Rennais FC</h1>
+	<div style="text-align: center"><img src="https://tmssl.akamaized.net/images/wappen/head/273.png?lm=1408779098" alt="Stade_Rennais_FC" width="300"></div>
+	<h2>Informacje ogólne</h2>
+	<p>Stade Rennais Football Club – francuski klub piłkarski z siedzibą w Rennes, od sezonu 2009/10 występujący w rozgrywkach Ligue 1. Klub ten został założony w 1901 roku jako Stade Rennais Université Club, a obecna nazwa zespołu obowiązuje od 1971 roku. Najlepsze miejsce, jakie udało się uzyskać Rennes w rozgrywkach ligi francuskiej to czwarta lokata w sezonie 2004/05.</p>
+	<p>
+<strong>W lidze od:</strong> 27 lat<br>
+<strong>Liczba zawodników: </strong>25<br>
+<strong>Średnia wieku:</strong> 25,6<br>
+<strong>Obcokrajowcy:</strong> 6  <em>(24,0 %)</em><br>
+<strong>Stadion:</strong> Roazhon Park  <em>(29.778 miejsc)</em><br>
+	<strong>Łączna wartość rynkowa:</strong>232,40 mln €<br></p>
+	<div class="trofea"><h2>Zdobyte Trofea</h2>
+				<ul>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/35.png?lm=1520606999" alt="Trofea" height="70">3X FRENCH CUP WINNER (COUPE DE FRANCE)</li>								
+				</ul>	</div>
+	<div class="transfer"><h2>Obecny Skład</h2></div>
+	<div class="trofea">Trener:Bruno Génésio
+					<table>
+	<thead>
+		<th>Zawodnik</th>
+		<th>Pozycja</th>
+		<th>Narodowość</th>
+		<th>Wartość Rynkowa</th>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Alfred Gomis</td>
+			<td>Bramkarz</td>
+			<td>Senegal, Włochy</td>
+			<td>9,00 mln € /td>
+		</tr>
+			<tr>
+			<td>Romain Salin</td>
+			<td>Bramkarz</td>
+			<td>Francja</td>
+			<td>500 tys. € </td>
+		</tr>
+		<tr>
+			<td>Nayef Aguerd</td>
+			<td>Środkowy obrońca</td>
+			<td>Maroko</td>
+			<td>8,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Damien Da Silva</td>
+			<td>Środkowy obrońca</td>
+			<td>Francja, Portugalia</td>
+			<td>4,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Gerzino Nyamsi</td>
+			<td>Środkowy obrońca</td>
+			<td>Francja, Kamerun</td>
+			<td>3,00 mln € </td>
+		</tr>		
+		<tr>
+			<td>Faitout Maouassa</td>
+			<td>Lewy obrońca</td>
+			<td>Francja, Kongo</td>
+			<td>13,00 mln €</td>
+		</tr>
+			<tr>
+			<td>Adrien Truffert</td>
+			<td>Lewy obrońca</td>
+			<td>Francja, Belgia</td>
+			<td>8,00 mln € </td>
+		</tr>
+			<tr>
+			<td>Dalbert</td>
+			<td>Lewy obrońca</td>
+			<td>Brazylia</td>
+			<td>6,00 mln €</td>
+		</tr>		
+		<tr>
+			<td>Hamari Traoré</td>
+			<td>Prawy obrońca</td>
+			<td>Mali</td>
+			<td>8,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Brandon Soppy</td>
+			<td>Prawy obrońca</td>
+			<td>Francja, WKS</td>
+			<td>7,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Steven Nzonzi</td>
+			<td>Defensywny pomocnik</td>
+			<td>Francja, DRK</td>
+			<td>10,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Eduardo Camavinga</td>
+			<td>Środkowy pomocnik</td>
+			<td>Francja, Kongo</td>
+			<td>60,00 mln €</td>
+		</tr>
+		<tr>				
+		<tr>
+			<td>Benjamin Bourigeaud</td>
+			<td>Środkowy pomocnik</td>
+			<td>Francja</td>
+			<td>15,00 mln €</td>
+		</tr>
+			<td>James Léa Siliki</td>
+			<td>Środkowy pomocnik</td>
+			<td>Francja, Kamerun</td>
+			<td>6,50 mln €</td>
+		</tr>
+				</tr>
+			<td>Clément Grenier</td>
+			<td>Środkowy pomocnik</td>
+			<td>Francja</td>
+			<td>4,20 mln €</td>
+		</tr>
+				</tr>
+			<td>Jonas Martin</td>
+			<td>Środkowy pomocnik</td>
+			<td>Francja</td>
+			<td>3,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Martin Terrier</td>
+			<td>Lewy napastnik</td>
+			<td>Francja</td>
+			<td>12,00 mln €</td>
+		</tr>
+				<tr>
+			<td>Yann Gboho</td>
+			<td>Lewy napastnik</td>
+			<td>Francja, WKS</td>
+			<td>5,00 mln €</td>
+		</tr>
+						<tr>
+			<td>Flavien Tait</td>
+			<td>Lewy napastnik</td>
+			<td>Francja</td>
+			<td>4,50 mln €</td>
+		</tr>
+		<tr>
+			<td>Jérémy Doku</td>
+			<td>Prawy napastnik</td>
+			<td>Belgia, Ghana</td>
+			<td>20,00 mln € </td>
+		</tr>
+				<tr>
+			<td>Romain Del Castillo</td>
+			<td>Prawy napastnik</td>
+			<td>Francja, Hiszpania</td>
+			<td>6,00 mln €</td>
+		</tr>
+				<tr>
+			<td>Serhou Guirassy</td>
+			<td>Środkowy napastnik</td>
+			<td>Francja, WKS</td>
+			<td>13,00 mln €</td>
+		</tr>
+						<tr>
+			<td>Adrien Hunou</td>
+			<td>Środkowy napastnik</td>
+			<td>Francja, Polska</td>
+			<td>6,00 mln € </td>
+		</tr>
+	</tbody>
+</table></div>
+	<div class="transfer"><h2>Transfery</h2></div>
+	<div class="trofea"><h3>TOP-nabytki</h3>
+	<table>
+	<thead>
+		<th></th>
+		<th>Zawodnik</th>
+		<th>Sezon</th>
+		<th>Klub oddający</th>
+		<th>Kwota Transferu</th>
+	</thead>
+	<tbody>
+		<tr>
+			<td>1.</td>
+			<td>Jérémy Doku</td>
+			<td>20/21</td>
+			<td>RSC Anderlecht(Jupiler Pro League)</td>
+			<td>26,00 mln €</td>
+		</tr>
+			<tr>			
+			<td>2.</td>
+			<td>Lucas</td>
+			<td>00/01</td>
+			<td>Club Athletico Paranaense(Série A)</td>
+			<td>21,30 mln €</td>
+		</tr>
+		<tr>
+			<td>3.</td>
+			<td>Raphinha</td>
+			<td>19/20</td>
+			<td>Sporting CP(Liga NOS)</td>
+			<td>21,00 mln €</td>
+		</tr>
+		<tr>
+			<td>4.</td>
+			<td>Ismaïla Sarr</td>
+			<td>17/18</td>
+			<td>FC Metz(Ligue 1)</td>
+			<td>17,00 mln €</td>
+		</tr>
+		<tr>
+			<td>5.</td>
+			<td>M'Baye Niang</td>
+			<td>19/20</td>
+			<td>Torino FC(Serie A)</td>
+			<td>15,00 mln €</td>
+		</tr>
+	</tbody>
+</table></div>
+	<div class="trofea"><h3>TOP-odejścia</h3>
+	<table>
+	<thead>
+		<th></th>
+		<th>Zawodnik</th>
+		<th>Sezon</th>
+		<th>Klub kupujący</th>
+		<th>Kwota Transferu</th>
+	</thead>
+	<tbody>
+		<tr>
+			<td>1.</td>
+			<td>Ismaïla Sarr</td>
+			<td>19/20</td>
+			<td>Watford(Premier League)</td>
+			<td>30,00 mln €</td>
+		</tr>
+			<tr>
+			<td>2.</td>
+			<td>Edouard Mendy</td>
+			<td>20/21</td>
+			<td>Chelsea FC(Premier League)</td>
+			<td>24,00 mln €</td>
+		</tr>
+		<tr>
+			<td>3.</td>
+			<td>Shabani Nonda</td>
+			<td>00/01</td>
+			<td>AS Monaco(Ligue 1)</td>
+			<td>20,00 mln €</td>
+		</tr>
+		<tr>
+			<td>4.</td>
+			<td>Raphinha</td>
+			<td>20/21</td>
+			<td>Leeds United(Premier League)</td>
+			<td>18,58 mln €</td>
+		</tr>
+		<tr>
+			<td>5.</td>
+			<td>Asamoah Gyan</td>
+			<td>10/11</td>
+			<td>AFC Sunderland(Premier League)</td>
+			<td>16,00 mln €</td>
+		</tr>
+	</tbody>
+</table></div>
+	</body>
+</html>
