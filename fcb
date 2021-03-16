@@ -1,0 +1,321 @@
+<html>
+	<head>
+		<meta cherself="utf-8">
+		<title>FC_Barcelona</title>
+	</head>
+	<body>
+
+		<style>
+		h1{
+			text-align: center;
+		}
+		.trofea{
+		border:10px double white;
+		width:35%;
+		background-color:rgb(5, 25, 250);
+		}
+		.transfer{
+				border:10px double rgb(48, 101, 217);
+		width:35%;
+		}
+				body{
+		background-color: rgb(247, 133, 67);		
+		color: white;
+		}
+		</style>
+	</head>
+	<body>
+	<h1>FC Barcelona </h1>
+	<div style="text-align: center"><img src="https://tmssl.akamaized.net/images/wappen/head/131.png?lm=1406739548" alt="FC_Barcelona" width="300"></div>
+	<h2>Informacje ogólne</h2>
+	<p>Futbol Club Barcelona, FC Barcelona, Barça – hiszpański wielosekcyjny klub sportowy, istniejący od chwili założenia drużyny piłkarskiej. Założony w 1899 roku przez grupę Szwajcarów, Anglików i Hiszpanów, z czasem stał się katalońską instytucją o dużym znaczeniu społecznym. Jego dewiza to Més que un club (pol. Więcej niż klub).
+
+Drużyna piłkarska ma na koncie 26 mistrzostw Hiszpanii[3], 30 pucharów Króla Hiszpanii, 13 superpucharów Hiszpanii[4], 5 pucharów Europy, 4 puchary Zdobywców Pucharów[5], 5 superpucharów Europy, 3 klubowe mistrzostwa świata/puchary interkontynentalne i wiele innych trofeów.
+
+Klub ma 144 756 socios[6] – członków klubu – i miliony culés na całym świecie, z których część zrzeszona jest w penyach, czyli oficjalnych fanklubach, których jest 1054[7]. Posiada również rozbudowaną infrastrukturę: stadiony Camp Nou, Estadi Johan Cruyff, miasteczko sportowe Ciutat Esportiva Joan Gamper, szkółkę La Masía oraz halę Palau Blaugrana, w której rozgrywają swoje mecze zawodnicy innych sekcji.
+
+Poza sekcją piłkarską FC Barcelona ma jeszcze sekcje koszykówki, piłki ręcznej, hokeju na rolkach i futsalu. Klub posiada także drugą drużynę piłki nożnej, zespoły młodzieżowe i liczne sekcje amatorskie. Jest jednym z 3 klubów, razem z Realem Madryt i Athletikiem Bilbao, które od założenia Primera División, czyli od 1929 roku, nieprzerwanie grają w najwyższej klasie rozgrywkowej Hiszpanii.</p>
+	<p>
+		<strong>W lidze od:</strong> 82 lat<br>
+<strong>Liczba zawodników:</strong> 28<br>
+<strong>Średnia wieku:</strong> 25,6<br>
+<strong>Obcokrajowcy: </strong>17  <em>(60,7 %)</em><br>
+<strong>Stadion:</strong> Camp Nou  <em>(99.354 miejsc)</em><br>
+	<strong>Łączna wartość rynkowa:</strong>810,00 mln €<br></p>
+	<div class="trofea"><h2>Zdobyte Trofea</h2>
+				<ul>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/55.png?lm=1520606999" alt="Trofea" height="70">1X EUROPEAN CUP WINNER</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/4.png?lm=1520606999" alt="Trofea" height="70">4X CHAMPIONS LEAGUE WINNER</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/11.png?lm=1520606997" alt="Trofea" height="70">26X SPANISH CHAMPION</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/94.png?lm=1520606999" alt="Trofea" height="70">30X SPANISH CUP WINNER (COPA DEL REY)</li>					
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/93.png?lm=1520606999" alt="Trofea" height="70">13X SPANISH SUPER CUP WINNER</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/318.png?lm=1520606999" alt="Trofea" height="70">3X FIFA CLUB WORLD CUP WINNER</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/53.png?lm=1603977500" alt="Trofea" height="70">4X CUP WINNERS CUP WINNER</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/49.png?lm=1520606999" alt="Trofea" height="70">3X MESSE CUP WINNER</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/354.png?lm=1520606999" alt="Trofea" height="70">5X UEFA SUPERCUP WINNER</li>									
+				</ul>	</div>
+	<div class="transfer"><h2>Obecny Skład</h2></div>
+	<div class="trofea">Trener:Ronald Koeman
+					<table>
+	<thead>
+		<th>Zawodnik</th>
+		<th>Pozycja</th>
+		<th>Narodowość</th>
+		<th>Wartość Rynkowa</th>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Marc-André ter Stegen</td>
+			<td>Bramkarz</td>
+			<td>Niemcy</td>
+			<td>75,00 mln € </td>
+		</tr>
+			<tr>
+			<td>Neto</td>
+			<td>Bramkarz</td>
+			<td>Brazylia, Włochy</td>
+			<td>10,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Clément Lenglet</td>
+			<td>Środkowy obrońca</td>
+			<td>Francja</td>
+			<td>40,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Ronald Araújo</td>
+			<td>Środkowy obrońca</td>
+			<td>Urugwaj</td>
+			<td>20,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Gerard Piqué</td>
+			<td>Środkowy obrońca</td>
+			<td>Hiszpania</td>
+			<td>12,00 mln € </td>
+		</tr>		
+		<tr>
+			<td>Samuel Umtiti</td>
+			<td>Środkowy obrońca</td>
+			<td>Francja, Kamerun</td>
+			<td>10,00 mln €</td>
+		</tr>
+				<tr>
+			<td>Óscar Mingueza</td>
+			<td>Środkowy obrońca</td>
+			<td>Hiszpania</td>
+			<td>5,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Jordi Alba</td>
+			<td>Lewy obrońca</td>
+			<td>Hiszpania</td>
+			<td>25,00 mln € </td>
+		</tr>
+			<tr>
+			<td>Júnior Firpo</td>
+			<td>Lewy obrońca</td>
+			<td>Hiszpania, Dominikana</td>
+			<td>10,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Sergiño Dest</td>
+			<td>Prawy obrońca</td>
+			<td>USA, Holandia</td>
+			<td>25,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Sergi Roberto</td>
+			<td>Prawy obrońca</td>
+			<td>Hiszpania</td>
+			<td>25,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Sergio Busquets</td>
+			<td>Defensywny pomocnik</td>
+			<td>Hiszpania</td>
+			<td>10,00 mln € </td>
+		</tr>
+				<tr>
+			<td>Matheus Fernandes</td>
+			<td>Defensywny pomocnik</td>
+			<td>Brazylia</td>
+			<td>2,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Frenkie de Jong</td>
+			<td>Środkowy pomocnik</td>
+			<td>Holandia</td>
+			<td>65,00 mln € </td>
+		</tr>
+		<tr>				
+		<tr>
+			<td>Miralem Pjanić</td>
+			<td>Środkowy pomocnik</td>
+			<td>Bośnia i Hercegowina, Luksemburg</td>
+			<td>40,00 mln €</td>
+		</tr>
+			<td>Riqui Puig</td>
+			<td>Środkowy pomocnik</td>
+			<td>Hiszpania</td>
+			<td>18,00 mln € </td>
+		</tr>
+				</tr>
+			<td>Ilaix Moriba</td>
+			<td>Środkowy pomocnik</td>
+			<td>Hiszpania, Gwinea</td>
+			<td>5,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Philippe Coutinho</td>
+			<td>Ofensywny pomocnik</td>
+			<td>Brazylia, Portugalia</td>
+			<td>50,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Pedri</td>
+			<td>Ofensywny pomocnik</td>
+			<td>Hiszpania</td>
+			<td>50,00 mln €</td>
+		</tr>			
+		<tr>
+			<td>Ansu Fati</td>
+			<td>Lewy napastnik</td>
+			<td>Hiszpania, Gwinea Bissau</td>
+			<td>80,00 mln €</td>
+		</tr>
+				<tr>
+			<td>Konrad de la Fuente</td>
+			<td>Lewy napastnik</td>
+			<td>USA, Hiszpania</td>
+			<td>2,50 mln €</td>
+		</tr>
+		<tr>
+			<td>Lionel Messi</td>
+			<td>Prawy napastnik</td>
+			<td>Argentyna, Hiszpania</td>
+			<td>80,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Ousmane Dembélé</td>
+			<td>Prawy napastnik</td>
+			<td>Francja</td>
+			<td>50,00 mln €</td>
+		</tr>
+				<tr>
+			<td>Trincão</td>
+			<td>Prawy napastnik</td>
+			<td>Portugalia</td>
+			<td>25,00 mln €</td>
+		</tr>
+				<tr>
+			<td>Antoine Griezmann</td>
+			<td>Cofnięty napastnik</td>
+			<td>Francja</td>
+			<td>60,00 mln € </td>
+		</tr>
+				<tr>
+			<td>Martin Braithwaite</td>
+			<td>Środkowy napastnik</td>
+			<td>Dania, Gujana</td>
+			<td>9,00 mln €</td>
+		</tr>
+	</tbody>
+</table></div>
+	<div class="transfer"><h2>Transfery</h2></div>
+	<div class="trofea"><h3>TOP-nabytki</h3>
+	<table>
+	<thead>
+		<th></th>
+		<th>Zawodnik</th>
+		<th>Sezon</th>
+		<th>Klub oddający</th>
+		<th>Kwota Transferu</th>
+	</thead>
+	<tbody>
+		<tr>
+			<td>1.</td>
+			<td>Philippe Coutinho</td>
+			<td>17/18</td>
+			<td>FC Liverpool(Premier League)</td>
+			<td>145,00 mln €</td>
+		</tr>
+			<tr>			
+			<td>2.</td>
+			<td>Ousmane Dembélé</td>
+			<td>17/18</td>
+			<td>Borussia Dortmund(Bundesliga)</td>
+			<td>135,00 mln €</td>
+		</tr>
+		<tr>
+			<td>3.</td>
+			<td>Antoine Griezmann</td>
+			<td>19/20</td>
+			<td>Atlético Madryt(LaLiga)</td>
+			<td>120,00 mln €</td>
+		</tr>
+		<tr>
+			<td>4.</td>
+			<td>Neymar</td>
+			<td>13/14</td>
+			<td>Santos FC(Paulistão A1 - Primeira fase Série A)</td>
+			<td>88,20 mln €</td>
+		</tr>
+		<tr>
+			<td>5.</td>
+			<td>Frenkie de Jong</td>
+			<td>19/20</td>
+			<td>Ajax Amsterdam(Eredivisie)</td>
+			<td>86,00 mln €</td>
+		</tr>
+	</tbody>
+</table></div>
+	<div class="trofea"><h3>TOP-odejścia</h3>
+	<table>
+	<thead>
+		<th></th>
+		<th>Zawodnik</th>
+		<th>Sezon</th>
+		<th>Klub kupujący</th>
+		<th>Kwota Transferu</th>
+	</thead>
+	<tbody>
+		<tr>
+			<td>1.</td>
+			<td>Neymar</td>
+			<td>17/18</td>
+			<td>FC Paris Saint-Germain(Ligue 1)</td>
+			<td>222,00 mln €</td>
+		</tr>
+			<tr>
+			<td>2.</td>
+			<td>Arthur</td>
+			<td>20/21</td>
+			<td>Juventus FC(Serie A)</td>
+			<td>72,00 mln €</td>
+		</tr>
+		<tr>
+			<td>3.</td>
+			<td>Luís Figo</td>
+			<td>00/01</td>
+			<td>Real Madryt(LaLiga)</td>
+			<td>60,00 mln €</td>
+		</tr>
+		<tr>
+			<td>4.</td>
+			<td>Alexis Sánchez</td>
+			<td>14/15</td>
+			<td>FC Arsenal(Premier League)</td>
+			<td>42,50 mln €</td>
+		</tr>
+		<tr>
+			<td>5.</td>
+			<td>Paulinho</td>
+			<td>18/19</td>
+			<td>Guangzhou FC( Super League)</td>
+			<td>42,00 mln €</td>
+		</tr>
+	</tbody>
+</table></div>
+	</body>
+</html>
