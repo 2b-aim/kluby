@@ -1,0 +1,307 @@
+<html>
+	<head>
+		<meta cherself="utf-8">
+		<title>Manchester_United</title>
+		<style>
+		h1{
+			text-align: center;
+			color:rgb(255, 249, 66);
+		}
+		body{
+		background-color: rgb(10, 194, 250);
+		Color:rgb(255, 249, 66);
+		}
+		.trofea{
+		border:10px double rgb(48, 101, 217);
+		width:35%;
+		background-color:rgb(250, 24, 3);
+		}
+		.transfer{
+				border:10px double rgb(48, 101, 217);
+		width:35%;
+		}
+		</style>
+	</head>
+	<body>
+	<h1>	Manchester United</h1>
+	<div style="text-align: center"><img src="https://tmssl.akamaized.net/images/wappen/head/985.png?lm=1457975903" alt="Manchester_United" width="300"></div>
+	<h2>Informacje ogólne</h2>
+	<p>Manchester United Football Club (bryt. wym. [ˌmæntʃɛstə juˈnaɪtɪd]) – angielski klub piłkarski z siedzibą w Stretford, w hrabstwie Greater Manchester. Występuje w Premier League, której był jednym z założycieli w 1992 roku.
+
+Zespół powstał w 1878 roku jako Newton Heath LYR Football Club[1]. W 1902, dziesięć lat po dołączeniu do The Football League i sześć lat przed pierwszym mistrzostwem kraju, był blisko bankructwa i zmienił swoją nazwę na obecną. W 1910 roku Manchester United przeniósł się na Old Trafford, na którym do dziś rozgrywa swoje spotkania (jest trzecim pod względem wielkości stadionem piłkarskim w Wielkiej Brytanii). Klub pod wodzą Matta Busby’ego zdobył Puchar Europy w 1968 roku i było to pierwsze zwycięstwo dla Anglii w tych rozgrywkach. Sukces przypadł dziesięć lat po monachijskiej katastrofie lotniczej, w której śmierć poniosło wielu pasażerów, w tym ośmiu zawodników pierwszej drużyny. 6 listopada 1986 roku trenerem zespołu został Alex Ferguson, który podczas swojej 26-letniej pracy sięgnął po najwięcej sukcesów w historii klubu.
+
+Manchester United dwudziestokrotnie zostawał mistrzem Anglii, zdobył także 12 Pucharów Anglii i pięciokrotnie triumfował w rozgrywkach o Puchar Ligi. Ponadto jest jedną z najbogatszych i najpopularniejszych drużyn na świecie. Największymi rywalami piłkarzy z Old Trafford są: Liverpool, Arsenal, Manchester City oraz Leeds United. W 1991 roku klub znalazł się na London Stock Exchange, a w maju 2005 został kupiony za prawie 800 milionów funtów przez rodzinę Glazerów.
+
+Manchester United jest marką światową ocenianą przez „Forbes” na 3,69 miliarda dolarów, co plasuje go na pierwszym miejscu wśród klubów piłkarskich, przed Barceloną i Realem Madryt[2][3].</p>
+	<p>
+	<strong>W lidze od:</strong> 29 lat<br>
+<strong>Liczba zawodników:</strong> 28<br>
+<strong>Średnia wieku:</strong> 26,3<br>
+<strong>Obcokrajowcy:</strong> 16  <em>(57,1 %)</em><br>
+<strong>Stadion:</strong> Old Trafford  <em>(74.879 miejsc)</em><br>
+	<strong>Łączna wartość rynkowa:</strong> 738,35 mln € <br></p>
+	<div class="trofea"><h2>Zdobyte Trofea</h2>
+				<ul>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/55.png?lm=1520606999" alt="Trofea" height="70">1X EUROPEAN CUP WINNER</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/12.png?lm=1520606997" alt="Trofea" height="70">20X ENGLISH CHAMPION</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/4.png?lm=1520606999" alt="Trofea" height="70">2X CHAMPIONS LEAGUE WINNER</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/29.png?lm=1520606999" alt="Trofea" height="70">12X FA CUP WINNER</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/47.png?lm=1520606999" alt="Trofea" height="70">5X THE LEAGUE CUP WINNER</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/318.png?lm=1520606999" alt="Trofea" height="70">1X FIFA CLUB WORLD CUP WINNER</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/264.png?lm=1520606999" alt="Trofea" height="70">1X EUROPA LEAGUE WINNER</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/53.png?lm=1603977500" alt="Trofea" height="70">1X CUP WINNERS CUP WINNER</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/1.png?lm=1520606996" alt="Trofea" height="70">1X INTERCONTINENTAL CUP WINNER</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/354.png?lm=1520606999" alt="Trofea" height="70">1X UEFA SUPERCUP WINNER</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/316.png?lm=1520606999" alt="Trofea" height="70">21X ENGLISH SUPERCUP WINNER</li>
+				</ul>	</div>
+	<div class="transfer"><h2>Obecny Skład</h2></div>
+	<div class="trofea">Trener:Ole Gunnar Solskjaer
+					<table>
+	<thead>
+		<th>Zawodnik</th>
+		<th>Pozycja</th>
+		<th>Narodowość</th>
+		<th>Wartość Rynkowa</th>
+	</thead>
+	<tbody>
+		<tr>
+			<td>David de Gea</td>
+			<td>Bramkarz</td>
+			<td>Hiszpania</td>
+			<td>25,00 mln € </td>
+		</tr>
+			<tr>
+			<td>Dean Henderson</td>
+			<td>Bramkarz</td>
+			<td>Anglia</td>
+			<td>20,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Harry Maguire</td>
+			<td>Środkowy obrońca</td>
+			<td>Anglia</td>
+			<td>40,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Victor Lindelöf</td>
+			<td>Środkowy obrońca</td>
+			<td>Szwecja</td>
+			<td>24,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Eric Bailly</td>
+			<td>Środkowy obrońca</td>
+			<td>WKS</td>
+			<td>17,50 mln €  </td>
+		</tr>		
+		<tr>
+			<td>Axel Tuanzebe</td>
+			<td>Środkowy obrońca</td>
+			<td>Anglia, DRK</td>
+			<td>8,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Alex Telles</td>
+			<td>Lewy obrońca</td>
+			<td>Brazylia, Włochy</td>
+			<td>35,00 mln €</td>
+		</tr>
+
+		<tr>
+			<td>Luke Shaw</td>
+			<td>Lewy obrońca</td>
+			<td>Anglia</td>
+			<td>22,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Aaron Wan-Bissaka</td>
+			<td>Prawy obrońca</td>
+			<td>Anglia, DRK</td>
+			<td>40,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Nemanja Matic</td>
+			<td>Defensywny pomocnik</td>
+			<td>Serbia, Słowacja</td>
+			<td>12,00 mln €  </td>
+		</tr>
+		<tr>
+			<td>Paul Pogba</td>
+			<td>Środkowy pomocnik</td>
+			<td>Francja</td>
+			<td>65,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Donny van de Beek</td>
+			<td>Środkowy pomocnik</td>
+			<td>Holandia</td>
+			<td>40,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Scott McTominay</td>
+			<td>Środkowy pomocnik</td>
+			<td>Szkocja, Anglia</td>
+			<td>25,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Fred</td>
+			<td>Środkowy pomocnik</td>
+			<td>Brazylia</td>
+			<td>20,00 mln € </td>
+		</tr>		
+		<tr>
+			<td>Bruno Fernandes</td>
+			<td>Ofensywny pomocnik
+</td>
+			<td>Portugalia</td>
+			<td>90,00 mln € </td>
+		</tr>	
+		<tr>
+			<td>	Juan Mata</td>
+			<td>Ofensywny pomocnik
+</td>
+			<td>Anglia</td>
+			<td>7,50 mln € </td>
+		</tr>
+		<tr>
+			<td>Marcus Rashford</td>
+			<td>Lewy napastnik</td>
+			<td>Anglia</td>
+			<td>80,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Daniel James</td>
+			<td>Lewy napastnik</td>
+			<td>Anglia</td>
+			<td>16,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Mason Greenwood</td>
+			<td>Prawy napastnik</td>
+			<td>Anglia</td>
+			<td>50,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Amad Diallo</td>
+			<td>Prawy napastnik</td>
+			<td>WKS, Włochy</td>
+			<td>15,00 mln €</td>
+		</tr>
+				<tr>
+			<td>Anthony Martial</td>
+			<td>Środkowy napastnik</td>
+			<td>Francja, Gwadelupa</td>
+			<td>55,00 mln € </td>
+		</tr>
+				<tr>
+			<td>Edinson Cavani</td>
+			<td>Środkowy napastnik</td>
+			<td>Urugwaj</td>
+			<td>12,00 mln € </td>
+		</tr>
+	</tbody>
+</table></div>
+	<div class="transfer"><h2>Transfery</h2></div>
+	<div class="trofea"><h3>TOP-nabytki</h3>
+	<table>
+	<thead>
+		<th></th>
+		<th>Zawodnik</th>
+		<th>Sezon</th>
+		<th>Klub oddający</th>
+		<th>Kwota Transferu</th>
+	</thead>
+	<tbody>
+		<tr>
+			<td>1.</td>
+			<td>Paul Pogba</td>
+			<td>16/17</td>
+			<td>Juventus FC (Serie A)</td>
+			<td>105,00 mln €</td>
+		</tr>
+			<tr>			
+			<td>2.</td>
+			<td>Harry Maguire</td>
+			<td>19/20</td>
+			<td>Leicester City (Premier League)</td>
+			<td>87,00 mln €</td>
+		</tr>
+		<tr>
+			<td>3.</td>
+			<td>Romelu Lukaku</td>
+			<td>17/18</td>
+			<td>FC Everton (Premier League)
+</td>
+			<td>84,70 mln €</td>
+		</tr>
+		<tr>
+			<td>4.</td>
+			<td>Ángel Di María</td>
+			<td>14/15</td>
+			<td>Real Madryt (LaLiga)
+</td>
+			<td>75,00 mln €</td>
+		</tr>
+		<tr>
+			<td>5.</td>
+			<td>Anthony Martial</td>
+			<td>15/16</td>
+			<td>Monaco
+Monako (Ligue 1)
+</td>
+			<td>60,00 mln €</td>
+		</tr>
+	</tbody>
+</table></div>
+	<div class="trofea"><h3>TOP-odejścia</h3>
+	<table>
+	<thead>
+		<th></th>
+		<th>Zawodnik</th>
+		<th>Sezon</th>
+		<th>Klub kupujący</th>
+		<th>Kwota Transferu</th>
+	</thead>
+	<tbody>
+		<tr>
+			<td>1.</td>
+			<td>Cristiano Ronaldo</td>
+			<td>09/10</td>
+			<td>Real Madryt (LaLiga)
+</td>
+			<td>94,00 mln €</td>
+		</tr>
+			<tr>
+			<td>2.</td>
+			<td>Romelu Lukaku</td>
+			<td>19/20</td>
+			<td>	Inter Mediolan (Serie A)</td>
+			<td>74,00 mln €</td>
+		</tr>
+		<tr>
+			<td>3.</td>
+			<td>Ángel Di María</td>
+			<td>15/16</td>
+			<td>Paris SG (Ligue 1)</td>
+			<td>63,00 mln €</td>
+		</tr>
+		<tr>
+			<td>4.</td>
+			<td>David Beckham</td>
+			<td>03/04</td>
+			<td>Real Madryt (LaLiga)
+</td>
+			<td>37,50 mln €</td>
+		</tr>
+		<tr>
+			<td>5.</td>
+			<td>Henrikh Mkhitaryan</td>
+			<td>17/18</td>
+			<td>FC Arsenal(Premier League)
+</td>
+			<td>34,00 mln €</td>
+		</tr>
+	</tbody>
+</table></div>
+	</body>
+</html>
