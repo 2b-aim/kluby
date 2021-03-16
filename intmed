@@ -1,0 +1,304 @@
+<html>
+	<head>
+		<meta cherself="utf-8">
+		<title>Inter_Mediolan</title>
+	</head>
+	<body>
+	</head>
+	<body>
+	</head>
+	<body>
+		<style>
+		h1{
+			text-align: center;
+		}
+		.trofea{
+		border:10px double rgb(48, 101, 217);
+		width:35%;
+		background-color:rgb(160, 250, 5);
+		}
+		.transfer{
+				border:10px double rgb(48, 101, 217);
+		width:35%;
+		}
+				body{
+		background-color: rgb(19, 240, 63);		
+		}
+		</style>
+	</head>
+	<body>
+	<h1>Inter Mediolan</h1>
+	<div style="text-align: center"><img src="https://tmssl.akamaized.net/images/wappen/head/46.png?lm=1406106969" alt="Inter_Mediolan" width="300"></div>
+	<h2>Informacje ogólne</h2>
+	<p>Inter Mediolan (Football Club Internazionale Milano, Internazionale Milano Football Club, potocznie – Inter, przydomek – Nerazzurri) – włoski klub piłkarski z siedzibą w Mediolanie. Osiemnastokrotny mistrz tego kraju, siedmiokrotny zwycięzca Pucharu Włoch, trzykrotny triumfator Ligi Mistrzów i Pucharu Interkontynentalnego. Pierwotna nazwa klubu brzmiała Football Club Internazionale Milano, co oznaczało, że nowo powstała drużyna będzie otwarta zarówno na piłkarzy innych narodowości, tak jak i na Włochów. Barwy klubu to czarny i niebieski – ta tradycja przetrwała do teraz.</p>
+	<p>
+	<strong>W lidze od:</strong> 75 lat<br>
+<strong>Liczba zawodników:</strong> 25<br>
+<strong>Średnia wieku:</strong> 28,7<br>
+<strong>Obcokrajowcy:</strong> 16  <em>(64,0 %)</em><br>
+<strong>Stadion:</strong> Giuseppe Meazza  <em>(75.923 miejsc)</em><br>
+	<strong>Łączna wartość rynkowa:</strong>607,30 mln €<br></p>
+	<div class="trofea"><h2>Zdobyte Trofea</h2>
+				<ul>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/55.png?lm=1520606999" alt="Trofea" height="70">2X EUROPEAN CUP WINNER</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/4.png?lm=1520606999" alt="Trofea" height="70">1X CHAMPIONS LEAGUE WINNER</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/13.png?lm=1520606997" alt="Trofea" height="70">18X ITALIAN CHAMPION</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/96.png?lm=1520606999" alt="Trofea" height="70">7X ITALIAN CUP WINNER (COPPA ITALIA)</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/97.png?lm=1520606999" alt="Trofea" height="70">5X ITALIAN SUPERCUP WINNER (SUPERCOPPA)</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/318.png?lm=1520606999" alt="Trofea" height="70">1X FIFA CLUB WORLD CUP WINNER</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/7.png?lm=1520606999" alt="Trofea" height="70">3X UEFA CUP WINNER</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/1.png?lm=1520606996" alt="Trofea" height="70">2X INTERCONTINENTAL CUP WINNER</li>
+				</ul>	</div>
+	<div class="transfer"><h2>Obecny Skład</h2></div>
+	<div class="trofea">Trener:Antonio Conte
+					<table>
+	<thead>
+		<th>Zawodnik</th>
+		<th>Pozycja</th>
+		<th>Narodowość</th>
+		<th>Wartość Rynkowa</th>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Ionuț Radu</td>
+			<td>Bramkarz</td>
+			<td>Rumunia</td>
+			<td>7,00 mln € </td>
+		</tr>
+			<tr>
+			<td>Samir Handanovic</td>
+			<td>Bramkarz</td>
+			<td>Słowenia</td>
+			<td>2,50 mln € </td>
+		</tr>
+		<tr>
+			<td>Stefan de Vrij</td>
+			<td>Środkowy obrońca</td>
+			<td>Holandia</td>
+			<td>55,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Merih Demiral</td>
+			<td>Środkowy obrońca</td>
+			<td>Turcja</td>
+			<td>30,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Milan Skriniar</td>
+			<td>Środkowy obrońca</td>
+			<td>Słowacja</td>
+			<td>50,00 mln € </td>
+		</tr>		
+		<tr>
+			<td>Alessandro Bastoni</td>
+			<td>Środkowy obrońca</td>
+			<td>Włochy</td>
+			<td>50,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Aleksandar Kolarov</td>
+			<td>Lewy obrońca</td>
+			<td>Serbia</td>
+			<td>2,50 mln € </td>
+		</tr>
+		<tr>
+			<td>Danilo D'Ambrosio</td>
+			<td>Prawy obrońca</td>
+			<td>Włochy</td>
+			<td>8,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Matteo Darmian</td>
+			<td>Prawy obrońca</td>
+			<td>Włochy</td>
+			<td>7,00 mln €  </td>
+		</tr>
+		<tr>
+			<td>Marcelo Brozovic</td>
+			<td>Defensywny pomocnik</td>
+			<td>Chorwacja</td>
+			<td>36,00 mln €  </td>
+		</tr>
+		<tr>
+			<td>Nicolò Barella</td>
+			<td>Środkowy pomocnik</td>
+			<td>Włochy</td>
+			<td>55,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Stefano Sensi</td>
+			<td>Środkowy pomocnik</td>
+			<td>Włochy</td>
+			<td>18,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Roberto Gagliardini</td>
+			<td>Środkowy pomocnik</td>
+			<td>Włochy</td>
+			<td>15,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Matías Vecino</td>
+			<td>Środkowy pomocnik</td>
+			<td>Urugwaj, Włochy</td>
+			<td>12,00 mln € </td>
+		</tr>	
+		<tr>
+			<td>Arturo Vidal</td>
+			<td>Środkowy pomocnik</td>
+			<td>Chile</td>
+			<td>8,00 mln € </td>
+		</tr>	
+				<tr>
+			<td>Achraf Hakimi</td>
+			<td>Prawy pomocnik
+</td>
+			<td>Maroko, Hiszpania</td>
+			<td>50,00 mln €</td>
+		</tr>		
+		<tr>
+			<td>Ashley Young</td>
+			<td>Lewy pomocnik</td>
+			<td>Anglia, Jamajka</td>
+			<td>2,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Christian Eriksen</td>
+			<td>Ofensywny pomocnik
+</td>
+			<td>Dania</td>
+			<td>35,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Ivan Perisic</td>
+			<td>Lewy napastnik</td>
+			<td>Chorwacja</td>
+			<td>35,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Romelu Lukaku</td>
+			<td>Środkowy napastnik</td>
+			<td>Belgia, DRK</td>
+			<td>90,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Lautaro Martínez</td>
+			<td>Środkowy napastnik</td>
+			<td>Argentyna</td>
+			<td>70,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Andrea Pinamonti</td>
+			<td>Środkowy napastnik</td>
+			<td>Włochy</td>
+			<td>12,00 mln €</td>
+		</tr>
+				<tr>
+			<td>Alexis Sánchez</td>
+			<td>Środkowy napastnik</td>
+			<td>Chile</td>
+			<td>10,00 mln € </td>
+		</tr>
+	</tbody>
+</table></div>
+	<div class="transfer"><h2>Transfery</h2></div>
+	<div class="trofea"><h3>TOP-nabytki</h3>
+	<table>
+	<thead>
+		<th></th>
+		<th>Zawodnik</th>
+		<th>Sezon</th>
+		<th>Klub oddający</th>
+		<th>Kwota Transferu</th>
+	</thead>
+	<tbody>
+		<tr>
+			<td>1.</td>
+			<td>Romelu Lukaku</td>
+			<td>19/20</td>
+			<td>Manchester United(Premier League)</td>
+			<td>74,00 mln €</td>
+		</tr>
+			<tr>			
+			<td>2.</td>
+			<td>Christian Vieri</td>
+			<td>99/00</td>
+			<td>Lazio Rzym(Serie A)</td>
+			<td>46,48 mln €</td>
+		</tr>
+		<tr>
+			<td>3.</td>
+			<td>Achraf Hakimi</td>
+			<td>20/21</td>
+			<td>Real Madryt(LaLiga)
+</td>
+			<td>40,00 mln €</td>
+		</tr>
+		<tr>
+			<td>4.</td>
+			<td>João Mário</td>
+			<td>16/17</td>
+			<td>Sporting CP(Liga NOS)
+</td>
+			<td>40,00 mln €</td>
+		</tr>
+		<tr>
+			<td>5.</td>
+			<td>Hernán Crespo</td>
+			<td>02/03</td>
+			<td>Lazio Rzym(Serie A)</td>
+			<td>40,00 mln €</td>
+		</tr>
+	</tbody>
+</table></div>
+	<div class="trofea"><h3>TOP-odejścia</h3>
+	<table>
+	<thead>
+		<th></th>
+		<th>Zawodnik</th>
+		<th>Sezon</th>
+		<th>Klub kupujący</th>
+		<th>Kwota Transferu</th>
+	</thead>
+	<tbody>
+		<tr>
+			<td>1.</td>
+			<td>Zlatan Ibrahimovic</td>
+			<td>09/10</td>
+			<td>FC Barcelona (LaLiga)
+</td>
+			<td>69,50 mln €</td>
+		</tr>
+			<tr>
+			<td>2.</td>
+			<td>Mauro Icardi</td>
+			<td>20/21	</td>
+			<td>Paris SG(Ligue 1)</td>
+			<td>50,00 mln €</td>
+		</tr>
+		<tr>
+			<td>3.</td>
+			<td>Ronaldo</td>
+			<td>02/03</td>
+			<td>Real Madryt (LaLiga)</td>
+			<td>45,00 mln €</td>
+		</tr>
+		<tr>
+			<td>4.</td>
+			<td>Mateo Kovacic</td>
+			<td>15/16</td>
+			<td>Real Madryt (LaLiga)
+</td>
+			<td>38,00 mln €</td>
+		</tr>
+		<tr>
+			<td>5.</td>
+			<td>Mario Balotelli</td>
+			<td>10/11</td>
+			<td>Manchester City(Premier League)</td>
+			<td>29,50 mln €</td>
+		</tr>
+	</tbody>
+</table></div>
+	</body>
+</html>
