@@ -1,0 +1,300 @@
+<html>
+	<head>
+		<meta cherself="utf-8">
+		<title>Borrusia_Dortmund</title>
+	<body>
+		<style>
+		h1{
+			text-align: center;
+		}
+		.trofea{
+		border:10px double white;
+		width:35%;
+		background-color:rgb(5, 25, 250);
+		}
+		.transfer{
+				border:10px double rgb(48, 101, 217);
+		width:35%;
+		}
+		body{
+		background-color: rgb(252, 67, 60);
+		color: white;
+		}
+		</style>
+	</head>
+	<body>
+	<h1>Borussia Dortmund </h1>
+	<div style="text-align: center"><img src="https://tmssl.akamaized.net/images/wappen/head/16.png?lm=1396275280" alt="Borrusia_Dortmund" width="300"></div>
+	<h2>Informacje ogólne</h2>
+	<p>Ballspielverein Borussia 09 Dortmund e.V., Borussia Dortmund – niemiecki klub sportowy z siedzibą w Dortmundzie, w którym główną rolę odgrywa sekcja piłki nożnej[2]. Borussia była jednym z klubów-założycieli Bundesligi i jest jednym z najbardziej utytułowanych w Niemczech – na swoim koncie ma osiem tytułów mistrzowskich, cztery puchary Niemiec, pięć Superpucharów Niemiec, Puchar Zdobywców Pucharów z 1966, a także Ligę Mistrzów z 1997 oraz Puchar Interkontynentalny z tego samego roku. Klub był jednym z założycieli nieistniejącej od 2008 roku grupy G-14 zrzeszającej największe kluby Europy.
+
+Poza sekcją piłkarską klub Borussia Dortmund posiada drużynę piłki ręcznej oraz tenisa stołowego. W listopadzie 1999 drużyny piłkarskie Borussii zostały wydzielone do spółki Borussia Dortmund GmbH & Co. KGaA, która od 2000 jest notowana na frankfurckiej giełdzie papierów wartościowych, a posiadaczami akcji jest około 27 000 osób[3].</p>
+	<p>
+		<strong>W lidze od: </strong>45 lat<br>
+<strong>Liczba zawodników:</strong> 29<br>
+<strong>Średnia wieku:</strong> 25,4<br>
+<strong>Obcokrajowcy:</strong> 16  <em>(55,2 %)</em><br>
+<strong>Stadion:</strong> SIGNAL IDUNA PARK  <em>(81.365 miejsc)</em><br>
+	<strong>Łączna wartość rynkowa:</strong>592,95 mln €<br></p>
+	<div class="trofea"><h2>Zdobyte Trofea</h2>
+				<ul>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/4.png?lm=1520606999" alt="Trofea" height="70">1X CHAMPIONS LEAGUE WINNER</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/10.png?lm=1520606996" alt="Trofea" height="70">8X GERMAN CHAMPION</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/27.png?lm=1520606999" alt="Trofea" height="70">4X GERMAN CUP WINNER (DFB-POKAL)</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/1.png?lm=1520606996" alt="Trofea" height="70">1X INTERCONTINENTAL CUP WINNER</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/53.png?lm=1603977500" alt="Trofea" height="70">1X CUP WINNERS CUP WINNER</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/312.png?lm=1520606999" alt="Trofea" height="70">6X GERMAN SUPER CUP WINNER</li>
+				</ul>	</div>
+	<div class="transfer"><h2>Obecny Skład</h2></div>
+	<div class="trofea">Trener:Edin Terzic
+					<table>
+	<thead>
+		<th>Zawodnik</th>
+		<th>Pozycja</th>
+		<th>Narodowość</th>
+		<th>Wartość Rynkowa</th>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Roman Bürki</td>
+			<td>Bramkarz</td>
+			<td>Szwajcaria</td>
+			<td>7,00 mln € </td>
+		</tr>
+			<tr>
+			<td>Marwin Hitz</td>
+			<td>Bramkarz</td>
+			<td>Szwajcaria</td>
+			<td>1,70 mln € </td>
+		</tr>
+		<tr>
+			<td>Manuel Akanji</td>
+			<td>Środkowy obrońca</td>
+			<td>Szwajcaria, Nigeria</td>
+			<td>25,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Dan-Axel Zagadou</td>
+			<td>Środkowy obrońca</td>
+			<td>Francja, WKS</td>
+			<td>22,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Mats Hummels</td>
+			<td>Środkowy obrońca</td>
+			<td>Niemcy</td>
+			<td>15,00 mln € </td>
+		</tr>		
+		<tr>
+			<td>Raphaël Guerreiro</td>
+			<td>Lewy obrońca</td>
+			<td>Portugalia, Francja</td>
+			<td>35,00 mln € </td>
+		</tr>
+			<tr>
+			<td>Nico Schulz</td>
+			<td>Lewy obrońca</td>
+			<td>Niemcy, Włochy</td>
+			<td>7,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Thomas Meunier</td>
+			<td>Prawy obrońca</td>
+			<td>Belgia</td>
+			<td>18,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Mateu Morey Bauzà</td>
+			<td>Prawy obrońca</td>
+			<td>Hiszpania</td>
+			<td>3,00 mln €</td>
+		</tr>
+				<tr>
+			<td>Łukasz Piszczek</td>
+			<td>Prawy obrońca</td>
+			<td>Polska</td>
+			<td>1,30 mln €</td>
+		</tr>
+		<tr>
+			<td>Emre Can</td>
+			<td>Defensywny pomocnik</td>
+			<td>Niemcy, Turcja</td>
+			<td>26,00 mln €</td>
+		</tr>
+				<tr>
+			<td>Thomas Delaney</td>
+			<td>Defensywny pomocnik</td>
+			<td>Dania, USA</td>
+			<td>17,50 mln €</td>
+		</tr>
+				<tr>
+			<td>Axel Witsel</td>
+			<td>Defensywny pomocnik</td>
+			<td>Belgia, Martynika</td>
+			<td>12,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Jude Bellingham</td>
+			<td>Środkowy pomocnik</td>
+			<td>Anglia</td>
+			<td>35,00 mln € </td>
+		</tr>
+		<tr>				
+		<tr>
+			<td>Mahmoud Dahoud</td>
+			<td>Środkowy pomocnik</td>
+			<td>Niemcy, Syria</td>
+			<td>8,50 mln € </td>
+		</tr>
+			<td>Giovanni Reyna</td>
+			<td>Ofensywny pomocnik</td>
+			<td>USA, Portugalia</td>
+			<td>38,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Julian Brandt</td>
+			<td>Ofensywny pomocnik</td>
+			<td>Niemcy</td>
+			<td>30,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Reinier</td>
+			<td>Ofensywny pomocnik</td>
+			<td>Brazylia</td>
+			<td>18,00 mln € </td>
+		</tr>	
+		<tr>
+			<td>Marco Reus</td>
+			<td>Ofensywny pomocnik</td>
+			<td>Niemcy</td>
+			<td>15,00 mln €</td>
+		</tr>			
+		<tr>
+			<td>Thorgan Hazard</td>
+			<td>Lewy napastnik</td>
+			<td>Belgia</td>
+			<td>32,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Jadon Sancho</td>
+			<td>Prawy napastnik</td>
+			<td>Anglia</td>
+			<td>100,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Ansgar Knauff</td>
+			<td>Prawy napastnik</td>
+			<td>Norwegia</td>
+			<td>800 tys. € </td>
+		</tr>
+		<tr>
+			<td>Erling Haaland</td>
+			<td>Środkowy napastnik</td>
+			<td>Norwegia</td>
+			<td>110,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Youssoufa Moukoko</td>
+			<td>Środkowy napastnik</td>
+			<td>Niemcy, Kamerun</td>
+			<td>10,00 mln €</td>
+		</tr>
+	</tbody>
+</table></div>
+	<div class="transfer"><h2>Transfery</h2></div>
+	<div class="trofea"><h3>TOP-nabytki</h3>
+	<table>
+	<thead>
+		<th></th>
+		<th>Zawodnik</th>
+		<th>Sezon</th>
+		<th>Klub oddający</th>
+		<th>Kwota Transferu</th>
+	</thead>
+	<tbody>
+		<tr>
+			<td>1.</td>
+			<td>Mats Hummels</td>
+			<td>19/20</td>
+			<td>Bayern Monachium(Bundesliga)</td>
+			<td>30,50 mln €</td>
+		</tr>
+			<tr>			
+			<td>2.</td>
+			<td>André Schürrle</td>
+			<td>16/17</td>
+			<td>VfL Wolfsburg(Bundesliga)</td>
+			<td>30,00 mln €</td>
+		</tr>
+		<tr>
+			<td>3.</td>
+			<td>Abdou Diallo</td>
+			<td>18/19</td>
+			<td>1.FSV Mainz 05(Bundesliga)</td>
+			<td>28,00 mln €</td>
+		</tr>
+		<tr>
+			<td>4.</td>
+			<td>Henrikh Mkhitaryan</td>
+			<td>13/14</td>
+			<td>Szachtar Donieck(Premier Liha)</td>
+			<td>27,50 mln €</td>
+		</tr>
+		<tr>
+			<td>5.</td>
+			<td>Thorgan Hazard</td>
+			<td>19/20</td>
+			<td>Borussia Mönchengladbach(Bundesliga)</td>
+			<td>25,50 mln €</td>
+		</tr>
+	</tbody>
+</table></div>
+	<div class="trofea"><h3>TOP-odejścia</h3>
+	<table>
+	<thead>
+		<th></th>
+		<th>Zawodnik</th>
+		<th>Sezon</th>
+		<th>Klub kupujący</th>
+		<th>Kwota Transferu</th>
+	</thead>
+	<tbody>
+		<tr>
+			<td>1.</td>
+			<td>Ousmane Dembélé</td>
+			<td>17/18</td>
+			<td>FC Barcelona(LaLiga)</td>
+			<td>135,00 mln €</td>
+		</tr>
+			<tr>
+			<td>2.</td>
+			<td>Christian Pulisic</td>
+			<td>18/19</td>
+			<td>Chelsea FC(Premier League))</td>
+			<td>64,00 mln €</td>
+		</tr>
+		<tr>
+			<td>3.</td>
+			<td>Pierre-Emerick Aubameyang</td>
+			<td>17/18</td>
+			<td>FC Arsenal(Premier League)</td>
+			<td>63,75 mln €</td>
+		</tr>
+		<tr>
+			<td>4.</td>
+			<td>Henrikh Mkhitaryan</td>
+			<td>16/17</td>
+			<td>Manchester United(Premier League)</td>
+			<td>42,00 mln €</td>
+		</tr>
+		<tr>
+			<td>5.</td>
+			<td>Mario Götze</td>
+			<td>13/14</td>
+			<td>Bayern Monachium(Bundesliga)</td>
+			<td>37,00 mln €</td>
+		</tr>
+	</tbody>
+</table></div>
+	</body>
+</html>
