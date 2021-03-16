@@ -1,0 +1,294 @@
+<html>
+	<head>
+		<meta cherself="utf-8">
+		<title>Chelsea_FC</title>
+				<style>
+		h1{
+			text-align: center;
+			color:rgb(255, 249, 66);
+		}
+		body{
+		background-color: rgb(10, 194, 250);
+		Color:rgb(255, 249, 66);
+		}
+		.trofea{
+		border:10px double rgb(48, 101, 217);
+		width:35%;
+		background-color:rgb(250, 24, 3);
+		}
+		.transfer{
+				border:10px double rgb(48, 101, 217);
+		width:35%;
+		}
+		</style>
+	</head>
+	<body>
+	<h1>Chelsea FC</h1>
+	<div style="text-align: center"><img src="https://tmssl.akamaized.net/images/wappen/head/631.png?lm=1444558831" alt="Chelsea_FC" width="300"></div>
+	<h2>Informacje ogólne</h2>
+	Chelsea Football Club (wym. /ˈtʃɛɫsi:/) – angielski, profesjonalny klub piłkarski mający swoją siedzibę w zachodnim Londynie, w dzielnicy Hammersmith and Fulham. Został założony 10 marca 1905 roku, obecnie gra w Premier League i większość sezonów spędził w najwyższej klasie rozgrywkowej w Anglii. Klub Chelsea F.C. jest sześciokrotnym mistrzem Anglii, osiem razy zdobył Puchar Anglii, pięć razy Puchar Ligi Angielskiej i dwukrotnie zwyciężył w rozgrywkach Ligi Europy UEFA oraz Pucharu Zdobywców Pucharów[1]. Chelsea jest również triumfatorem Ligi Mistrzów UEFA z sezonu 2011/2012.
+
+Pierwszym sukcesem klubu było zdobycie tytułu mistrza Anglii w 1955 roku. Chelsea wygrała kilka rozgrywek w latach 60. i 70., jednak później nie osiągnęła żadnego większego sukcesu do 1997 roku. Ostatnia dekada była najbardziej udaną w historii klubu. Chelsea zdobyła kolejne tytuły Mistrza Anglii w 2005, 2006 oraz w 2010 roku, zaś w 2008 po raz pierwszy dotarła do finału Ligi Mistrzów[2]. Chelsea swoje domowe mecze rozgrywa na stadionie Stamford Bridge mogącym pomieścić 41 837 kibiców[3], znajdującym się w Zachodnim Londynie. Występują na nim od czasu założenia klubu w 1905 roku. W 2003 roku klub został kupiony przez rosyjskiego magnata naftowego Romana Abramowicza[4].
+
+Tradycyjne kolory strojów Chelsea to niebieskie koszulki i spodenki oraz białe getry. Herb klubu był kilkukrotnie modernizowany. Aktualny przedstawia ceremonialnego lwa trzymającego berło i jest zmodernizowaną wersją od tego z lat 50[5]. Średnia frekwencja na Stamford Bridge w sezonie 2016/2017 wynosiła 41 508 widzów, co dało klubowi szóste miejsce w Premier League[6].
+<p>	<strong>W lidze od: </strong>29 lat<br>
+<strong>Liczba zawodników:</strong> 25<br>
+<strong>Średnia wieku: </strong>26,9<br>
+<strong>Obcokrajowcy:</strong> 20  <em>(80,0 %)</em><br>
+<strong>Stadion:</strong> Stamford Bridge  <em>(40.853 miejsc)</em><br>
+<strong>Łączna wartość rynkowa: </strong>803,50 mln €<br>
+		<div class="trofea"<h2>Zdobyte Trofea</h2>
+				<ul>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/12.png?lm=1520606997" alt="Trofea" height="70">6X ENGLISH CHAMPION</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/4.png?lm=1520606999" alt="Trofea" height="70">1X CHAMPIONS LEAGUE WINNER</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/29.png?lm=1520606999" alt="Trofea" height="70">8X FA CUP WINNER</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/47.png?lm=1520606999" alt="Trofea" height="70">5X THE LEAGUE CUP WINNER</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/264.png?lm=1520606999" alt="Trofea" height="70">2X EUROPA LEAGUE WINNER</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/53.png?lm=1603977500" alt="Trofea" height="70">2X CUP WINNERS CUP WINNER</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/354.png?lm=1520606999" alt="Trofea" height="70">1X UEFA SUPERCUP WINNER</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/316.png?lm=1520606999" alt="Trofea" height="70">14X ENGLISH SUPERCUP WINNER</li>
+				</ul>	</div>
+	<div class="transfer"><h2>Obecny Skład</h2></div>
+	<div class="trofea">Trener:Thomas Tuchel
+					<table>
+	<thead>
+		<th>Zawodnik</th>
+		<th>Pozycja</th>
+		<th>Narodowość</th>
+		<th>Wartość Rynkowa</th>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Edouard Mendy</td>
+			<td>Bramkarz</td>
+			<td>Senegal, Gwinea Bissau</td>
+			<td>25,00 mln €</td>
+		</tr>
+			<tr>
+			<td>Kepa</td>
+			<td>Bramkarz</td>
+			<td>Hiszpania</td>
+			<td>15,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Kurt Zouma</td>
+			<td>Środkowy obrońca</td>
+			<td>Francja, Republika Środkowoafrykańska</td>
+			<td>35,00 mln €  </td>
+		</tr>
+		<tr>
+			<td>Antonio Rüdiger</td>
+			<td>Środkowy obrońca</td>
+			<td>Niemcy, Sierra Leone</td>
+			<td>25,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Andreas Christensen</td>
+			<td>Środkowy obrońca</td>
+			<td>Dania</td>
+			<td>24,00 mln €</td>
+		</tr>		
+		<tr>
+			<td>Thiago Silva</td>
+			<td>Środkowy obrońca</td>
+			<td>Brazylia, Francja</td>
+			<td>4,50 mln €</td>
+		</tr>
+		<tr>
+			<td>Ben Chilwell</td>
+			<td>Lewy obrońca</td>
+			<td>Anglia</td>
+			<td>50,00 mln € </td>
+		</tr>
+
+		<tr>
+			<td>Emerson</td>
+			<td>Lewy obrońca</td>
+			<td>Brazylia, Włochy</td>
+			<td>15,00 mln € </td>
+		</tr>
+				<tr>
+			<td>Marcos Alonso</td>
+			<td>Lewy obrońca</td>
+			<td>Hiszpania</td>
+			<td>13,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Reece James</td>
+			<td>Prawy obrońca</td>
+			<td>Anglia</td>
+			<td>35,00 mln € </td>
+		</tr>
+		<tr>
+			<td>César Azpilicueta</td>
+			<td>Prawy obrońca</td>
+			<td>Hiszpania</td>
+			<td>17,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Jorginho</td>
+			<td>Defensywny pomocnik</td>
+			<td>Włochy, Brazylia</td>
+			<td>50,00 mln € </td>
+		</tr>
+		<tr>
+			<td>N'Golo Kanté</td>
+			<td>Środkowy pomocnik</td>
+			<td>Francja, Mali</td>
+			<td>60,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Mateo Kovacic</td>
+			<td>Środkowy pomocnik</td>
+			<td>Chorwacja</td>
+			<td>45,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Kai Havertz</td>
+			<td>Ofensywny pomocnik</td>
+			<td>Niemcy</td>
+			<td>81,00 mln € </td>
+		</tr>		
+		<tr>
+			<td>Mason Mount</td>
+			<td>Ofensywny pomocnik</td>
+			<td>Anglia</td>
+			<td>45,00 mln € </td>
+		</tr>	
+		<tr>
+			<td>Callum Hudson-Odoi
+			<td>Lewy napastnik</td>
+			<td>Anglia, Ghana</td>
+			<td>35,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Christian Pulisic</td>
+			<td>Prawy napastnik</td>
+			<td>USA, Chorwacja</td>
+			<td>60,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Hakim Ziyech</td>
+			<td>Prawy napastnik</td>
+			<td>Maroko, Holandia</td>
+			<td>45,00 mln €</td>
+		</tr>
+				<tr>
+			<td>Timo Werner</td>
+			<td>Środkowy napastnik</td>
+			<td>Niemcy</td>
+			<td>70,00 mln € </td>
+		</tr>
+				<tr>
+			<td>Tammy Abraham</td>
+			<td>Środkowy napastnik</td>
+			<td>Anglia, Nigeria</td>
+			<td>40,00 mln €  </td>
+		</tr>
+						<tr>
+			<td>Olivier Giroud</td>
+			<td>Środkowy napastnik</td>
+			<td>Francja</td>
+			<td>5,00 mln € </td>
+		</tr>
+	</tbody>
+</table></div>
+	<div class="transfer"><h2>Transfery</h2></div>
+	<div class="trofea"><h3>TOP-nabytki</h3>
+	<table>
+	<thead>
+		<th></th>
+		<th>Zawodnik</th>
+		<th>Sezon</th>
+		<th>Klub oddający</th>
+		<th>Kwota Transferu</th>
+	</thead>
+	<tbody>
+		<tr>
+			<td>1.</td>
+			<td>Kai Havertz</td>
+			<td>20/21</td>
+			<td>Bayer Leverkusen (Bundesliga)</td>
+			<td>80,00 mln €</td>
+		</tr>
+			<tr>			
+			<td>2.</td>
+			<td>Kepa</td>
+			<td>18/19</td>
+			<td>Athletic Bilbao (LaLiga)</td>
+			<td>80,00 mln €</td>
+		</tr>
+		<tr>
+			<td>3.</td>
+			<td>Álvaro Morata</td>
+			<td>17/18</td>
+			<td>Real Madryt (LaLiga)</td>
+			<td>66,00 mln €</td>
+		</tr>
+		<tr>
+			<td>4.</td>
+			<td>Christian Pulisic</td>
+			<td>18/19</td>
+			<td>Borussia Dortmund (Bundesliga)
+</td>
+			<td>64,00 mln €</td>
+		</tr>
+		<tr>
+			<td>5.</td>
+			<td>Fernando Torres</td>
+			<td>10/11</td>
+			<td>FC Liverpool (Premier League)</td>
+			<td>58,50 mln €</td>
+		</tr>
+	</tbody>
+</table></div>
+	<div class="trofea"><h3>TOP-odejścia</h3>
+	<table>
+	<thead>
+		<th></th>
+		<th>Zawodnik</th>
+		<th>Sezon</th>
+		<th>Klub kupujący</th>
+		<th>Kwota Transferu</th>
+	</thead>
+	<tbody>
+		<tr>
+			<td>1.</td>
+			<td>Eden Hazard</td>
+			<td>19/20</td>
+			<td>Real Madryt (LaLiga)</td>
+			<td>115,00 mln €</td>
+		</tr>
+			<tr>
+			<td>2.</td>
+			<td>Diego Costa</td>
+			<td>17/18</td>
+			<td>Atlético Madryt (LaLiga)</td>
+			<td>60,00 mln €</td>
+		</tr>
+		<tr>
+			<td>3.</td>
+			<td>Oscar</td>
+			<td>16/17</td>
+			<td>SH SIPG (Super League)</td>
+			<td>60,00 mln €</td>
+		</tr>
+		<tr>
+			<td>4.</td>
+			<td>David Luiz</td>
+			<td>14/15</td>
+			<td>Paris SG (Ligue 1)
+</td>
+			<td>49,50 mln €</td>
+		</tr>
+		<tr>
+			<td>5.</td>
+			<td>Juan Mata</td>
+			<td>13/14</td>
+			<td>Manchester United (Premier League)</td>
+			<td>44,73 mln €</td>
+		</tr>
+	</tbody>
+</table></div>
+	</body>
+</html>
