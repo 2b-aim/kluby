@@ -1,0 +1,311 @@
+<html>
+	<head>
+		<meta cherself="utf-8">
+		<title>FC_Paris_Saint-Germain</title>
+	<body>
+
+		<style>
+		h1{
+			text-align: center;
+		}
+		.trofea{
+		border:10px double rgb(250, 5, 5);
+		width:35%;
+		background-color:white;
+		}
+		.transfer{
+				border:10px double rgb(48, 101, 217);
+		width:35%;
+		}
+				body{
+		background-color: rgb(250, 234, 60);		
+		color: rgb(5, 25, 250);
+		}
+		</style>
+	</head>
+	<body>
+	<h1>FC Paris Saint-Germain </h1>
+	<div style="text-align: center"><img src="https://tmssl.akamaized.net/images/wappen/head/583.png?lm=1522312728" alt="FC_Paris_Saint-Germain" width="300"></div>
+	<h2>Informacje ogólne</h2>
+	<p>Paris Saint-Germain Football Club – francuski klub piłkarski z siedzibą w Paryżu, rozgrywający mecze na stadionie Parc des Princes. Założony został w 1970 roku i aktualnie występuje w rozgrywkach Ligue 1. Drużyna należy do najbardziej utytułowanych w swoim kraju, mając na koncie m.in. dziewięć mistrzostw Francji, dwanaście Pucharów Francji, siedem[1] Superpucharów Francji, osiem Pucharów Ligi Francuskiej oraz Puchar Zdobywców Pucharów i Puchar Intertoto.</p>
+	<p>
+		<strong>W lidze od:</strong> 41 lat<br>
+<strong>Liczba zawodników:</strong> 31<br>
+<strong>Średnia wieku:</strong> 25,8<br>
+<strong>Obcokrajowcy:</strong> 22  <em>(71,0 %)</em><br>
+<strong>Stadion:</strong> Parc des Princes <em> (49.691 miejsc)</em><br>
+	<strong>Łączna wartość rynkowa:</strong>869,80 mln €<br></p>
+	<div class="trofea"><h2>Zdobyte Trofea</h2>
+				<ul>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/14.png?lm=1520606997" alt="Trofea" height="70">9X FRENCH CHAMPION</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/35.png?lm=1520606999" alt="Trofea" height="70">13X FRENCH CUP WINNER (COUPE DE FRANCE)</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/37.png?lm=1520606999" alt="Trofea" height="70">9X FRENCH LEAGUE CUP WINNER</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/53.png?lm=1603977500" alt="Trofea" height="70">4X CUP WINNERS CUP WINNER</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/321.png?lm=1520606999" alt="Trofea" height="70">10X FRENCH SUPERCUP WINNER</li>									
+				</ul>	</div>
+	<div class="transfer"><h2>Obecny Skład</h2></div>
+	<div class="trofea">Trener:Mauricio Pochettino
+					<table>
+	<thead>
+		<th>Zawodnik</th>
+		<th>Pozycja</th>
+		<th>Narodowość</th>
+		<th>Wartość Rynkowa</th>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Keylor Navas</td>
+			<td>Bramkarz</td>
+			<td>Kostaryka, Hiszpania</td>
+			<td>10,00 mln € </td>
+		</tr>
+			<tr>
+			<td>Sergio Rico</td>
+			<td>Bramkarz</td>
+			<td>Hiszpania</td>
+			<td>8,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Marquinhos</td>
+			<td>Środkowy obrońca</td>
+			<td>Brazylia, Portugalia</td>
+			<td>70,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Presnel Kimpembe</td>
+			<td>Środkowy obrońca</td>
+			<td>Francja, DRK</td>
+			<td>40,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Thilo Kehrer</td>
+			<td>Środkowy obrońca</td>
+			<td>Niemcy, Burundi</td>
+			<td>25,00 mln €  </td>
+		</tr>		
+		<tr>
+			<td>Abdou Diallo</td>
+			<td>Środkowy obrońca</td>
+			<td>Francja, Kamerun</td>
+			<td>25,00 mln €</td>
+		</tr>
+				<tr>
+			<td>Timothée Pembélé</td>
+			<td>Środkowy obrońca</td>
+			<td>Francja, DRK</td>
+			<td>4,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Juan Bernat</td>
+			<td>Lewy obrońca</td>
+			<td>Hiszpania</td>
+			<td>16,00 mln € </td>
+		</tr>
+			<tr>
+			<td>Layvin Kurzawa</td>
+			<td>Lewy obrońca</td>
+			<td>Francja, Polska</td>
+			<td>12,00 mln € </td>
+		</tr>
+					<tr>
+			<td>Mitchel Bakker</td>
+			<td>Lewy obrońca</td>
+			<td>Holandia</td>
+			<td>10,00 mln € </td>
+		</tr>		
+		<tr>
+			<td>Alessandro Florenzi</td>
+			<td>Prawy obrońca</td>
+			<td>Włochy</td>
+			<td>15,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Colin Dagba</td>
+			<td>Prawy obrońca</td>
+			<td>Francja, Benin</td>
+			<td>12,00 mln €</td>
+		</tr>
+
+		<tr>
+			<td>Danilo Pereira</td>
+			<td>Defensywny pomocnik</td>
+			<td>Portugalia, Gwinea Bissau</td>
+			<td>24,00 mln € </td>
+		</tr>
+				<tr>
+			<td>Leandro Paredes</td>
+			<td>Defensywny pomocnik</td>
+			<td>Argentyna</td>
+			<td>20,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Idrissa Gueye</td>
+			<td>Defensywny pomocnik</td>
+			<td>Senegal</td>
+			<td>18,00 mln € </td>
+		</tr>
+		<tr>				
+		<tr>
+			<td>Marco Verratti</td>
+			<td>Środkowy pomocnik</td>
+			<td>Włochy</td>
+			<td>60,00 mln €</td>
+		</tr>
+			<td>Rafinha</td>
+			<td>Środkowy pomocnik</td>
+			<td>Brazylia, Hiszpania</td>
+			<td>15,00 mln € </td>
+		</tr>
+				</tr>
+			<td>Ander Herrera</td>
+			<td>Środkowy pomocnik</td>
+			<td>Hiszpania</td>
+			<td>15,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Kays Ruiz-Atil</td>
+			<td>Środkowy pomocnik</td>
+			<td>Francja, Maroko</td>
+			<td>3,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Julian Draxler</td>
+			<td>Ofensywny pomocnik</td>
+			<td>Hiszpania</td>
+			<td>20,00 mln €</td>
+		</tr>			
+		<tr>
+			<td>Neymar</td>
+			<td>Lewy napastnik</td>
+			<td>Brazylia</td>
+			<td>128,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Ángel Di María</td>
+			<td>Prawy napastnik</td>
+			<td>Argentyna, Włochy</td>
+			<td>28,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Pablo Sarabia</td>
+			<td>Prawy napastnik</td>
+			<td>Hiszpania</td>
+			<td>25,00 mln € </td>
+		</tr>
+				<tr>
+			<td>Kylian Mbappé</td>
+			<td>Środkowy napastnik</td>
+			<td>Francja</td>
+			<td>180,00 mln €</td>
+		</tr>
+				<tr>
+			<td>Mauro Icardi</td>
+			<td>Środkowy napastnik</td>
+			<td>Argentyna, Włochy</td>
+			<td>55,00 mln €</td>
+		</tr>
+				<tr>
+			<td>Moise Kean</td>
+			<td>Środkowy napastnik</td>
+			<td>Włochy, WKS</td>
+			<td>30,00 mln € </td>
+		</tr>
+	</tbody>
+</table></div>
+	<div class="transfer"><h2>Transfery</h2></div>
+	<div class="trofea"><h3>TOP-nabytki</h3>
+	<table>
+	<thead>
+		<th></th>
+		<th>Zawodnik</th>
+		<th>Sezon</th>
+		<th>Klub oddający</th>
+		<th>Kwota Transferu</th>
+	</thead>
+	<tbody>
+		<tr>
+			<td>1.</td>
+			<td>Neymar</td>
+			<td>17/18</td>
+			<td>FC Barcelona(LaLiga)</td>
+			<td>222,00 mln €</td>
+		</tr>
+			<tr>			
+			<td>2.</td>
+			<td>Kylian Mbappé</td>
+			<td>18/19</td>
+			<td>AS Monaco(Ligue 1)</td>
+			<td>145,00 mln €</td>
+		</tr>
+		<tr>
+			<td>3.</td>
+			<td>Edinson Cavani</td>
+			<td>13/14</td>
+			<td>SSC Napoli(Serie A)</td>
+			<td>64,50 mln €</td>
+		</tr>
+		<tr>
+			<td>4.</td>
+			<td>Ángel Di María</td>
+			<td>15/16</td>
+			<td>Manchester United(Premier League)</td>
+			<td>63,00 mln €</td>
+		</tr>
+		<tr>
+			<td>5.</td>
+			<td>Mauro Icardi</td>
+			<td>20/21</td>
+			<td>Inter Mediolan(Serie A)</td>
+			<td>50,00 mln €</td>
+		</tr>
+	</tbody>
+</table></div>
+	<div class="trofea"><h3>TOP-odejścia</h3>
+	<table>
+	<thead>
+		<th></th>
+		<th>Zawodnik</th>
+		<th>Sezon</th>
+		<th>Klub kupujący</th>
+		<th>Kwota Transferu</th>
+	</thead>
+	<tbody>
+		<tr>
+			<td>1.</td>
+			<td>Gonçalo Guedes</td>
+			<td>18/19</td>
+			<td>Valencia CF(LaLiga)</td>
+			<td>40,00 mln €</td>
+		</tr>
+			<tr>
+			<td>2.</td>
+			<td>David Luiz</td>
+			<td>16/17</td>
+			<td>Chelsea FC(Premier League)</td>
+			<td>35,00 mln €</td>
+		</tr>
+		<tr>
+			<td>3.</td>
+			<td>Ronaldinho</td>
+			<td>03/04</td>
+			<td>FC Barcelona(LaLiga)</td>
+			<td>32,25 mln €</td>
+		</tr>
+		<tr>
+			<td>4.</td>
+			<td>Lucas Moura</td>
+			<td>17/18</td>
+			<td>Tottenham Hotspur(Premier League)</td>
+			<td>28,40 mln €</td>
+		</tr>
+		<tr>
+			<td>5.</td>
+			<td>Blaise Matuidi</td>
+			<td>17/18</td>
+			<td>Juventus FC(Serie A)</td>
+			<td>25,00 mln €</td>
+		</tr>
+	</tbody>
+</table></div>
+	</body>
+</html>
