@@ -1,0 +1,308 @@
+<html>
+	<head>
+		<meta cherself="utf-8">
+		<title>Real_Sociedad</title>
+		<style>
+		h1{
+			text-align: center;
+		}
+		.trofea{
+		border:10px double white;
+		width:35%;
+		background-color:rgb(5, 25, 250);
+		}
+		.transfer{
+				border:10px double rgb(48, 101, 217);
+		width:35%;
+		}
+				body{
+		background-color: rgb(247, 133, 67);		
+		color: white;
+		}
+		</style>
+	</head>
+	<body>
+	<h1>Real Sociedad </h1>
+	<div style="text-align: center"><img src="https://tmssl.akamaized.net/images/wappen/head/681.png?lm=1614795530" alt="Real_Sociedad" width="300"></div>
+	<h2>Informacje ogólne</h2>
+	<p>Real Sociedad de Fútbol (wym. [reˈal soθjeˈðað]) – hiszpański klub piłkarski z siedzibą w mieście San Sebastián, założony 7 września 1909 roku. Obecnie występuje w rozgrywkach Primera División. Stadionem zespołu jest Anoeta, która mieści 32 tysiące widzów. Klub dwukrotnie był mistrzem Hiszpanii, w sezonach 1980/1981 i 1981/1982. W sezonie 2002/2003 Real Sociedad po raz ostatni zdobył wicemistrzostwo kraju. Drużyna rozgrywa też Derby Kraju Basków z Athletic Bilbao, była też jednym z założycieli Primera División w 1929 roku. Najdłuższy okres, w którym ekipa ta grała niezmiennie w najwyższej klasie rozgrywkowej to 40 sezonów, od 1967 do 2007 roku.
+
+Klub posiada też sekcje: piłki nożnej kobiet, lekkoatletyki, hokeja na trawie i peloty.</p>
+	<p>
+		<strong>W lidze od:</strong> 11 lat<br>
+<strong>Liczba zawodników:</strong> 27<br>
+<strong>Średnia wieku:</strong> 25,9<br>
+<strong>Obcokrajowcy:</strong> 4  <em>(14,8 %)</em><br>
+<strong>Stadion:</strong> Reale Arena   <em>(39.500 miejsc)</em><br>
+	<strong>Łączna wartość rynkowa:</strong>337,90 mln €<br></p>
+	<div class="trofea"><h2>Zdobyte Trofea</h2>
+				<ul>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/11.png?lm=1520606997" alt="Trofea" height="70">2X SPANISH CHAMPION</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/94.png?lm=1520606999" alt="Trofea" height="70">5X SPANISH CUP WINNER (COPA DEL REY)</li>					
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/93.png?lm=1520606999" alt="Trofea" height="70">1X SPANISH SUPER CUP WINNER</li>								
+				</ul></div>	
+	<div class="transfer"><h2>Obecny Skład</h2></div>
+	<div class="trofea">Trener:Imanol Alguacil
+					<table>
+	<thead>
+		<th>Zawodnik</th>
+		<th>Pozycja</th>
+		<th>Narodowość</th>
+		<th>Wartość Rynkowa</th>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Álex Remiro</td>
+			<td>Bramkarz</td>
+			<td>Hiszpania</td>
+			<td>20,00 mln €</td>
+		</tr>
+			<tr>
+			<td>Miguel Ángel Moyá</td>
+			<td>Bramkarz</td>
+			<td>Hiszpania</td>
+			<td>1,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Robin Le Normand</td>
+			<td>Środkowy obrońca</td>
+			<td>Francja</td>
+			<td>20,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Aritz Elustondo</td>
+			<td>Środkowy obrońca</td>
+			<td>Hiszpania</td>
+			<td>15,00 mln € </td>
+		</tr>	
+		<tr>
+			<td>Modibo Sagnan</td>
+			<td>Środkowy obrońca</td>
+			<td>Mali, Francja</td>
+			<td>3,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Aihen Muñoz</td>
+			<td>Lewy obrońca</td>
+			<td>Hiszpania</td>
+			<td>6,00 mln € </td>
+		</tr>
+			<tr>
+			<td>Nacho Monreal</td>
+			<td>Lewy obrońca</td>
+			<td>Hiszpania</td>
+			<td>2,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Andoni Gorosabel</td>
+			<td>Prawy obrońca</td>
+			<td>Hiszpania</td>
+			<td>10,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Joseba Zaldua</td>
+			<td>Prawy obrońca</td>
+			<td>Hiszpania</td>
+			<td>7,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Igor Zubeldia</td>
+			<td>Defensywny pomocnik</td>
+			<td>Hiszpania</td>
+			<td>20,00 mln €</td>
+		</tr>
+				<tr>
+			<td>Martín Zubimendi</td>
+			<td>Defensywny pomocnik</td>
+			<td>Hiszpania</td>
+			<td>15,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Asier Illarramendi</td>
+			<td>Defensywny pomocnik</td>
+			<td>Hiszpania</td>
+			<td>7,00 mln €</td>
+		</tr>
+				<tr>
+			<td>Mikel Merino</td>
+			<td>Środkowy pomocnik</td>
+			<td>Hiszpania</td>
+			<td>40,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Ander Guevara</td>
+			<td>Środkowy pomocnik</td>
+			<td>Hiszpania</td>
+			<td>6,00 mln € </td>
+		</tr>
+		<tr>				
+		<tr>
+			<td>Jon Guridi</td>
+			<td>Środkowy pomocnik</td>
+			<td>Hiszpania</td>
+			<td>1,80 mln €</td>
+		</tr>
+		<tr>
+			<td>Roberto López</td>
+			<td>Ofensywny pomocnik</td>
+			<td>Hiszpania</td>
+			<td>8,00 mln € /td>
+		</tr>	
+		<tr>
+			<td>David Silva</td>
+			<td>Ofensywny pomocnik</td>
+			<td>Hiszpania</td>
+			<td>5,00 mln €</td>
+		</tr>
+				<tr>
+			<td>Luca Sangalli</td>
+			<td>Ofensywny pomocnik</td>
+			<td>Hiszpania</td>
+			<td>1,50 mln € </td>
+		</tr>
+		<tr>
+			<td>Mikel Oyarzabal</td>
+			<td>Lewy napastnik</td>
+			<td>Hiszpania</td>
+			<td>70,00 mln €</td>
+		</tr>
+				<tr>
+			<td>Ander Barrenetxea</td>
+			<td>Lewy napastnik</td>
+			<td>Hiszpania</td>
+			<td>15,00 mln € </td>
+		</tr>
+						<tr>
+			<td>Martín Merquelanz</td>
+			<td>Lewy napastnik</td>
+			<td>Hiszpania</td>
+			<td>2,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Portu</td>
+			<td>Prawy napastnik</td>
+			<td>Hiszpania</td>
+			<td>20,00 mln € </td>
+		</tr>
+				<tr>
+			<td>Adnan Januzaj</td>
+			<td>Prawy napastnik</td>
+			<td>Belgia, Kosowo</td>
+			<td>10,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Alexander Isak</td>
+			<td>Środkowy napastnik</td>
+			<td>Szwecja, Erytrea</td>
+			<td>22,00 mln € </td>
+		</tr>
+				<tr>
+			<td>Carlos Fernández</td>
+			<td>Środkowy napastnik</td>
+			<td>Hiszpania</td>
+			<td>9,00 mln €</td>
+		</tr>
+						<tr>
+			<td>Jon Bautista</td>
+			<td>Środkowy napastnik</td>
+			<td>Hiszpania, Hiszpania</td>
+			<td>1,20 mln € </td>
+		</tr>
+	</tbody>
+</table></div>
+	<div class="transfer"><h2>Transfery</h2></div>
+	<div class="trofea"><h3>TOP-nabytki</h3>
+	<table>
+	<thead>
+		<th></th>
+		<th>Zawodnik</th>
+		<th>Sezon</th>
+		<th>Klub oddający</th>
+		<th>Kwota Transferu</th>
+	</thead>
+	<tbody>
+		<tr>
+			<td>1.</td>
+			<td>Darko Kovacevic</td>
+			<td>01/02</td>
+			<td>Lazio Rzym(Serie A)</td>
+			<td>15,49 mln €</td>
+		</tr>
+			<tr>			
+			<td>2.</td>
+			<td>Asier Illarramendi</td>
+			<td>15/16</td>
+			<td>Real Madryt(LaLiga)</td>
+			<td>15,00 mln €</td>
+		</tr>
+		<tr>
+			<td>3.</td>
+			<td>Carlos Vela</td>
+			<td>12/13</td>
+			<td>FC Arsenal(Premier League)</td>
+			<td>14,00 mln €</td>
+		</tr>
+		<tr>
+			<td>4.</td>
+			<td>Mikel Merino</td>
+			<td>18/19</td>
+			<td>Newcastle United(Premier League)</td>
+			<td>12,00 mln €</td>
+		</tr>
+		<tr>
+			<td>5.</td>
+			<td>Diego Llorente</td>
+			<td>17/18</td>
+			<td>Real Madryt(LaLiga)</td>
+			<td>11,00 mln €</td>
+		</tr>
+	</tbody>
+</table></div>
+	<div class="trofea"><h3>TOP-odejścia</h3>
+	<table>
+	<thead>
+		<th></th>
+		<th>Zawodnik</th>
+		<th>Sezon</th>
+		<th>Klub kupujący</th>
+		<th>Kwota Transferu</th>
+	</thead>
+	<tbody>
+		<tr>
+			<td>1.</td>
+			<td>Antoine Griezmann</td>
+			<td>14/15</td>
+			<td>Atlético Madryt(LaLiga)</td>
+			<td>54,00 mln €</td>
+		</tr>
+			<tr>			
+			<td>2.</td>
+			<td>Iñigo Martínez</td>
+			<td>17/18</td>
+			<td>Athletic Bilbao(LaLiga)</td>
+			<td>32,00 mln €</td>
+		</tr>
+		<tr>
+			<td>3.</td>
+			<td>Asier Illarramendi</td>
+			<td>13/14</td>
+			<td>Real Madryt(LaLiga)</td>
+			<td>32,00 mln €</td>
+		</tr>
+		<tr>
+			<td>4.</td>
+			<td>Álvaro Odriozola</td>
+			<td>18/19</td>
+			<td>Real Madryt(LaLiga)</td>
+			<td>30,00 mln €</td>
+		</tr>
+		<tr>
+			<td>5.</td>
+			<td>Diego Llorente</td>
+			<td>20/21</td>
+			<td>Leeds United(Premier League)</td>
+			<td>20,00 mln €</td>
+	</tbody>
+</table></div>
+	</body>
+</html>
