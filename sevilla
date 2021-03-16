@@ -1,0 +1,290 @@
+<html>
+	<head>
+		<meta cherself="utf-8">
+		<title>Sevilla_FC</title>
+		<style>
+		h1{
+			text-align: center;
+		}
+		.trofea{
+		border:10px double white;
+		width:35%;
+		background-color:rgb(5, 25, 250);
+		}
+		.transfer{
+				border:10px double rgb(48, 101, 217);
+		width:35%;
+		}
+				body{
+		background-color: rgb(247, 133, 67);		
+		color: white;
+		}
+		</style>
+	</head>
+	<body>
+	<h1>Sevilla FC </h1>
+	<div style="text-align: center"><img src="https://tmssl.akamaized.net/images/wappen/head/368.png?lm=1408655455" alt="Sevilla_FC" width="300"></div>
+	<h2>Informacje ogólne</h2>
+	<p>Sevilla Fútbol Club – hiszpański klub piłkarski, grający obecnie w Primera División, mający siedzibę w Sewilli, stolicy Andaluzji. Został założony w dniu 25 stycznia 1890 jako pierwszy klub w mieście. Swoje domowe mecze rozgrywa na stadionie Estadio Ramón Sánchez Pizjuán, który może pomieścić niespełna 45 tysięcy widzów[1]. Zespół Sevilli zdobył raz mistrzostwo Hiszpanii (1946). Największym sukcesem w historii klubu było wywalczenie w 2006 roku (10 maja) Pucharu UEFA po zwycięstwie 4:0 w finale nad angielskim Middlesbrough FC[2]. 25 sierpnia 2006 roku Sevilla zdobyła swoje drugie trofeum w historii, pokonując w meczu o Superpuchar Europy w Monako FC Barcelona 3:0.[3] W sezonie 2006/2007 Sevilla jako drugi (po Realu Madryt) klub w historii obroniła Puchar UEFA. Powtórzyła ten sukces jeszcze w sezonie 2013/2014 po wygranej 4:2 w karnych nad Benficą, a następnie w 2015 roku po wygranej na Stadionie Narodowym w Warszawie 3-2 z Dnipro. Sevilla dwukrotnie z rzędu została wybrana najlepszą drużyną na świecie przez IFFHS.</p>
+	<p>
+		<strong>W lidze od:</strong> 20 lat<br>
+<strong>Liczba zawodników:</strong> 25<br>
+<strong>Średnia wieku: </strong>28,6<br>
+<strong>Obcokrajowcy: </strong>15  <em>(60,0 %)</em><br>
+<strong>Stadion:</strong> Ramón Sánchez Pizjuan  <em>(43.883 miejsc)</em><br>
+	<strong>Łączna wartość rynkowa:</strong>343,90 mln €<br></p>
+	<div class="trofea"><h2>Zdobyte Trofea</h2>
+				<ul>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/11.png?lm=1520606997" alt="Trofea" height="70">1X SPANISH CHAMPION</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/94.png?lm=1520606999" alt="Trofea" height="70">5X SPANISH CUP WINNER (COPA DEL REY)</li>					
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/93.png?lm=1520606999" alt="Trofea" height="70">1X SPANISH SUPER CUP WINNER</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/264.png?lm=1520606999" alt="Trofea" height="70">6X EUROPA LEAGUE WINNER</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/354.png?lm=1520606999" alt="Trofea" height="70">1X UEFA SUPERCUP WINNER</li>									
+				</ul>	</div>
+	<div class="transfer"><h2>Obecny Skład</h2></div>
+	<div class="trofea">Trener:Julen Lopetegui
+					<table>
+	<thead>
+		<th>Zawodnik</th>
+		<th>Pozycja</th>
+		<th>Narodowość</th>
+		<th>Wartość Rynkowa</th>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Bono</td>
+			<td>Bramkarz</td>
+			<td>Maroko, Kanada</td>
+			<td>15,00 mln € </td>
+		</tr>
+			<tr>
+			<td>Tomas Vaclík</td>
+			<td>Bramkarz</td>
+			<td>Czechy</td>
+			<td>8,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Jules Koundé</td>
+			<td>Środkowy obrońca</td>
+			<td>Francja, Benin</td>
+			<td>50,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Diego Carlos</td>
+			<td>Środkowy obrońca</td>
+			<td>Brazylia</td>
+			<td>50,00 mln € </td>
+		</tr>	
+		<tr>
+			<td>Sergi Gómez</td>
+			<td>Środkowy obrońca</td>
+			<td>Hiszpania</td>
+			<td>3,50 mln €</td>
+		</tr>
+				<tr>
+			<td>Karim Rekik</td>
+			<td>Środkowy obrońca</td>
+			<td>Holandia, Tunezja</td>
+			<td>3,50 mln €</td>
+		</tr>
+				<tr>
+			<td>Joris Gnagnon</td>
+			<td>Środkowy obrońca</td>
+			<td>Francja, WKS</td>
+			<td>2,50 mln €</td>
+		</tr>
+		<tr>
+			<td>Marcos Acuña</td>
+			<td>Lewy obrońca</td>
+			<td>Argentyna</td>
+			<td>14,00 mln € </td>
+		</tr>
+			<tr>
+			<td>Sergio Escudero</td>
+			<td>Lewy obrońca</td>
+			<td>Hiszpania</td>
+			<td>3,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Jesús Navas</td>
+			<td>Prawy obrońca</td>
+			<td>Hiszpania</td>
+			<td>3,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Aleix Vidal</td>
+			<td>Prawy obrońca</td>
+			<td>Hiszpania</td>
+			<td>2,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Nemanja Gudelj</td>
+			<td>Defensywny pomocnik</td>
+			<td>Serbia, Holandia</td>
+			<td>6,00 mln € </td>
+		</tr>
+				<tr>
+			<td>Joan Jordán</td>
+			<td>Środkowy pomocnik</td>
+			<td>Hiszpania</td>
+			<td>25,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Óliver Torres</td>
+			<td>Środkowy pomocnik</td>
+			<td>Hiszpania</td>
+			<td>13,00 mln €</td>
+		</tr>
+		<tr>				
+		<tr>
+			<td>Ivan Rakitic</td>
+			<td>Środkowy pomocnik</td>
+			<td>Chorwacja, Szwajcaria</td>
+			<td>10,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Óscar Rodríguez</td>
+			<td>Ofensywny pomocnik</td>
+			<td>Hiszpania</td>
+			<td>12,00 mln €</td>
+		</tr>	
+		<tr>
+			<td>Franco Vázquez</td>
+			<td>Ofensywny pomocnik</td>
+			<td>Argentyna, Włochy</td>
+			<td>5,00 mln €</td>
+		</tr>			
+		<tr>
+			<td>Lucas Ocampos</td>
+			<td>Lewy napastnik</td>
+			<td>Argentyna</td>
+			<td>45,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Suso</td>
+			<td>Prawy napastnik</td>
+			<td>Hiszpania</td>
+			<td>17,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Papu Gómez</td>
+			<td>Cofnięty napastnik</td>
+			<td>Argentyna, Włochy</td>
+			<td>15,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Youssef En-Nesyri</td>
+			<td>Środkowy napastnik</td>
+			<td>Maroko</td>
+			<td>15,00 mln € </td>
+		</tr>
+				<tr>
+			<td>Luuk de Jong</td>
+			<td>Środkowy napastnik</td>
+			<td>Holandia</td>
+			<td>12,00 mln €</td>
+		</tr>
+						<tr>
+			<td>Munir El Haddadi</td>
+			<td>Środkowy napastnik</td>
+			<td>Hiszpania, Maroko</td>
+			<td>10,00 mln €</td>
+		</tr>
+	</tbody>
+</table></div>
+	<div class="transfer"><h2>Transfery</h2></div>
+	<div class="trofea"><h3>TOP-nabytki</h3>
+	<table>
+	<thead>
+		<th></th>
+		<th>Zawodnik</th>
+		<th>Sezon</th>
+		<th>Klub oddający</th>
+		<th>Kwota Transferu</th>
+	</thead>
+	<tbody>
+		<tr>
+			<td>1.</td>
+			<td>Rony Lopes</td>
+			<td>19/20</td>
+			<td>AS Monaco(Ligue 1)</td>
+			<td>25,00 mln €</td>
+		</tr>
+			<tr>			
+			<td>2.</td>
+			<td>Jules Koundé</td>
+			<td>19/20</td>
+			<td>FC Girondins Bordeaux(Ligue 1)</td>
+			<td>25,00 mln €</td>
+		</tr>
+		<tr>
+			<td>3.</td>
+			<td>Luis Muriel</td>
+			<td>17/18</td>
+			<td>UC Sampdoria(Serie A)</td>
+			<td>24,50 mln €</td>
+		</tr>
+		<tr>
+			<td>4.</td>
+			<td>Quincy Promes</td>
+			<td>18/19</td>
+			<td>Spartak Moskwa(Premier Liga)</td>
+			<td>21,00 mln €</td>
+		</tr>
+		<tr>
+			<td>5.</td>
+			<td>Suso</td>
+			<td>19/20</td>
+			<td>AC Milan(Serie A)</td>
+			<td>21,00 mln €</td>
+		</tr>
+	</tbody>
+</table></div>
+	<div class="trofea"><h3>TOP-odejścia</h3>
+	<table>
+	<thead>
+		<th></th>
+		<th>Zawodnik</th>
+		<th>Sezon</th>
+		<th>Klub kupujący</th>
+		<th>Kwota Transferu</th>
+	</thead>
+	<tbody>
+		<tr>
+			<td>1.</td>
+			<td>Wissam Ben Yedder</td>
+			<td>19/20</td>
+			<td>AS Monaco(Ligue 1)</td>
+			<td>40,00 mln €</td>
+		</tr>
+			<tr>			
+			<td>2.</td>
+			<td>Clément Lenglet</td>
+			<td>18/19</td>
+			<td>FC Barcelona(LaLiga)</td>
+			<td>35,90 mln €</td>
+		</tr>
+		<tr>
+			<td>3.</td>
+			<td>Vitolo</td>
+			<td>17/18</td>
+			<td>Atlético Madryt(LaLiga)</td>
+			<td>35,60 mln €</td>
+		</tr>
+		<tr>
+			<td>4.</td>
+			<td>Dani Alves</td>
+			<td>08/09</td>
+			<td>FC Barcelona(LaLiga)</td>
+			<td>35,50 mln €</td>
+		</tr>
+		<tr>
+			<td>5.</td>
+			<td>Carlos Bacca</td>
+			<td>15/16</td>
+			<td>AC Milan(Serie A)</td>
+			<td>33,30 mln €</td>
+	</tbody>
+</table></div>
+	</body>
+</html>
