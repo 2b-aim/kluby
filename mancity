@@ -1,0 +1,291 @@
+<html>
+	<head>
+		<meta cherself="utf-8">
+		<title>Manchester_City</title>
+				<style>
+		h1{
+			text-align: center;
+			color:rgb(255, 249, 66);
+		}
+		body{
+		background-color: rgb(10, 194, 250);
+		Color:rgb(255, 249, 66);
+		}
+		.trofea{
+		border:10px double rgb(48, 101, 217);
+		width:35%;
+		background-color:rgb(250, 24, 3);
+		}
+		.transfer{
+				border:10px double rgb(48, 101, 217);
+		width:35%;
+		}
+		</style>
+	</head>
+	<body>
+	<h1>Manchester City</h1>
+	<div style="text-align: center"><img src="https://tmssl.akamaized.net/images/wappen/head/281.png?lm=1467356331" alt="Manchester_City" width="300"></div>
+	<h2>Informacje ogólne</h2>
+	Manchester City Football Club – angielski klub piłkarski z siedzibą w Manchesterze. Obecnie występuje w Premier League.
+
+Klub powstał w 1880 roku jako Saint Marks (West Gorton), w 1887 został przemianowany na Ardwick AFC, a obecną nazwę nosi od 1894. Zdobył sześć tytułów Mistrza Anglii, sześć razy wygrał Puchar Anglii, sześć razy – Puchar Ligi Angielskiej, a raz – Puchar Zdobywców Pucharów. Największe sukcesy osiągnął w latach 60. i 70. XX wieku, pod kierunkiem trenerów Joe Mercera i Malcolma Allisona mających do dyspozycji między innymi takich piłkarzy jak Colin Bell i Francis Lee.
+
+W latach 90. zespół dwukrotnie spadł – najpierw z Premier League, następnie z Division One. Od 2002 roku nieprzerwanie występuje w najwyższej klasie rozgrywkowej.
+<p>	<strong>W lidze od:</strong> 19 lat<br>
+<strong>Liczba zawodników:</strong> 24<br>
+<strong>Średnia wieku:</strong> 27,0<br>
+<strong>Obcokrajowcy:</strong> 19  <em>(79,2%)</em><br>
+<strong>Stadion:</strong> Etihad Stadium  <em>(55.017 miejsc)</em><br>
+<strong>Łączna wartość rynkowa:</strong> 1,06 mld €<br>
+	<div class="trofea"><h2>Zdobyte Trofea</h2>
+						<ul>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/12.png?lm=1520606997" alt="Trofea" height="70">6X ENGLISH CHAMPION</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/29.png?lm=1520606999" alt="Trofea" height="70">6X FA CUP WINNER</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/47.png?lm=1520606999" alt="Trofea" height="70">7X THE LEAGUE CUP WINNER</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/53.png?lm=1603977500" alt="Trofea" height="70">1X CUP WINNERS CUP WINNER</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/316.png?lm=1520606999" alt="Trofea" height="70">6X ENGLISH SUPERCUP WINNER</li>
+				</ul></div>
+	<div class="transfer"><h2>Obecny Skład</h2></div>
+	<div class="trofea">Trener:Pep Guardiola
+					<table>
+	<thead>
+		<th>Zawodnik</th>
+		<th>Pozycja</th>
+		<th>Narodowość</th>
+		<th>Wartość Rynkowa</th>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Ederson</td>
+			<td>Bramkarz</td>
+			<td>Brazylia, Portugalia</td>
+			<td>56,00 mln € </td>
+		</tr>
+			<tr>
+			<td>Zack Steffen</td>
+			<td>Bramkarz</td>
+			<td>USA</td>
+			<td>6,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Rúben Dias</td>
+			<td>Środkowy obrońca</td>
+			<td>Portugalia</td>
+			<td>60,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Aymeric Laporte</td>
+			<td>Środkowy obrońca</td>
+			<td>Francja</td>
+			<td>60,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Nathan Aké</td>
+			<td>Środkowy obrońca</td>
+			<td>Holandia, WKS</td>
+			<td>40,00 mln €</td>
+		</tr>		
+		<tr>
+			<td>John Stones</td>
+			<td>Środkowy obrońca</td>
+			<td>Anglia</td>
+			<td>25,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Eric García</td>
+			<td>Środkowy obrońca</td>
+			<td>Hiszpania</td>
+			<td>20,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Benjamin Mendy</td>
+			<td>Lewy obrońca</td>
+			<td>Francja, Senegal</td>
+			<td>28,00 mln €</td>
+		</tr>
+
+		<tr>
+			<td>Oleksandr Zinchenko</td>
+			<td>Lewy obrońca</td>
+			<td>Ukraina</td>
+			<td>20,00 mln €  </td>
+		</tr>
+		<tr>
+			<td>Kyle Walker</td>
+			<td>Prawy obrońca</td>
+			<td>Anglia</td>
+			<td>40,00 mln € </td>
+		</tr>
+		<tr>
+			<td>João Cancelo</td>
+			<td>Prawy obrońca</td>
+			<td>Portugalia</td>
+			<td>36,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Rodri</td>
+			<td>Defensywny pomocnik</td>
+			<td>Hiszpania</td>
+			<td>64,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Fernandinho</td>
+			<td>Defensywny pomocnik</td>
+			<td>Brazylia</td>
+			<td>4,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Phil Foden</td>
+			<td>Środkowy pomocnik</td>
+			<td>Anglia</td>
+			<td>60,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Ilkay Gündogan</td>
+			<td>Środkowy pomocnik</td>
+			<td>Niemcy</td>
+			<td>40,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Kevin De Bruyne</td>
+			<td>Ofensywny pomocnik</td>
+			<td>Belgia</td>
+			<td>120,00 mln € </td>
+		</tr>		
+		<tr>
+			<td>Bernardo Silva</td>
+			<td>Ofensywny pomocnik</td>
+			<td>Portugalia</td>
+			<td>70,00 mln €  </td>
+		</tr>	
+		<tr>
+			<td>Raheem Sterling</td>
+			<td>Lewy napastnik</td>
+			<td>Anglia, Jamajka</td>
+			<td>110,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Ferran Torres</td>
+			<td>Prawy napastnik</td>
+			<td>Hiszpania</td>
+			<td>50,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Riyad Mahrez</td>
+			<td>Prawy napastnik</td>
+			<td>Algieria, Francja</td>
+			<td>48,00 mln €</td>
+		</tr>
+				<tr>
+			<td>Gabriel Jesus</td>
+			<td>Środkowy napastnik</td>
+			<td>Brazylia</td>
+			<td>60,00 mln € </td>
+		</tr>
+				<tr>
+			<td>Sergio Agüero</td>
+			<td>Środkowy napastnik</td>
+			<td>Argentyna, Hiszpania</td>
+			<td>35,00 mln € </td>
+		</tr>
+	</tbody>
+</table>
+	<div class="transfer"><h2>Transfery</h2></div>
+	<div class="trofea"><h3>TOP-nabytki</h3>
+	<table>
+	<thead>
+		<th></th>
+		<th>Zawodnik</th>
+		<th>Sezon</th>
+		<th>Klub oddający</th>
+		<th>Kwota Transferu</th>
+	</thead>
+	<tbody>
+		<tr>
+			<td>1.</td>
+			<td>Kevin De Bruyne</td>
+			<td>15/16</td>
+			<td>Wolfsburg (Bundesliga)</td>
+			<td>76,00 mln €</td>
+		</tr>
+			<tr>			
+			<td>2.</td>
+			<td>Rúben Dias</td>
+			<td>20/21</td>
+			<td>Benfica (Liga NOS)</td>
+			<td>62,50 mln €</td>
+		</tr>
+		<tr>
+			<td>3.</td>
+			<td>Riyad Mahrez</td>
+			<td>18/19</td>
+			<td>Leicester City (Premier League)
+
+</td>
+			<td>67,80 mln €</td>
+		</tr>
+		<tr>
+			<td>4.</td>
+			<td>João Cancelo</td>
+			<td>19/20</td>
+			<td>Juventus FC (Serie A)</td>
+			<td>65,00 mln €</td>
+		</tr>
+		<tr>
+			<td>5.</td>
+			<td>Aymeric Laporte</td>
+			<td>17/18</td>
+			<td>Athletic Bilbao (LaLiga)</td>
+			<td>65,00 mln €</td>
+		</tr>
+	</tbody>
+</table></div>
+	<div class="trofea"><h3>TOP-odejścia</h3>
+	<table>
+	<thead>
+		<th></th>
+		<th>Zawodnik</th>
+		<th>Sezon</th>
+		<th>Klub kupujący</th>
+		<th>Kwota Transferu</th>
+	</thead>
+	<tbody>
+		<tr>
+			<td>1.</td>
+			<td>Leroy Sané</td>
+			<td>20/21</td>
+			<td>Bayern Monachium (Bundesliga)</td>
+			<td>45,00 mln €</td>
+		</tr>
+			<tr>
+			<td>2.</td>
+			<td>Danilo</td>
+			<td>19/20</td>
+			<td>Juventus FC (Serie A)</td>
+			<td>37,00 mln €</td>
+		</tr>
+		<tr>
+			<td>3.</td>
+			<td>Shaun Wright-Phillips</td>
+			<td>05/06</td>
+			<td>Chelsea FC (Premier League)</td>
+			<td>31,50 mln €</td>
+		</tr>
+		<tr>
+			<td>4.</td>
+			<td>Álvaro Negredo</td>
+			<td>15/16</td>
+			<td>Valencia CF (LaLiga)</td>
+			<td>28,00 mln €</td>
+		</tr>
+		<tr>
+			<td>5.</td>
+			<td>	Kelechi Iheanacho</td>
+			<td>09/10</td>
+			<td>Leicester City (Premier League)</td>
+			<td>27,70 mln €</td>
+		</tr>
+	</tbody>
+</table></div>
+	</body>
+</html>
