@@ -1,0 +1,294 @@
+<html>
+	<head>
+		<meta cherself="utf-8">
+		<title>Atlético_Madryt</title>
+	<body>
+
+		<style>
+		h1{
+			text-align: center;
+		}
+		.trofea{
+		border:10px double white;
+		width:35%;
+		background-color:rgb(5, 25, 250);
+		}
+		.transfer{
+				border:10px double rgb(48, 101, 217);
+		width:35%;
+		}
+				body{
+		background-color: rgb(247, 133, 67);		
+		color: white;
+		}
+		</style>
+	</head>
+	<body>
+	<h1>Atlético Madryt </h1>
+	<div style="text-align: center"><img src="https://tmssl.akamaized.net/images/wappen/head/13.png?lm=1519120744" alt="Atlético_Madryt" width="300"></div>
+	<h2>Informacje ogólne</h2>
+	<p>Club Atlético de Madrid (wym. [kluβ aðˈletiko ðe maˈðɾið]) – hiszpański klub piłkarski, grający obecnie w Primera División i mający siedzibę w Madrycie. Swoje domowe mecze, od sezonu 2017/2018, rozgrywa na stadionie Wanda Metropolitano, który może pomieścić 68 000 widzów[3].
+
+Klub został założony 26 kwietnia 1903 roku jako Athletic Club de Madrid, a 20 lutego 1907 roku kierownictwo Athletic Bilbao uznało pełną niezależność klubu z Madrytu. W lidze hiszpańskiej klub zadebiutował 10 lutego 1929 roku. 14 września 1939 połączył się z Aviación Nacional zmieniając nazwę na Athletic Aviación Club de Madrid. W 1942 roku nazwa została zmieniona na Atlético Aviación de Madrid, a 14 stycznia 1947 roku na Club Atlético de Madrid. Ta nazwa obowiązuje do dzisiaj. 2 października 1966 roku klub przeniósł się ze stadionu Estadio Metropolitano do Estadio Vicente Calderón, gdzie grał do końca sezonu 2016/2017.
+
+Zespół należy do najbardziej utytułowanych w Hiszpanii, z 10 tytułami mistrzowskimi i 10 wicemistrzostwami klub zajmuje trzecie miejsce w klasyfikacji drużyn według ilości mistrzostw w Primera División, a biorąc pod uwagę zdobyte punkty klub również zajmuje 3. miejsce z 3597 punktami (stan po sezonie 2018/2019)[4]. Poza 10 tytułami mistrzowskimi[5] klub dziesięciokrotnie zdobywał Puchar Króla i pięciokrotnie Superpuchar Hiszpanii. Osiągał także sukcesy w rozgrywkach międzynarodowych: w 1962 roku wygrał Puchar Zdobywców Pucharów[6], w 1974, 2014 i w 2016 roku grał w finale rozgrywek o Puchar Europy[7], w 2010[8] i 2012[9] klub wygrał Ligę Europy, w tych samych latach zespół zdobywał też Superpuchar Europy. W 1974 roku Atlético wygrywając dwumecz o Puchar Interkontynentalny z argentyńskim Independiente 2:1 zostało najlepszą drużyną klubową świata.
+
+W swojej historii Atlético nosiło wiele przydomków, jak np. „Los Colchoneros” (w dosłownym tłumaczeniu „wytwórcy materacy”), gdyż pierwsze koszulki klubu przypominały wzór materaca. W latach 70. piłkarzy madryckiego klubu nazywano „Los Indios”. Wówczas w kadrze drużyny Atlético było wielu zawodników z Ameryki Południowej. Natomiast z powodu barw klubowych Atlético nazywa się też „Los Rojiblancos”, czyli „czerwono-biali”[10].</p>
+	<p>
+		<strong>W lidze od:</strong> 19 lat<br>
+<strong>Liczba zawodników:</strong> 22<br>
+<strong>Średnia wieku:</strong> 27,6<br>
+<strong>Obcokrajowcy:</strong> 17  <em>(77,3 %)</em><br>
+<strong>Stadion:</strong> Wanda Metropolitano  <em>(68.456 miejsc)</em><br>
+	<strong>Łączna wartość rynkowa:</strong>810,00 mln €<br></p>
+	<div class="trofea"><h2>Zdobyte Trofea</h2>
+				<ul>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/11.png?lm=1520606997" alt="Trofea" height="70">10X SPANISH CHAMPION</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/94.png?lm=1520606999" alt="Trofea" height="70">10X SPANISH CUP WINNER (COPA DEL REY)</li>					
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/93.png?lm=1520606999" alt="Trofea" height="70">2X SPANISH SUPER CUP WINNER</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/264.png?lm=1520606999" alt="Trofea" height="70">3X EUROPA LEAGUE WINNER</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/1.png?lm=1520606996" alt="Trofea" height="70">1X INTERCONTINENTAL CUP WINNER</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/53.png?lm=1603977500" alt="Trofea" height="70">1X CUP WINNERS CUP WINNER</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/354.png?lm=1520606999" alt="Trofea" height="70">3X UEFA SUPERCUP WINNER</li>									
+				</ul>	</div>
+	<div class="transfer"><h2>Obecny Skład</h2></div>
+	<div class="trofea">Trener:Diego Simeone
+					<table>
+	<thead>
+		<th>Zawodnik</th>
+		<th>Pozycja</th>
+		<th>Narodowość</th>
+		<th>Wartość Rynkowa</th>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Jan Oblak</td>
+			<td>Bramkarz</td>
+			<td>Słowenia</td>
+			<td>90,00 mln € </td>
+		</tr>
+			<tr>
+			<td>Ivo Grbic</td>
+			<td>Bramkarz</td>
+			<td>Chorwacja</td>
+			<td>7,00 mln €</td>
+		</tr>
+		<tr>
+			<td>José María Giménez</td>
+			<td>Środkowy obrońca</td>
+			<td>Urugwaj, Hiszpania</td>
+			<td>65,00 mln €  </td>
+		</tr>
+		<tr>
+			<td>Mario Hermoso</td>
+			<td>Środkowy obrońca</td>
+			<td>Hiszpania</td>
+			<td>30,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Stefan Savic</td>
+			<td>Środkowy obrońca</td>
+			<td>Czarnogóra, Serbia</td>
+			<td>25,00 mln € </td>
+		</tr>		
+		<tr>
+			<td>Felipe</td>
+			<td>Środkowy obrońca</td>
+			<td>Brazylia</td>
+			<td>20,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Renan Lodi</td>
+			<td>Lewy obrońca</td>
+			<td>Brazylia</td>
+			<td>40,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Kieran Trippier</td>
+			<td>Prawy obrońca</td>
+			<td>Anglia</td>
+			<td>20,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Sime Vrsaljko</td>
+			<td>Prawy obrońca</td>
+			<td>Chorwacja</td>
+			<td>8,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Lucas Torreira</td>
+			<td>Defensywny pomocnik</td>
+			<td>Urugwaj, Hiszpania</td>
+			<td>28,00 mln €  </td>
+		</tr>
+				<tr>
+			<td>Koke</td>
+			<td>Środkowy pomocnik</td>
+			<td>Hiszpania</td>
+			<td>60,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Saúl Ñíguez</td>
+			<td>Środkowy pomocnik</td>
+			<td>Hiszpania</td>
+			<td>60,00 mln € </td>
+		</tr>
+		<tr>				
+		<tr>
+			<td>Geoffrey Kondogbia</td>
+			<td>Środkowy pomocnik</td>
+			<td>Republika Środkowoafrykańska, Francja</td>
+			<td>15,00 mln €</td>
+		</tr>
+			<td>Héctor Herrera</td>
+			<td>Środkowy pomocnik</td>
+			<td> Meksyk, Portugalia</td>
+			<td>8,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Thomas Lemar</td>
+			<td>Ofensywny pomocnik</td>
+			<td>Francja, Gwadelupa</td>
+			<td>20,00 mln €</td>
+		</tr>		
+		<tr>
+			<td>Yannick Carrasco</td>
+			<td>Lewy napastnik</td>
+			<td>Belgia, Hiszpania</td>
+			<td>30,00 mln €</td>
+		</tr>
+				<tr>
+			<td>Vitolo</td>
+			<td>Lewy napastnik</td>
+			<td>Hiszpania</td>
+			<td>8,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Ángel Correa</td>
+			<td>Prawy napastnik</td>
+			<td>Argentyna, Hiszpania</td>
+			<td>40,00 mln € </td>
+		</tr>
+				<tr>
+			<td>João Félix</td>
+			<td>Cofnięty napastnik</td>
+			<td>Portugalia</td>
+			<td>100,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Marcos Llorente</td>
+			<td>Cofnięty napastnik</td>
+			<td>Hiszpania</td>
+			<td>50,00 mln €</td>
+		</tr>
+				<tr>
+			<td>Moussa Dembélé</td>
+			<td>Środkowy napastnik</td>
+			<td>Francja, Mali</td>
+			<td>30,00 mln €</td>
+		</tr>
+						<tr>
+			<td>Luis Suárez</td>
+			<td>Środkowy napastnik</td>
+			<td>Urugwaj</td>
+			<td>15,00 mln €</td>
+		</tr>
+	</tbody>
+</table></div>
+	<div class="transfer"><h2>Transfery</h2></div>
+	<div class="trofea"><h3>TOP-nabytki</h3>
+	<table>
+	<thead>
+		<th></th>
+		<th>Zawodnik</th>
+		<th>Sezon</th>
+		<th>Klub oddający</th>
+		<th>Kwota Transferu</th>
+	</thead>
+	<tbody>
+		<tr>
+			<td>1.</td>
+			<td>João Félix</td>
+			<td>19/20</td>
+			<td>Benfica Lizbona(Liga NOS)</td>
+			<td>145,00 mln €</td>
+		</tr>
+			<tr>			
+			<td>2.</td>
+			<td>Thomas Lemar</td>
+			<td>18/19</td>
+			<td>Monaco(Ligue 1)</td>
+			<td>72,00 mln €</td>
+		</tr>
+		<tr>
+			<td>3.</td>
+			<td>Diego Costa</td>
+			<td>17/18</td>
+			<td>Chelsea FC(Premier League)</td>
+			<td>60,00 mln €</td>
+		</tr>
+		<tr>
+			<td>4.</td>
+			<td>Antoine Griezmann</td>
+			<td>14/15</td>
+			<td>Real Sociedad(LaLiga)</td>
+			<td>54,00 mln €</td>
+		</tr>
+		<tr>
+			<td>5.</td>
+			<td>Falcao</td>
+			<td>19/20</td>
+			<td>FC Porto(Liga NOS)</td>
+			<td>40,00 mln €</td>
+		</tr>
+	</tbody>
+</table></div>
+	<div class="trofea"><h3>TOP-odejścia</h3>
+	<table>
+	<thead>
+		<th></th>
+		<th>Zawodnik</th>
+		<th>Sezon</th>
+		<th>Klub kupujący</th>
+		<th>Kwota Transferu</th>
+	</thead>
+	<tbody>
+		<tr>
+			<td>1.</td>
+			<td>Antoine Griezmann</td>
+			<td>19/20</td>
+			<td>FC Barcelona(LaLiga)</td>
+			<td>120,00 mln €</td>
+		</tr>
+			<tr>
+			<td>2.</td>
+			<td>Lucas Hernández</td>
+			<td>19/20</td>
+			<td>Bayern Monachium(Bundesliga)</td>
+			<td>80,00 mln €</td>
+		</tr>
+		<tr>
+			<td>3.</td>
+			<td>Rodri</td>
+			<td>19/20</td>
+			<td>Manchester City(Premier League)</td>
+			<td>62,70 mln €</td>
+		</tr>
+		<tr>
+			<td>4.</td>
+			<td>Thomas Partey</td>
+			<td>20/21</td>
+			<td>FC Arsenal(Premier League)</td>
+			<td>50,00 mln €</td>
+		</tr>
+		<tr>
+			<td>5.</td>
+			<td>Falcao</td>
+			<td>13/14</td>
+			<td>Monaco(Ligue 1)</td>
+			<td>43,00 mln €</td>
+		</tr>
+	</tbody>
+</table></div>
+	</body>
+</html>
