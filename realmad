@@ -1,0 +1,299 @@
+<html>
+	<head>
+		<meta cherself="utf-8">
+		<title>Real_Madryt</title>
+	<body>
+		<style>
+		h1{
+			text-align: center;
+		}
+		.trofea{
+		border:10px double white;
+		width:35%;
+		background-color:rgb(5, 25, 250);
+		}
+		.transfer{
+				border:10px double rgb(48, 101, 217);
+		width:35%;
+		}
+				body{
+		background-color: rgb(247, 133, 67);		
+		color: white;
+		}
+		</style>
+	</head>
+	<body>
+	<h1>Real Madryt </h1>
+	<div style="text-align: center"><img src="https://tmssl.akamaized.net/images/wappen/head/418.png?lm=1580722449" alt="Real_Madryt" width="300"></div>
+	<h2>Informacje ogólne</h2>
+	<p>Real Madryt, hiszp. Real Madrid Club de Fútbol – hiszpański klub sportowy powstały w 1902 roku[6]. Słynie głównie z sukcesów istniejącej od chwili założenia drużyny piłki nożnej, która 34 razy zdobyła mistrzostwo Hiszpanii, 13 razy Puchar Europy/Ligę Mistrzów, a także wiele innych trofeów, w tym przyznany w 2000 roku przez FIFA tytuł najlepszego klubu w XX wieku[7]. Od 1947 roku drużyna ta rozgrywa domowe spotkania na stadionie Santiago Bernabéu[8], nazwanym na cześć byłego prezesa[9], za którego czasów klub zdobył najwięcej trofeów[9].
+
+Real Madryt odegrał ważną rolę w historii hiszpańskiej i światowej piłki nożnej – to z inicjatywy jego działaczy powstał Puchar Króla[10]. Klub reprezentował również Hiszpański Związek Piłki Nożnej, stając się jednym ze współzałożycieli FIFA w 1904 roku[11]. W 1928 znalazł się w pierwszym zestawie drużyn tworzących Primera División, zaś w 1955 stał się jedną z drużyn biorących udział w pierwszej edycji Pucharu Europy, którą następnie wygrał, broniąc to trofeum cztery razy z rzędu. Jest również jedynym klubem w historii, który po zmianie nazwy tych rozgrywek na Liga Mistrzów UEFA w 1992 roku zdobył to trofeum trzy razy z rzędu (2016, 2017, 2018). Na całym świecie znana jest też rywalizacja tegoż klubu z FC Barcelona, zwana El Clásico. Real zajmuje pierwsze miejsce w tabeli wszech czasów ligi hiszpańskiej[12].
+
+Od 1931 roku Real Madryt posiada też utytułowaną drużynę koszykarską[13], która zdobyła 35 tytułów mistrza kraju i odniosła dziesięć triumfów w Eurolidze. W przeszłości istniały także inne sekcje, m.in. siatkówki, tenisa i piłki ręcznej[14].</p>
+	<p>
+	<strong>	W lidze od:</strong> 82 lat<br>
+<strong>Liczba zawodników:</strong> 24<br>
+<strong>Średnia wieku:</strong> 27,4<br>
+<strong>Obcokrajowcy: </strong>15  <em>(62,5 %)</em><br>
+<strong>Stadion: </strong>Estadio Santiago Bernabéu  <em>(81 044 miejsc)</em><br>
+	<strong>Łączna wartość rynkowa:</strong>745,00 mln €<br></p>
+	<div class="trofea"><h2>Zdobyte Trofea</h2>
+				<ul>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/55.png?lm=1520606999" alt="Trofea" height="70">6X EUROPEAN CUP WINNER</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/4.png?lm=1520606999" alt="Trofea" height="70">7X CHAMPIONS LEAGUE WINNER</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/11.png?lm=1520606997" alt="Trofea" height="70">34X SPANISH CHAMPION</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/94.png?lm=1520606999" alt="Trofea" height="70">19X SPANISH CUP WINNER (COPA DEL REY)</li>					
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/93.png?lm=1520606999" alt="Trofea" height="70">11X SPANISH SUPER CUP WINNER</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/318.png?lm=1520606999" alt="Trofea" height="70">4X FIFA CLUB WORLD CUP WINNER</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/264.png?lm=1520606999" alt="Trofea" height="70">2X EUROPA LEAGUE WINNER</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/1.png?lm=1520606996" alt="Trofea" height="70">3X INTERCONTINENTAL CUP WINNER</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/354.png?lm=1520606999" alt="Trofea" height="70">4X UEFA SUPERCUP WINNER</li>									
+				</ul>	</div>
+	<div class="transfer"><h2>Obecny Skład</h2></div>
+	<div class="trofea">Trener:Ronald Koeman
+					<table>
+	<thead>
+		<th>Zawodnik</th>
+		<th>Pozycja</th>
+		<th>Narodowość</th>
+		<th>Wartość Rynkowa</th>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Thibaut Courtois</td>
+			<td>Bramkarz</td>
+			<td>Belgia</td>
+			<td>75,00 mln € </td>
+		</tr>
+			<tr>
+			<td>Andriy Lunin</td>
+			<td>Bramkarz</td>
+			<td>Ukraina</td>
+			<td>4,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Raphaël Varane</td>
+			<td>Środkowy obrońca</td>
+			<td>Francja, Martynika</td>
+			<td>70,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Éder Militão</td>
+			<td>Środkowy obrońca</td>
+			<td>Brazylia</td>
+			<td>30,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Sergio Ramos</td>
+			<td>Środkowy obrońca</td>
+			<td>Hiszpania</td>
+			<td>14,00 mln € </td>
+		</tr>		
+		<tr>
+			<td>Nacho Fernández</td>
+			<td>Środkowy obrońca</td>
+			<td>Hiszpania</td>
+			<td>10,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Ferland Mendy</td>
+			<td>Lewy obrońca</td>
+			<td>Francja, Senegal</td>
+			<td>40,00 mln € </td>
+		</tr>
+			<tr>
+			<td>Marcelo</td>
+			<td>Lewy obrońca</td>
+			<td>Brazylia, Hiszpania</td>
+			<td>10,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Daniel Carvajal</td>
+			<td>Prawy obrońca</td>
+			<td>Hiszpania</td>
+			<td>40,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Álvaro Odriozola</td>
+			<td>Prawy obrońca</td>
+			<td>Hiszpania</td>
+			<td>10,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Casemiro</td>
+			<td>Defensywny pomocnik</td>
+			<td>Brazylia, Hiszpania</td>
+			<td>70,00 mln € </td>
+		</tr>
+				<tr>
+			<td>Federico Valverde</td>
+			<td>Środkowy pomocnik</td>
+			<td>Urugwaj, Hiszpania</td>
+			<td>70,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Toni Kroos</td>
+			<td>Środkowy pomocnik</td>
+			<td>Niemcy</td>
+			<td>50,00 mln € </td>
+		</tr>
+		<tr>				
+		<tr>
+			<td>Luka Modric</td>
+			<td>Środkowy pomocnik</td>
+			<td>Chorwacja</td>
+			<td>10,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Isco</td>
+			<td>Ofensywny pomocnik</td>
+			<td>Hiszpania</td>
+			<td>20,00 mln €</td>
+		</tr>			
+				<tr>
+			<td>Eden Hazard</td>
+			<td>Lewy napastnik</td>
+			<td>Belgia</td>
+			<td>50,00 mln €</td>
+		</tr>
+						<tr>
+			<td>Vinícius Júnior</td>
+			<td>Lewy napastnik</td>
+			<td>Brazylia, Hiszpania</td>
+			<td>40,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Rodrygo</td>
+			<td>Prawy napastnik</td>
+			<td>Brazylia</td>
+			<td>45,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Marco Asensio</td>
+			<td>Prawy napastnik</td>
+			<td>Hiszpania, Holandia</td>
+			<td>35,00 mln €</td>
+		</tr>
+				<tr>
+			<td>Lucas Vázquez</td>
+			<td>Prawy napastnik</td>
+			<td>Hiszpania</td>
+			<td>15,00 mln €</td>
+		</tr>
+				<tr>
+			<td>Karim Benzema</td>
+			<td>Środkowy napastnik</td>
+			<td>Francja, Algieria</td>
+			<td>25,00 mln € </td>
+		</tr>
+				<tr>
+			<td>Mariano Díaz</td>
+			<td>Środkowy napastnik</td>
+			<td>Dominikana, Hiszpania</td>
+			<td>10,00 mln €</td>
+		</tr>
+						<tr>
+			<td>Hugo Duro</td>
+			<td>Środkowy napastnik</td>
+			<td>Hiszpania</td>
+			<td>2,50 mln €</td>
+		</tr>
+	</tbody>
+</table></div>
+	<div class="transfer"><h2>Transfery</h2></div>
+	<div class="trofea"><h3>TOP-nabytki</h3>
+	<table>
+	<thead>
+		<th></th>
+		<th>Zawodnik</th>
+		<th>Sezon</th>
+		<th>Klub oddający</th>
+		<th>Kwota Transferu</th>
+	</thead>
+	<tbody>
+		<tr>
+			<td>1.</td>
+			<td>Eden Hazard</td>
+			<td>19/20</td>
+			<td>Chelsea FC(Premier League)</td>
+			<td>115,00 mln €</td>
+		</tr>
+			<tr>			
+			<td>2.</td>
+			<td>Gareth Bale</td>
+			<td>13/14</td>
+			<td>Tottenham Hotspur(Premier League)</td>
+			<td>101,00 mln €</td>
+		</tr>
+		<tr>
+			<td>3.</td>
+			<td>Cristiano Ronaldo</td>
+			<td>09/10</td>
+			<td>Manchester United(Premier League)</td>
+			<td>94,00 mln €</td>
+		</tr>
+		<tr>
+			<td>4.</td>
+			<td>Zinédine Zidane</td>
+			<td>01/02</td>
+			<td>Juventus FC(Serie A)</td>
+			<td>77,50 mln €</td>
+		</tr>
+		<tr>
+			<td>5.</td>
+			<td>James Rodríguez</td>
+			<td>19/20</td>
+			<td>AS Monaco(Ligue 1)</td>
+			<td>75,00 mln €</td>
+		</tr>
+	</tbody>
+</table></div>
+	<div class="trofea"><h3>TOP-odejścia</h3>
+	<table>
+	<thead>
+		<th></th>
+		<th>Zawodnik</th>
+		<th>Sezon</th>
+		<th>Klub kupujący</th>
+		<th>Kwota Transferu</th>
+	</thead>
+	<tbody>
+		<tr>
+			<td>1.</td>
+			<td>Cristiano Ronaldo</td>
+			<td>18/19</td>
+			<td>Juventus FC(Serie A)</td>
+			<td>117,00 mln €</td>
+		</tr>
+			<tr>			
+			<td>2.</td>
+			<td>Ángel Di María</td>
+			<td>14/15</td>
+			<td>Manchester United(Premier League)</td>
+			<td>75,00 mln €</td>
+		</tr>
+		<tr>
+			<td>3.</td>
+			<td>Álvaro Morata</td>
+			<td>17/18</td>
+			<td>Chelsea FC(Premier League)</td>
+			<td>66,00 mln €</td>
+		</tr>
+		<tr>
+			<td>4.</td>
+			<td>Mesut Özil</td>
+			<td>13/14</td>
+			<td>FC Arsenal(Premier League)</td>
+			<td>47,00 mln €</td>
+		</tr>
+		<tr>
+			<td>5.</td>
+			<td>Mateo Kovacic</td>
+			<td>19/20</td>
+			<td>Chelsea FC(Premier League)</td>
+			<td>45,00 mln €</td>
+	</tbody>
+</table></div>
+	</body>
+</html>
