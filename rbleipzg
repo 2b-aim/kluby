@@ -1,0 +1,298 @@
+<html>
+	<head>
+		<meta cherself="utf-8">
+		<title>RasenBallsport_Leipzig</title>
+	<body>
+		<style>
+		h1{
+			text-align: center;
+		}
+		.trofea{
+		border:10px double white;
+		width:35%;
+		background-color:rgb(5, 25, 250);
+		}
+		.transfer{
+				border:10px double rgb(48, 101, 217);
+		width:35%;
+		}
+		body{
+		background-color: rgb(252, 67, 60);
+		color: white;
+		}
+		</style>
+	</head>
+	<body>
+	<h1>RasenBallsport Leipzig</h1>
+	<div style="text-align: center"><img src="https://tmssl.akamaized.net/images/wappen/head/23826.png?lm=1594039963" alt="RasenBallsport_Leipzig" width="300"></div>
+	<h2>Informacje ogólne</h2>
+	<p>RasenBallsport Leipzig e. V. (RB Leipzig) – niemiecki klub piłkarski z siedzibą w Lipsku. Powstał 19 maja 2009 na bazie SSV Markranstädt.</p>
+	<p>
+		<strong>W lidze od:</strong> 5 lat<br>
+<strong>Liczba zawodników:</strong> 28<br>
+<strong>Średnia wieku: </strong>24,5<br>
+<strong>Obcokrajowcy: </strong>21  <em>(75,0 %)</em><br>
+<strong>Stadion:</strong> Red Bull Arena  <em>(42.146 miejsc)</em><br>
+	<strong>Łączna wartość rynkowa:</strong> 558,78 mln €<br></p>
+	<div class="trofea"><h2>Zdobyte Trofea</h2>
+		RasenBallsport Leipzig jest stosunkowo niedawno powstałym klubem i nie podsiada jeszcze, żednego Pucharu.</div>
+	<div class="transfer"><h2>Obecny Skład</h2></div>
+	<div class="trofea">Trener:Julian Nagelsmann
+					<table>
+	<thead>
+		<th>Zawodnik</th>
+		<th>Pozycja</th>
+		<th>Narodowość</th>
+		<th>Wartość Rynkowa</th>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Péter Gulácsi</td>
+			<td>Bramkarz</td>
+			<td>Węgry</td>
+			<td>12,00 mln €</td>
+		</tr>
+			<tr>
+			<td>Josep Martínez</td>
+			<td>Bramkarz</td>
+			<td>Hiszpania</td>
+			<td>2,50 mln € </td>
+		</tr>
+		<tr>
+			<td>Dayot Upamecano</td>
+			<td>Środkowy obrońca</td>
+			<td>Francja, Gwinea Bissau</td>
+			<td>60,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Ibrahima Konaté</td>
+			<td>Środkowy obrońca</td>
+			<td>Francja, Mali</td>
+			<td>35,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Lukas Klostermann</td>
+			<td>Środkowy obrońca</td>
+			<td>Niemcy</td>
+			<td>32,00 mln € </td>
+		</tr>		
+		<tr>
+			<td>Willi Orban</td>
+			<td>Środkowy obrońca</td>
+			<td>Węgry, Niemcy</td>
+			<td>14,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Angeliño</td>
+			<td>Lewy obrońca</td>
+			<td>Hiszpania</td>
+			<td>35,00 mln € </td>
+		</tr>
+			<tr>
+			<td>Marcel Halstenberg</td>
+			<td>Lewy obrońca</td>
+			<td>Niemcy</td>
+			<td>17,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Nordi Mukiele</td>
+			<td>Prawy obrońca</td>
+			<td>Francja, DRK</td>
+			<td>23,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Benjamin Henrichs</td>
+			<td>Prawy obrońca</td>
+			<td>Niemcy, Ghana</td>
+			<td>12,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Tyler Adams</td>
+			<td>Defensywny pomocnik</td>
+			<td>USA</td>
+			<td>20,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Marcel Sabitzer</td>
+			<td>Środkowy pomocnik</td>
+			<td>Austria</td>
+			<td>42,00 mln €</td>
+		</tr>
+		<tr>				
+		<tr>
+			<td>Konrad Laimer</td>
+			<td>Środkowy pomocnik</td>
+			<td>Austria</td>
+			<td>26,00 mln €</td>
+		</tr>
+				<tr>
+			<td>Amadou Haidara</td>
+			<td>Środkowy pomocnik</td>
+			<td>Mali</td>
+			<td>22,00 mln €</td>
+		</tr>
+				<tr>
+			<td>Kevin Kampl</td>
+			<td>Środkowy pomocnik</td>
+			<td>Słowenia</td>
+			<td>14,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Kevin Kampl</td>
+			<td>Lewy pomocnik</td>
+			<td>Węgry</td>
+			<td>25,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Dani Olmo</td>
+			<td>Ofensywny pomocnik</td>
+			<td>Hiszpania</td>
+			<td>38,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Christopher Nkunku</td>
+			<td>Ofensywny pomocnik</td>
+			<td>Francja, DRK</td>
+			<td>33,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Lazar Samardzic</td>
+			<td>Ofensywny pomocnik</td>
+			<td>Niemcy, Serbia</td>
+			<td>3,00 mln € </td>
+		</tr>			
+		<tr>
+			<td>Emil Forsberg</td>
+			<td>Lewy napastnik</td>
+			<td>Szwecja</td>
+			<td>20,00 mln €</td>
+		</tr>
+				<tr>
+			<td>Justin Kluivert</td>
+			<td>Lewy napastnik</td>
+			<td>Holandia, Surinam</td>
+			<td>18,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Fabrice Hartmann</td>
+			<td>Prawy napastnik</td>
+			<td>Niemcy</td>
+			<td>350 tys. € </td>
+		</tr>
+		<tr>
+			<td>Yussuf Poulsen</td>
+			<td>Środkowy napastnik</td>
+			<td>Dania, Tanzania</td>
+			<td>25,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Alexander Sörloth</td>
+			<td>Środkowy napastnik</td>
+			<td>Norwegia</td>
+			<td>18,00 mln €</td>
+		</tr>
+				<tr>
+			<td>Hee-chan Hwang</td>
+			<td>Środkowy napastnik</td>
+			<td>Korea Południowa</td>
+			<td>11,00 mln €</td>
+		</tr>
+	</tbody>
+</table></div>
+	<div class="transfer"><h2>Transfery</h2></div>
+	<div class="trofea"><h3>TOP-nabytki</h3>
+	<table>
+	<thead>
+		<th></th>
+		<th>Zawodnik</th>
+		<th>Sezon</th>
+		<th>Klub oddający</th>
+		<th>Kwota Transferu</th>
+	</thead>
+	<tbody>
+		<tr>
+			<td>1.</td>
+			<td>Naby Keïta</td>
+			<td>16/17</td>
+			<td>Red Bull Salzburg(Bundesliga)</td>
+			<td>29,75 mln €</td>
+		</tr>
+			<tr>			
+			<td>2.</td>
+			<td>Dani Olmo</td>
+			<td>19/20</td>
+			<td>GNK Dinamo Zagrzeb(1.HNL)</td>
+			<td>22,00 mln €</td>
+		</tr>
+		<tr>
+			<td>3.</td>
+			<td>Dominik Szoboszlai</td>
+			<td>20/21</td>
+			<td>Red Bull Salzburg(Bundesliga)</td>
+			<td>20,00 mln €</td>
+		</tr>
+		<tr>
+			<td>4.</td>
+			<td>Alexander Sörloth</td>
+			<td>20/21</td>
+			<td>Crystal Palace (Premier League)</td>
+			<td>20,00 mln €</td>
+		</tr>
+		<tr>
+			<td>5.</td>
+			<td>Kevin Kampl</td>
+			<td>17/18</td>
+			<td>Bayer 04 Leverkusen(Bundesliga)</td>
+			<td>20,00 mln €</td>
+		</tr>
+	</tbody>
+</table></div>
+	<div class="trofea"><h3>TOP-odejścia</h3>
+	<table>
+	<thead>
+		<th></th>
+		<th>Zawodnik</th>
+		<th>Sezon</th>
+		<th>Klub kupujący</th>
+		<th>Kwota Transferu</th>
+	</thead>
+	<tbody>
+		<tr>
+			<td>1.</td>
+			<td>Naby Keïta</td>
+			<td>18/19</td>
+			<td>FC Liverpool(Premier League)</td>
+			<td>60,00 mln €</td>
+		</tr>
+			<tr>
+			<td>2.</td>
+			<td>Timo Werner</td>
+			<td>20/21</td>
+			<td>Chelsea FC(Premier League)</td>
+			<td>53,00 mln €</td>
+		</tr>
+		<tr>
+			<td>3.</td>
+			<td>Dayot Upamecano</td>
+			<td>21/22</td>
+			<td>Bayern Monachium(Bundesliga)</td>
+			<td>63,75 mln €</td>
+		</tr>
+		<tr>
+			<td>4.</td>
+			<td>Matheus Cunha</td>
+			<td>19/20</td>
+			<td>Hertha BSC(Bundesliga)</td>
+			<td>18,00 mln €</td>
+		</tr>
+		<tr>
+			<td>5.</td>
+			<td>Oliver Burke</td>
+			<td>17/18</td>
+			<td>West Bromwich Albion(Premier League)</td>
+			<td>15,20 mln €</td>
+		</tr>
+	</tbody>
+</table></div>
+	</body>
+</html>
