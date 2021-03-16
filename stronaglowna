@@ -1,0 +1,677 @@
+<html>
+	<head>
+		<meta cherself="utf-8">
+		<title>Najlepsze_Kluby</title>
+			<style>
+		h1{
+			text-align: center;
+			font-size: 4em;
+			color: rgb(202, 70, 250);
+		}
+		h2{
+		font-size: 2.5em;
+		color: rgb(196, 0, 255);
+		}
+		h3{
+		font-size: 1.5em;
+		color: rgb(143, 2, 186);
+		}
+		h4{
+		color: rgb(106, 5, 140);
+		}
+		h1, h2, h3, h4{
+		font-family: fantasy,sans-serif;		
+		font-style: italic;
+		}
+		body{
+		background-color: rgb(50, 252, 218);
+		font-size: 20px;
+		font-family: "Helvetica",sans-serif;
+
+		}
+        table{
+		color: rgb(255, 255, 255);
+		}
+		.official-info {
+            background: rgb(0, 0, 255);
+            width: 40%;
+            height: 80px;
+            overflow-y: auto;
+            overflow-x: hidden;
+        }
+		.League{
+		float: left;
+		}
+		.og{
+		width:40%;
+		border: 3px dashed rgb(0, 0, 255);
+		background-color:rgb(5, 255, 176);
+		}
+		#spis{
+            background:rgb(70, 214, 250);
+            width: 40%;
+            height: 80px;
+            overflow-y: auto;
+            overflow-x: hidden;
+			
+        }
+		#top{
+		border:6px groove red;
+		}
+		            a:link {
+                color: rgb(202, 70, 250);
+            }
+            a:visited {
+                color: rgb(202, 70, 250);
+            }
+            a:hover { 
+                background-color: rgb(33, 255, 52);
+            }  
+            a:active {
+                background-color: rgb(202, 70, 250);
+            } 
+            a:focus {
+                background-color: rgb(202, 70, 250);
+            } 
+		.k{
+			font-weight: bold;
+			color:rgb(0, 0, 255);
+}		
+		</style>
+	</head>
+	<body>
+
+</em>	
+	<h1>5 NAJLEPSZYCH LIG NA ŚWIECIE </h1>	
+
+	<div style="text-align: center"><img id="top" src="data:image/jpeg;base64,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" alt="top5" width="300"></div>	
+		<br>	<div id="spis"><h3><em>Spis treści</h3>
+	<ol>
+		<li><a href="#PL">Premier League</a></li>
+				<ul>
+					<li><a href="#iPL">Informacje ogólne</a></li>
+					<li><a href="#hPL">Historia</a></li>
+					<li><a href="#kPL">Najbardziej wartościowe kluby w lidze</a></li>
+				</ul>
+		<li><a href="#serieA">Serie A</a></li>
+				<ul>
+					<li><a href="#iserieA">Informacje ogólne</a></li>
+					<li><a href="#hserieA">Historia</a></li>
+					<li><a href="#kserieA">Najbardziej wartościowe kluby w lidze</a></li>
+				</ul>
+		<li><a href="#B">Bundesliga</a></li>
+				<ul>
+					<li><a href="#iB">Informacje ogólne</a></li>
+					<li><a href="#hB">Historia</a></li>
+					<li><a href="#kB">Najbardziej wartościowe kluby w lidze</a></li>
+				</ul>
+		<li><a href="#LL">LaLiga</a></li>
+				<ul>
+					<li><a href="#iLL">Informacje ogólne</a></li>
+					<li><a href="#hLL">Historia</a></li>
+					<li><a href="#kLL">Najbardziej wartościowe kluby w lidze</a></li>
+				</ul>
+		<li><a href="#L1">Ligue 1</a></li>
+				<ul>
+					<li><a href="#iL1">Informacje ogólne</a></li>
+					<li><a href="#hL1">Historia</a></li>
+					<li><a href="#kL1">Najbardziej wartościowe kluby w lidze</a></li>
+				</ul>
+	</ol></div>
+		<h2 id="PL">Premier League<h2><!-- Najlepsza Liga Świata -->
+			<h3 id="iPL">Informacje ogólne</h3>
+			<p><img class="League" src="https://tmssl.akamaized.net/images/logo/normal/gb1.png?lm=1521104656" alt="league">English Premier League (nazywana także Premiership) – najwyższa w hierarchii klasa męskich ligowych rozgrywek piłkarskich w Anglii, 
+			będąca jednocześnie najwyższym szczeblem centralnym (I poziom ligowy), utworzona w 1992 roku i zarządzana od samego początku przez FA Premier League. 
+			Zmagania w jej ramach toczą się cyklicznie (co sezon od sierpnia do maja) i przeznaczone są dla 20 najlepszych krajowych klubów piłkarskich. 
+			Jej triumfator zostaje Mistrzem Anglii, zaś najsłabsze drużyny są relegowane do <a href="https://pl.wikipedia.org/wiki/EFL_Championship">League Championship</a> (II ligi angielskiej).
+Liga została założona jako FA Premier League 20 lutego 1992 roku po tym jak zespoły <a href="https://pl.wikipedia.org/wiki/Football_League_First_Division">Football League First Division</a> 
+zdecydowały stać się niezależne od <a href="https://pl.wikipedia.org/wiki/English_Football_League">The Football League</a> powstałej w 1888 roku oraz <a href="https://pl.wikipedia.org/wiki/The_Football_Association">Football Association</a>. 
+Czerpała ona zyski z praw telewizyjnych. Od tego czasu Premier League jest najchętniej oglądaną ligą sportową na świecie. Są to także najbardziej dochodowe rozgrywki piłkarskie. 
+W sezonie 2007/2008 obroty klubów wyniosły 1,93 miliardów funtów (3,15 miliardów dolarów).
+Od czasu założenia w rozgrywkach Premier League brało udział 49 klubów.</p>
+			
+<br><div class="og"><strong>Szczebel ligi:</strong>	1.liga - Anglia<br>
+<strong>Wielkość ligi:</strong>	20 drużyn<br>
+<strong>Liczba zawodników:	</strong>514<br>
+<strong>Obcokrajowcy:</strong>	320 Zawodnicy  <em>(62,3%)</em><br>
+<strong>ø-Wartość rynkowa:</strong>	17,21 mln €<br>
+<strong>Najwięcej mistrzostw:</strong>	Manchester United  20 raz(y)<br>
+<strong>ø-Wiek:</strong>	27,2<br>
+<strong>Aktualny mistrz:</strong>	FC Liverpool<br>
+<strong>Najbardziej wartościowy zawodnik:</strong>	Mohamed Salah  120,00 mln €<br>
+<strong>Łączna wartość rynkowa:</strong> 8,84 mld €<br></div>
+			<h3 id="hPL">Historia</h3>
+			<h4>Tło</h4>
+Mimo znaczących sukcesów europejskiej piłki nożnej w latach 70. i na początku 80., późne lata 80. to spadek znaczenia piłki angielskiej.
+ Kibice zmagali się z niedostatecznymi udogodnieniami na stadionach, które popadały w rozsypkę, chuligaństwo rozpowszechniało się. 
+ Poza tym zespoły z Anglii dostały zakaz gry w pucharach europejskich po <a href="https://pl.wikipedia.org/wiki/Tragedia_na_Heysel">Tragedii na Heysel</a> w 1985 roku. 
+ The Football League First Division, będąca w tym czasie na pierwszym szczeblu rozgrywek w Anglii była za innymi ligami, 
+ między innymi włoską <a href="#serieA">Serie A</a> i hiszpańską Primera División zarówno we frekwencji na spotkaniach jak i obrotach zespołów. Z tego powodu niektórzy angielscy zawodnicy przenosili się za granicę.
+ Na początku lat 90. sytuacja ta uległa zmianie; Anglia na Mistrzostwach Świata 1990 doszła do półfinałów. <a href="https://pl.wikipedia.org/wiki/UEFA">UEFA</a> w tym samym roku zniosła zakaz gry angielskim zespołom w europejskich pucharach. 
+Rok później Manchester United zdobył <a href="https://pl.wikipedia.org/wiki/Puchar_Zdobywc%C3%B3w_Puchar%C3%B3w_w_pi%C5%82ce_no%C5%BCnej">Puchar Zdobywców Pucharów</a>. Po <a href="https://pl.wikipedia.org/wiki/Tragedia_na_Hillsborough">tragedii na Hillsborough</a> wydano także <a href="https://pl.wikipedia.org/wiki/Raport_Taylora">Raport Taylora</a>, 
+który miał poprawić bezpieczeństwo na stadionach poprzez usunięcie z nich miejsc stojących.
+Pieniądze telewizyjne stały się ważniejsze; Football League otrzymało 6,3 milionów funtów za dwuletnią umowę podpisaną w 1986 roku, zaś gdy w 1988 roku zawarto nowy, czteroletni kontrakt, kwota ta wynosiła 44 miliony. 
+W 1988 roku pierwszy raz spróbowano oddzielić First Division od Football League, jednak nie powiodło się to. Stadiony rozbudowywano, coraz więcej osób przychodziło na spotkania; 
+najlepsze kluby z Anglii ponownie rozpoczęły starania o powstanie nowych rozgrywek, niezależnych od Football League.
+<h4>Założenie</h4>
+Na końcu sezonu 1990/1991 dyskusji została poddana także kwestia przyciągnięcia większej ilości pieniędzy do piłki nożnej przez stworzenie nowej ligi. 
+17 lipca 1991 roku kluby z First Division podpisały umowę, w której znajdowały się szczegóły założenia FA Premier League. 
+Nowe rozgrywki miały być komercyjnie niezależne od The Football Association oraz Football League, przez co FA Premier League mogła zawierać własne umowy o prawa telewizyjne oraz sponsorskie.
+ Większy dochód pozwoliłby angielskim zespołom konkurować z klubami z całej Europy.
+20 lutego 1992 roku kluby First Division zrezygnowały z gry w Football League i 27 maja 1992 roku FA Premier League została spółką z ograniczoną odpowiedzialnością. 
+Od tego czasu w skład Football League wchodzą trzy ligi, zaś wcześniej przez 104 lata w jej skład wchodziły cztery szczeble rozgrywek. Nie było natomiast zmiany w formacie rozgrywek, 
+w Premier League grała taka sama liczba klubów jak w First Division. Obowiązywał także system spadku i awansu pomiędzy najwyższą ligą a drugim szczeblem rozgrywek, który zmienił nazwę na First Division;
+ trzecia liga nazywała się natomiast Second Division.
+W pierwszym sezonie nowych rozgrywek grały 22 kluby: Arsenal, Aston Villa, Blackburn Rovers, Chelsea, Coventry City, Crystal Palace, Everton, Ipswich Town, Leeds United, Liverpool, Manchester City,
+ Manchester United, Middlesbrough, Norwich City, Nottingham Forest, Oldham Athletic, Queens Park Rangers, Sheffield United, Sheffield Wednesday, Southampton, Tottenham Hotspur oraz Wimbledon.
+
+<h4>Po założeniu</h4>
+Pierwszym sezonem ligi był 1992/1993, grały w nim 22 kluby. Pierwsza bramka została zdobyta przez Briana Deane’a dla Sheffield United w wygranym 2:1 meczu z Manchesterem United.
+ W 1995 roku z powodu namowy FIFA liczba zespołów w rozgrywkach została zmniejszona do 20. Wówczas cztery zespoły spadły z ligi, zaś na ich miejsce powróciły dwa inne.
+ 8 czerwca 2006 roku FIFA złożyła wniosek o zmniejszenie przez wszystkie najlepsze ligi europejskie liczby drużyn do 18. Premier League sprzeciwiła się jednak temu. 
+ W sezonie 2007/2008 grało 20 klubów. W 2007 roku zmieniła się także nazwa rozgrywek z FA Premier League na Premier League.
+			<h3 id="kPL">Najbardziej wartościowe kluby w lidze</h3>
+				<ol>
+					<p class="k">Top 5</p>
+					<li><a href="file:///D:/Lekcje%20zdalne/Informatyka/HTML/Liverpool.html">FC Liverpool</a></li>
+					<li><a href="file:///D:/Lekcje%20zdalne/Informatyka/HTML/Manchester_City.html">Manchester City</a></li>
+					<li><a href="file:///D:/Lekcje%20zdalne/Informatyka/HTML/Chelsea_FC.html">Chelsea FC</a></li>
+					<li><a href="file:///D:/Lekcje%20zdalne/Informatyka/HTML/Manchester_United.html">Manchester United</a></li>
+					<li><a href="file:///D:/Lekcje%20zdalne/Informatyka/HTML/Tottenham_Hotspur.html">Tottenham Hotspur</a></li>
+				</ol>	
+	<p class="k">Pozostałe kluby</p>
+	<div class="official-info"><table>
+	<thead>
+		<th>Klub</th>
+		<th>Łączna wartość rynkowa</th>
+	</thead>
+	<tbody>
+			<tr>
+			<td>FC Arsenal</td>
+			<td>554,00 mln €</td>
+		</tr>
+			<tr>
+			<td>FC Everton</td>
+			<td>491,50 mln €</td>
+		</tr>
+			<tr>
+			<td>Leicester City</td>
+			<td>468,50 mln €</td>
+		</tr>
+			<tr>
+			<td>Wolverhampton Wanderers</td>
+			<td>428,20 mln €</td>
+		</tr>
+		<tr>
+			<td>Aston Villa</td>
+			<td>331,30 mln €</td>
+		</tr>
+				<tr>
+			<td>Newcastle United</td>
+			<td>278,70 mln €</td>
+		</tr>
+				<tr>
+			<td>West Ham United</td>
+			<td>271,35 mln €</td>
+		</tr>
+				<tr>
+			<td>	Brighton & Hove Albion	</td>
+			<td>248,85 mln €</td>
+		</tr>
+				<tr>
+			<td>FC Southampton</td>
+			<td>239,55 mln €</td>
+		</tr>
+				<tr>
+			<td>Crystal Palace</td>
+			<td>222,90 mln €</td>
+		</tr>
+				<tr>
+			<td>FC Fulham </td>
+			<td>217,00 mln €</td>
+		</tr>
+				<tr>
+			<td>Leeds United</td>
+			<td>194,48 mln €</td>
+		</tr>
+				<tr>
+			<td>Sheffield United</td>
+			<td>171,40 mln €</td>
+		</tr>
+				<tr>
+			<td>FC Burnley</td>
+			<td>151,65 mln €</td>
+		</tr>
+				<tr>
+			<td>West Bromwich Albion</td>
+			<td>132,35 mln €</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+		<h2 id="serieA">Serie A<h2>
+			<h3 id="iserieA">Informacje ogólne</h3>
+			<p><img class="League" src="https://tmssl.akamaized.net/images/logo/normal/it1.png?lm=1562052084" alt="league">Serie A – najwyższa w hierarchii klasa męskich ligowych rozgrywek piłkarskich we Włoszech, będąca jednocześnie najwyższym szczeblem centralnym (I poziom ligowy), 
+			utworzona w 1929 roku i zarządzana przez Lega Nazionale Profesionisti Serie A (do 2010 Lega Calcio), a wcześniej przez Włoski Związek Piłki Nożnej (FIGC). 
+			Zmagania w jej ramach toczą się cyklicznie (co sezon) i przeznaczone są dla 20 najlepszych krajowych klubów piłkarskich. Jej triumfator zostaje Mistrzem Włoch, 
+			zaś najsłabsze drużyny są relegowane do <a href="https://pl.wikipedia.org/wiki/Serie_B">Serie B</a> (II ligi włoskiej).</p>
+			
+<br><br><div class="og"><br><strong>Szczebel ligi:</strong>	1.liga - Włochy Włochy<br>
+<strong>Wielkość ligi:</strong>	20 drużyn<br>
+<strong>Liczba zawodników:</strong>	555<br>
+<strong>Obcokrajowcy:</strong>	338 Zawodnicy  <em>(60,9%)</em><br>
+<strong>ø-Wartość rynkowa:</strong>	9,20 mln €<br>
+<strong>Najwięcej mistrzostw:</strong>	Juventus Turyn  36 raz(y)<br>
+<strong>ø-Wiek:</strong>	27,1<br>
+<strong>Aktualny mistrz:</strong>	Juventus FC<br>
+<strong>Najbardziej wartościowy zawodnik:</strong>	Romelu Lukaku  90,00 mln €<br>
+<strong>Łączna wartość rynkowa:</strong> 5,11 mld €<br></p></div>
+			<h3 id="hserieA">Historia</h3>
+			Mistrzostwa Włoch w piłce nożnej rozgrywane są od 1898 roku. Niejednokrotnie zmieniał się format rozgrywek. W 1929 została założona Serie A, rozgrywki której wystartowały po raz pierwszy w sezonie 1929/30.
+			<h3 id="kserieA">Najbardziej wartościowe kluby w lidze</h3>
+				<ol>
+					<p class="k">Top 5</p>
+					<li><a href="file:///D:/Lekcje%20zdalne/Informatyka/HTML/Juventus_FC.html">Juventus FC</a></li>
+					<li><a href="file:///D:/Lekcje%20zdalne/Informatyka/HTML/Inter_Mediolan.html">Inter Mediolan</a></li>
+					<li><a href="file:///D:/Lekcje%20zdalne/Informatyka/HTML/SSC_Napoli.html">SSC Napoli</a></li>
+					<li><a href="file:///D:/Lekcje%20zdalne/Informatyka/HTML/AC_MIlan.html">AC Milan</a></li>
+					<li><a href="file:///D:/Lekcje%20zdalne/Informatyka/HTML/AS_Roma.html">AS Roma</a></li>
+				</ol>	
+				<p class="k">Pozostałe kluby</p>
+				<div class="official-info"><table class="pozostale">
+	<thead>
+		<th>Klub</th>
+		<th>Łączna wartość rynkowa</th>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Atalanta BC</td>
+			<td>358,00 mln €</td>
+		</tr>
+			<tr>
+			<td>Lazio Rzym</td>
+			<td>354,40 mln €</td>
+		</tr>
+		<tr>
+			<td>US Sassuolo</td>
+			<td>216,35 mln €</td>
+		</tr>
+		<tr>
+			<td>AC Fiorentina</td>
+			<td>200,00 mln €</td>
+		</tr>
+				<tr>
+			<td>Cagliari Calcio</td>
+			<td>185,95 mln €</td>
+		</tr>
+				<tr>
+			<td>Torino FC</td>
+			<td>158,00 mln €</td>
+		</tr>
+				<tr>
+			<td>Hellas Verona</td>
+			<td>144,43 mln €</td>
+		</tr>
+				<tr>
+			<td>FC Bologna</td>
+			<td>141,90 mln €</td>
+		</tr>
+				<tr>
+			<td>Parma Calcio 1913</td>
+			<td>138,35 mln €</td>
+		</tr>
+				<tr>
+			<td>Udinese Calcio</td>
+			<td>134,60 mln €</td>
+		</tr>
+				<tr>
+			<td>UC Sampdoria</td>
+			<td>104,80 mln €</td>
+		</tr>
+				<tr>
+			<td>Genoa CFC</td>
+			<td>87,45 mln €</td>
+		</tr>
+				<tr>
+			<td>Benevento Calcio </td>
+			<td>58,78 mln €</td>
+		</tr>
+				<tr>
+			<td>Spezia Calcio </td>
+			<td>55,05 mln €</td>
+		</tr>
+				<tr>
+			<td>FC Crotone </td>
+			<td>48,00 mln €</td>
+		</tr>
+	</tbody>
+</table></div>
+		<h2 id="B">Bundesliga<h2>
+			<h3 id="iB">Informacje ogólne</h3>
+			<p><img class="League" src="https://tmssl.akamaized.net/images/logo/normal/l1.png?lm=1525905518" alt="league">Bundesliga (niem. Fußball-Bundesliga) – najwyższa w hierarchii klasa męskich ligowych rozgrywek piłkarskich w Niemczech, będąca 
+			jednocześnie najwyższym szczeblem centralnym (I poziom ligowy), 
+			utworzona w 1962 roku i zarządzana przez Niemiecki Związek Piłki Nożnej (DFB) i Deutsche Fussball-Liga (DFL). 
+			Zmagania w jej ramach toczą się cyklicznie (co sezon) i przeznaczone są dla 18 najlepszych krajowych klubów piłkarskich. 
+			Jej triumfator zostaje Mistrzem Niemiec, zaś najsłabsze drużyny są relegowane do <a href="https://pl.wikipedia.org/wiki/2._Fu%C3%9Fball-Bundesliga">2. Bundesligi</a> (II ligi niemieckiej).
+			Rekordowym mistrzem Bundesligi jest Bayern Monachium, który wygrywał ją 30-krotnie. Wielokrotni mistrzowie Bundesligi mają odznaczenia na strojach piłkarskich w postaci gwiazdek.
+			Obecnie gwiazdki posiada 6 zespołów: 4 gwiazdki – Bayern Monachium, 2 gwiazdki – Borussia Mönchengladbach, Borussia Dortmund, 1 gwiazdka – Hamburger SV, Werder Brema, VfB Stuttgart.</p>
+			
+<br><div class="og"><strong>Szczebel ligi:	</strong>1.liga - Niemcy Niemcy<br>
+<strong>Wielkość ligi:</strong>	18 drużyn<br>
+<strong>Liczba zawodników:</strong>	522<br>
+<strong>Obcokrajowcy:</strong>	289 Zawodnicy  <em>(55,4%)</em><br>
+<strong>ø-Wartość rynkowa:</strong>	8,66 mln €<br>
+<strong>Najwięcej mistrzostw:	</strong>Bayern Monachium  30 raz(y)<br>
+<strong>ø-Wiek:</strong>	25,6<br>
+<strong>Aktualny mistrz:</strong>	Bayern Monachium<br>
+<strong>Najbardziej wartościowy zawodnik:</strong>	Erling Haaland  110,00 mln €<br>
+<strong>Łączna wartość rynkowa: </strong>4,52 mld €<br></div>
+			<h3 id="hB">Historia</h3>
+			W 1932 Felix Linnemann prezydent niemieckiej federacji piłkarskiej – DFB, zaproponował start Reichsligi.
+			Miałaby ona zrzeszać 16 najlepszych klubów w Rzeszy. Szefowie lig związkowych (Gau–lig) odrzucili tę propozycję, która obniżała rangę ich rozgrywek. 
+			Gau przed wojną był odpowiednikiem dzisiejszego landu. Po wojnie w NRD wystartowały pierwsze rozgrywki ligowe w Niemczech. DDR-Oberliga zainaugurowała rozgrywki w sezonie 1949/50. 
+			Dopiero wiele lat później udało się stworzyć rozgrywki ligowe w zachodnich Niemczech.
+Bundesliga została założona przez niemiecki związek piłki nożnej – DFB w dniu 28 lipca 1962 w Dortmundzie. Rozgrywki zainaugurowano w sezonie 1963/64, 
+wcześniej mistrzów Niemiec wyłaniano w rozgrywkach międzyregionalnych (do 1951 systemem pucharowym, od 1951 do 1963 w dwóch grupach i finale: <a href="https://pl.wikipedia.org/wiki/Oberliga_niemiecka_w_pi%C5%82ce_no%C5%BCnej_m%C4%99%C5%BCczyzn">Oberligi</a>).
+
+<h4>Licencje</h4>
+Każda drużyna musi posiadać licencję. W przeciwnym razie będzie zdegradowana do amatorskich rozgrywek. 
+Najwyższy ich poziom w Niemczech to Regionalligi, czyli 4 liga. Aby otrzymać licencję klub musi udokumentować stabilność finansową, 
+oraz spełnić wymogi organizacyjne i infrastrukturowe (głównie stadiony). Żaden klub nie spełniający tych wymogów nie gra powyżej 4 ligi. 
+Jednym z wymogów jest, by wydatki na pensje zawodników nie przekraczały określonych kwot.
+Prawa do transmisji meczów Bundesligi w Niemczech ma telewizja Sky Deutschland (dawniej pod nazwą Premiere). W Polsce Bundesligę można oglądać w telewizji Eleven Sport.
+
+<h4>Pierwsze kluby Bundesligi</h4>
+Oberliga Nord: Eintracht Brunszwik, Werder Brema, Hamburger SV
+Oberliga West: Borussia Dortmund, 1. FC Köln, Meidericher SV, Preußen Münster, FC Schalke 04
+Oberliga Südwest: 1. FC Kaiserslautern, 1. FC Saarbrücken
+Oberliga Süd: Eintracht Frankfurt, Karlsruher SC, 1. FC Nürnberg, TSV 1860 Monachium, VfB Stuttgart
+Stadtliga Berlin: Hertha BSC
+			<h3 id="kB">Najbardziej wartościowe kluby w lidze</h3>
+				<ol>
+					<p class="k">Top 5</p>
+					<li><a href="file:///D:/Lekcje%20zdalne/Informatyka/HTML/Bayern_Monachium%20.html">Bayern Monachium</a></li>
+					<li><a href="file:///D:/Lekcje%20zdalne/Informatyka/HTML/Borussia_Dortmund.html">Borussia Dortmund</a></li>
+					<li><a href="file:///D:/Lekcje%20zdalne/Informatyka/HTML/RasenBallsport_Leipzig.html">RasenBallsport Leipzig</a></li>
+					<li><a href="file:///D:/Lekcje%20zdalne/Informatyka/HTML/Bayer_04_Leverkusen.html">Bayer 04 Leverkusen</a></li>
+					<li><a href="file:///D:/Lekcje%20zdalne/Informatyka/HTML/Borussia_Mönchengladbach.html">Borussia Mönchengladbach</a></li>
+				</ol>	
+			<p class="k">Pozostałe kluby</p>
+				<div class="official-info"><table class="pozostale">
+	<thead>
+		<th>Klub</th>
+		<th>Łączna wartość rynkowa</th>
+	</thead>
+	<tbody>
+		<tr>
+			<td>TSG 1899 Hoffenheim</td>
+			<td>228,30 mln €</td>
+		</tr>
+			<tr>
+			<td>Hertha BSC</td>
+			<td>224,70 mln €</td>
+		</tr>
+		<tr>
+			<td>VfL Wolfsburg</td>
+			<td>221,05 mln €</td>
+		</tr>
+		<tr>
+			<td>Eintracht Frankfurt</td>
+			<td>206,40 mln €</td>
+		</tr>
+				<tr>
+			<td>VfB Stuttgart </td>
+			<td>151,00 mln €</td>
+		</tr>
+				<tr>
+			<td>SC Freiburg</td>
+			<td>127,58 mln €</td>
+		</tr>
+				<tr>
+			<td>FC Schalke 04</td>
+			<td>117,60 mln €</td>
+		</tr>
+				<tr>
+			<td>1.FC Köln</td>
+			<td>106,50 mln €</td>
+		</tr>
+				<tr>
+			<td>FC Augsburg</td>
+			<td>101,10 mln €</td>
+		</tr>
+				<tr>
+			<td>SV Werder Bremen</td>
+			<td>98,20 mln €</td>
+		</tr>
+				<tr>
+			<td>1.FSV Mainz 05</td>
+			<td>87,95 mln €</td>
+		</tr>
+				<tr>
+			<td>1.FC Union Berlin</td>
+			<td>76,20 mln €</td>
+		</tr>
+				<tr>
+			<td>Arminia Bielefeld</td>
+			<td>50,75 mln €</td>
+		</tr>
+	</tbody>
+</table></div>
+		<h2 id="LL">La Liga<h2>
+			<h3 id="iLL">Informacje ogólne</h3>
+			<p><img class="League" src="https://tmssl.akamaized.net/images/logo/normal/es1.png?lm=1557051003" alt="league">Primera División (zwana także La Liga Santander od nazwy sponsora) – najwyższa w hierarchii klasa męskich ligowych rozgrywek piłkarskich w Hiszpanii, 
+			będąca jednocześnie najwyższym szczeblem centralnym (I poziom ligowy), utworzona w 1929 roku i zarządzana przez Liga de Fútbol Profesional (LFP), 
+			a wcześniej przez Królewską Hiszpańską Federację Piłki Nożnej (RFEF). Zmagania w jej ramach toczą się cyklicznie (co sezon) i przeznaczone są dla 20 najlepszych krajowych klubów piłkarskich. 
+			Jej triumfator zostaje Mistrzem Hiszpanii, zaś najsłabsze drużyny są relegowane do <a href="https://pl.wikipedia.org/wiki/Segunda_Divisi%C3%B3n">Segunda División</a> (II ligi hiszpańskiej).</p>
+			
+<br><br><div class="og"><br><strong>Szczebel ligi:</strong>	1.liga - Hiszpania Hiszpania<br>
+<strong>Wielkość ligi:</strong>	20 drużyn<br>
+<strong>Liczba zawodników:</strong>	507<br>
+<strong>Obcokrajowcy:</strong>	195 Zawodnicy  <em>(38,5%)</em><br>
+<strong>ø-Wartość rynkowa:</strong>	9,58 mln €<br>
+<strong>Najwięcej mistrzostw:</strong>	Real Madryt  34 raz(y)<br>
+<strong>ø-Wiek:</strong>	27,7<br>
+<strong>Aktualny mistrz:</strong>	Real Madryt<br>
+<strong>Najbardziej wartościowy zawodnik:</strong>	João Félix  100,00 mln €<br>
+<strong>Łączna wartość rynkowa:</strong> 4,86 mld €<br></div>
+			<h3 id="hLL">Historia</h3>
+			Mistrzostwa Hiszpanii w piłce nożnej rozgrywane są od 1929 roku. Niejednokrotnie zmieniał się format rozgrywek.
+			W 1929 została założona Primera División, rozgrywki której wystartowały po raz pierwszy w sezonie 1929.
+			Inną nazwą hiszpańskiej ligi jest La Liga. Na początku sezonu 08/09 Primera División zmieniła nazwę na Liga BBVA, ze względu na pozyskanie sponsora – banku BBVA. 
+			W roku 2016 skończyła się umowa banku BBVA z LFP, co spowodowało poszukiwania nowego sponsora. Został nim bank Santander, dzięki czemu liga otrzymała nazwę La Liga Santander.
+			<h3 id="kLL">Najbardziej wartościowe kluby w lidze</h3>
+				<ol>
+				<p class="k">	Top 5</p>
+					<li><a href="file:///D:/Lekcje%20zdalne/Informatyka/HTML/FC_Barcelona.html">FC Barcelona</a></li>
+					<li><a href="file:///D:/Lekcje%20zdalne/Informatyka/HTML/Atlético_Madryt.html">Atlético Madryt</a></li>
+					<li><a href="file:///D:/Lekcje%20zdalne/Informatyka/HTML/Real_Madryt.html">Real Madryt</a></li>
+					<li><a href="file:///D:/Lekcje%20zdalne/Informatyka/HTML/Sevilla_FC.html">Sevilla FC</a></li>
+					<li><a href="file:///D:/Lekcje%20zdalne/Informatyka/HTML/Real%20Sociedad.html">Real Sociedad</a></li>
+				</ol>	
+				<p class="k">Pozostałe kluby</p>
+				<div class="official-info"><table class="pozostale">
+	<thead>
+		<th>Klub</th>
+		<th>Łączna wartość rynkowa</th>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Valencia CF</td>
+			<td>256,70 mln €</td>
+		</tr>
+			<tr>
+			<td>Villarreal CF</td>
+			<td>246,70 mln €</td>
+		</tr>
+		<tr>
+			<td>Athletic Bilbao</td>
+			<td>211,60 mln €</td>
+		</tr>
+		<tr>
+			<td>Real Betis Balompié</td>
+			<td>196,40 mln €</td>
+		</tr>
+				<tr>
+			<td>Getafe CF</td>
+			<td>178,50 mln €</td>
+		</tr>
+				<tr>
+			<td>Celta de Vigo</td>
+			<td>118,20 mln €</td>
+		</tr>
+				<tr>
+			<td>Granada CF</td>
+			<td>111,90 mln €</td>
+		</tr>
+				<tr>
+			<td>Levante UD</td>
+			<td>104,30 mln €</td>
+		</tr>
+				<tr>
+			<td>CA Osasuna</td>
+			<td>80,20 mln €</td>
+		</tr>
+				<tr>
+			<td>Deportivo Alavés</td>
+			<td>80,00 mln €</td>
+		</tr>
+				<tr>
+			<td>SD Eibar</td>
+			<td>69,50 mln €</td>
+		</tr>
+				<tr>
+			<td>Real Valladolid CF</td>
+			<td>69,20 mln €</td>
+		</tr>
+				<tr>
+			<td>SD Huesca</td>
+			<td>50,60 mln €</td>
+		</tr>
+				<tr>
+			<td>Elche CF </td>
+			<td>38,50 mln €</td>
+		</tr>
+				<tr>
+			<td>Cádiz CF</td>
+			<td>36,90 mln €</td>
+		</tr>
+	</tbody>
+</table></div>
+		<h2 id="L1">Francja Ligue 1<h2>
+			<h3 id="iL1">Informacje ogólne</h3>
+			<p><img class="League" src="https://tmssl.akamaized.net/images/logo/normal/fr1.png?lm=1592648063" alt="league">Ligue 1 Uber Eats – najwyższa w hierarchii klasa męskich ligowych rozgrywek piłkarskich we Francji, 
+			będąca jednocześnie najwyższym szczeblem centralnym (I poziom ligowy), utworzona w 1932 roku i zarządzana przez Ligue de football professionnel (LFP),
+			a wcześniej przez Francuski Związek Piłki Nożnej (FFF). Zmagania w jej ramach toczą się cyklicznie (co sezon) i przeznaczone są dla 20 najlepszych krajowych klubów piłkarskich. 
+			Jej triumfator zostaje Mistrzem Francji, zaś najsłabsze drużyny są relegowane do <a href="https://pl.wikipedia.org/wiki/Ligue_2">Ligue 2</a> (II ligi francuskiej).</p>
+			
+<br><br><div class="og"><br><strong>Szczebel ligi:	</strong>1.liga - Francja Francja<br>
+<strong>Wielkość ligi:</strong>	20 drużyn<br>
+<strong>Liczba zawodników:</strong>	552<br>
+<strong>Obcokrajowcy:</strong>	265 Zawodnicy  <em>(48,0%)</em><br>
+<strong>ø-Wartość rynkowa:</strong>	6,45 mln €<br>
+<strong>Najwięcej mistrzostw:</strong>	AS Saint-Étienne  10 raz(y)<br>
+<strong>ø-Wiek:</strong>	25,5<br>
+<strong>Aktualny mistrz:</strong>	FC Paris Saint-Germain<br>
+<strong>Najbardziej wartościowy zawodnik:</strong>	Kylian Mbappé  180,00 mln €<br>
+<strong>Łączna wartość rynkowa:</strong> 3,56 mld €<br></div>
+			<h3 id="hL1">Historia</h3>
+			<h4>Era przedligowa</h4>
+
+Ligue 1: L'hexagoal
+Przed "erą ligową" rozgrywki o piłkarskie mistrzostwo Francji toczyły się systemem pucharowym i miały charakter amatorski, a odpowiadała za nie federacja USFSA. 
+Pierwszą ich edycję przeprowadzono w 1894 (między 15 kwietnia 1894 - 6 maja 1894) i do 1896 odbywały się systemem "wiosna-jesień". Od sezonu 1896/1897 wprowadzono formułę "jesień-wiosna". 
+Ich ostatnią pełną edycję rozegrano w sezonie 1913/1914, bowiem przeprowadzenie kolejnych uniemożliwił wybuch I wojny światowej. 
+Po jej zakończeniu udało się zorganizować faktycznie ostatnią edycję w sezonie 1919, po czym zaprzestano rozgrywania następnych. 
+Od tej pory (nieprzerwanie do sezonu 1931/1932) najlepszą klubową drużynę kraju wyłaniano poprzez  <a href="https://pl.wikipedia.org/wiki/Puchar_Francji_w_pi%C5%82ce_no%C5%BCnej">Puchar Francji</a>, którego ranga i prestiż rosły z roku na rok.
+
+<h4>Początki ligi</h4>
+16 stycznia 1932 utworzono w Paryżu pierwszą w historii zawodową ligę piłkarską we Francji, nadając jej nazwę Première Division (w skrócie Division 1 lub D1). 
+Jej założycielami byli: Georges Bayrou, Emmanuel Gambardella i Gabriel Hanot. Premierową edycję przeprowadzono w sezonie 1932/1933 (od samego początku rozgrywki toczono systemem jesień-wiosna),
+ gdy do rywalizacji przystąpiło 20 drużyn, podzielonych na dwie 10-zespołowe grupy (inauguracyjna kolejka odbyła się 11 września 1932). Pierwszymi triumfatorami zostały: Lille OSC (w grupie A) 
+ oraz FC Antibes (w grupie B), zaś 14 maja 1933 na stadionie Colombes w Paryżu rozegrano finał ligi, w którym Lille OSC pokonało drugie w tabeli grupy B AS Cannes 4:3 
+ (FC Antibes zostało zdyskwalifikowane przez władze ligi i niedopuszczone do udziału w finale).
+Ligue 1 jest częścią Ligue de Football Professionnel, obejmującej również Ligue 2. Od chwili powstania do sezonu 2001/2002 nosiła ona oficjalną nazwę Première Division, zaś w 2002 zmieniono ją na Ligue 1 (w skrócie L1) 
+i pod tą nazwą rozgrywana jest od edycji 2002/2003.
+			<h3 id="kL1">Najbardziej wartościowe kluby w lidze</h3>
+				<ol>
+				<p class="k">	Top 5</p>
+					<li><a href="file:///D:/Lekcje%20zdalne/Informatyka/HTML/FC_Paris_Saint-Germain.html">FC Paris Saint-Germain</a></li>
+					<li><a href="file:///D:/Lekcje%20zdalne/Informatyka/HTML/Olympique_Lyon.html">Olympique Lyon</a></li>
+					<li><a href="file:///D:/Lekcje%20zdalne/Informatyka/HTML/AS_Monaco.html">AS Monaco</a></li>
+					<li><a href="file:///D:/Lekcje%20zdalne/Informatyka/HTML/LOSC_Lille.html">LOSC Lille</a></li>
+					<li><a href="file:///D:/Lekcje%20zdalne/Informatyka/HTML/Stade_Rennais_FC.html">Stade Rennais FC</a></li>
+				</ol>	
+				<p class="k">Pozostałe kluby</p>
+				<div class="official-info"><table class="pozostale">
+	<thead>
+		<th>Klub</th>
+		<th>Łączna wartość rynkowa</th>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Olympique Marseille</td>
+			<td>229,50 mln €</td>
+		</tr>
+			<tr>
+			<td>OGC Nice</td>
+			<td>219,35 mln €</td>
+		</tr>
+		<tr>
+			<td>Montpellier HSC</td>
+			<td>105,60 mln €</td>
+		</tr>
+		<tr>
+			<td>RC Strasbourg Alsace</td>
+			<td>103,70 mln €</td>
+		</tr>
+				<tr>
+			<td>FC Nantes</td>
+			<td>98,40 mln €</td>
+		</tr>
+				<tr>
+			<td>AS Saint-Étienne</td>
+			<td>96,15 mln €</td>
+		</tr>
+				<tr>
+			<td>Stade Reims</td>
+			<td>91,05 mln €	</td>
+		</tr>
+				<tr>
+			<td>FC Girondins Bordeaux</td>
+			<td>90,60 mln €</td>
+		</tr>
+				<tr>
+			<td>Stade Brest 29</td>
+			<td>82,88 mln €</td>
+		</tr>
+				<tr>
+			<td>SCO Angers</td>
+			<td>79,40 mln €</td>
+		</tr>
+				<tr>
+			<td>FC Metz</td>
+			<td>79,25 mln €</td>
+		</tr>
+				<tr>
+			<td>RC Lens</td>
+			<td>76,95 mln €</td>
+		</tr>
+				<tr>
+			<td>Dijon FCO</td>
+			<td>70,78 mln €</td>
+		</tr>
+				<tr>
+			<td>FC Lorient</td>
+			<td>62,53 mln €</td>
+		</tr>
+				<tr>
+			<td>Nîmes Olympique</td>
+			<td>60,30 mln €</td>
+		</tr>
+	</tbody>
+</table></div>
+Źródła:<br>
+<a href="https://www.transfermarkt.pl/">Transfermarkt</a>
+<a href="https://pl.wikipedia.org/wiki/Wikipedia:Strona_g%C5%82%C3%B3wna">Wikipedia</a>
+	</body>
+</html>
