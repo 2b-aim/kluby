@@ -1,0 +1,304 @@
+<html>
+	<head>
+		<meta cherself="utf-8">
+		<title>AC_Milan</title>
+	<body>
+		<style>
+		h1{
+			text-align: center;
+		}
+		.trofea{
+		border:10px double rgb(48, 101, 217);
+		width:35%;
+		background-color:rgb(160, 250, 5);
+		}
+		.transfer{
+				border:10px double rgb(48, 101, 217);
+		width:35%;
+		}
+				body{
+		background-color: rgb(19, 240, 63);		
+		}
+		</style>
+	</head>
+	<body>
+	<h1>AC Milan</h1>
+	<div style="text-align: center"><img src="https://tmssl.akamaized.net/images/wappen/head/5.png?lm=1605166627" alt="AC_Milan" width="300"></div>
+	<h2>Informacje ogólne</h2>
+	<p>A.C. Milan, Associazione Calcio Milan – włoski klub piłkarski z siedzibą w Mediolanie, wielokrotny klubowy mistrz Europy i świata.
+
+Zespół występuje w koszulkach w czerwono-czarne pasy oraz białych spodenkach; od barw wywodzi się ich przydomek rossoneri („czerwono-czarni”). Drużyna 7 razy zwyciężyła w Pucharze Europy, 18 razy wygrała mistrzostwo Włoch (drugie miejsce, za Juventusem) i 5 razy Puchar Włoch[1]
+
+Klub został utworzony 16 grudnia 1899 przez sześciu brytyjskich imigrantów, wśród których znajdował się Herbert Kilpin, tradycyjnie uważany za założyciela mediolańskiego zespołu[2]. Początkowo istniały w nim dwie sekcje: piłki nożnej i krykieta. Po sześciu latach ta ostatnia została zlikwidowana, a Milan stał się klubem czysto piłkarskim. Pamiętając o swoich początkach, zespół zachował w nazwie angielską (a także lombardzką) nazwę miasta, zamiast włoskiej formy Milano.
+
+Tradycyjnie A.C. Milan (nazywany przez kibiców na całym świecie po prostu Milan) był klubem związanym ze środowiskiem robotniczym i związkami zawodowymi, podczas gdy inny pierwszoligowy zespół z Mediolanu – Internazionale, był wspierany przez bogatszych kibiców. Obecnie podział ten ulega zatarciu; Milan jest aktualnie własnością Elliott Management Corporation, a prezesem klubu jego przedstawiciel Paul Singer – podczas gdy Interem od drugiej połowy 2013 roku zarządza indonezyjski przedsiębiorca Erick Thohir.
+
+Swoje domowe mecze Milan rozgrywa na miejskim stadionie Stadionie Giuseppe Meazzy, potocznie nazywanym swoją pierwotną nazwą – San Siro. Na obiekcie tym występuje również Inter.
+
+Mediolański klub jest członkiem-założycielem Europejskiego Stowarzyszenia Klubów, będącego następcą grupy G-14. Sponsorem generalnym Milanu są linie lotnicze Emirates, mające swą siedzibę w Dubaju.</p>
+	<p>
+<strong>	W lidze od:</strong> 38 lat<br>
+<strong>Liczba zawodników:</strong> 26<br>
+<strong>Średnia wieku:</strong> 25,6<br>
+<strong>Obcokrajowcy:</strong> 19  <em>(73,1 %)</em><br>
+<strong>Stadion:</strong> Giuseppe Meazza  <em>(75.923 miejsc)</em><br>
+	<strong>Łączna wartość rynkowa:</strong>496,30 mln €<br></p>
+	<div class="trofea"><h2>Zdobyte Trofea</h2>
+				<ul>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/55.png?lm=1520606999" alt="Trofea" height="70">4X EUROPEAN CUP WINNER</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/4.png?lm=1520606999" alt="Trofea" height="70">3X CHAMPIONS LEAGUE WINNER</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/13.png?lm=1520606997" alt="Trofea" height="70">18X ITALIAN CHAMPION</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/96.png?lm=1520606999" alt="Trofea" height="70">5X ITALIAN CUP WINNER (COPPA ITALIA)</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/97.png?lm=1520606999" alt="Trofea" height="70">7X ITALIAN SUPERCUP WINNER (SUPERCOPPA)</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/318.png?lm=1520606999" alt="Trofea" height="70">1X FIFA CLUB WORLD CUP WINNER</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/436.png?lm=1461847499" alt="Trofea" height="70">1X ITALIENISCHER ZWEITLIGAMEISTER</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/1.png?lm=1520606996" alt="Trofea" height="70">3X INTERCONTINENTAL CUP WINNER</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/53.png?lm=1603977500" alt="Trofea" height="70">2X CUP WINNERS CUP WINNER</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/147.png?lm=1520606997" alt="Trofea" height="70">1X MITROPACUP</li>
+					<li><img src="https://tmssl.akamaized.net/images/erfolge/medium/354.png?lm=1520606999" alt="Trofea" height="70">5X UEFA SUPERCUP WINNER</li>
+				</ul>	</div>
+	<div class="transfer"><h2>Obecny Skład</h2></div>
+<div class="trofea">	Trener:Stefano Pioli
+					<table>
+	<thead>
+		<th>Zawodnik</th>
+		<th>Pozycja</th>
+		<th>Narodowość</th>
+		<th>Wartość Rynkowa</th>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Gianluigi Donnarumma</td>
+			<td>Bramkarz</td>
+			<td>Włochy</td>
+			<td>60,00 mln € </td>
+		</tr>
+			<tr>
+			<td>Ciprian Tatarusanu</td>
+			<td>Bramkarz</td>
+			<td>Rumunia</td>
+			<td>700 tys. €</td>
+		</tr>
+		<tr>
+			<td>Alessio Romagnoli</td>
+			<td>Środkowy obrońca</td>
+			<td>Włochy</td>
+			<td>36,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Fikayo Tomori</td>
+			<td>Środkowy obrońca</td>
+			<td>Anglia, Kanada</td>
+			<td>17,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Simon Kjaer</td>
+			<td>Środkowy obrońca</td>
+			<td>Dania</td>
+			<td>10,00 mln € </td>
+		</tr>		
+		<tr>
+			<td>Matteo Gabbia</td>
+			<td>Środkowy obrońca</td>
+			<td>Włochy</td>
+			<td>9,00 mln €  </td>
+		</tr>
+		<tr>
+			<td>Theo Hernández</td>
+			<td>Lewy obrońca</td>
+			<td>Francja, Hiszpania</td>
+			<td>50,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Davide Calabria</td>
+			<td>Prawy obrońca</td>
+			<td>Włochy</td>
+			<td>18,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Diogo Dalot</td>
+			<td>Prawy obrońca</td>
+			<td>Portugalia</td>
+			<td>12,00 mln €  </td>
+		</tr>
+		<tr>
+			<td>Ismaël Bennacer</td>
+			<td>Defensywny pomocnik</td>
+			<td>Francja, Algieria</td>
+			<td>40,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Sandro Tonali</td>
+			<td>Defensywny pomocnik</td>
+			<td>Włochy</td>
+			<td>32,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Franck Kessié</td>
+			<td>Środkowy pomocnik</td>
+			<td>WKS</td>
+			<td>40,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Rade Krunic</td>
+			<td>Środkowy pomocnik</td>
+			<td>Bośnia i Hercegowina</td>
+			<td>6,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Hakan Calhanoglu</td>
+			<td>Ofensywny pomocnik</td>
+			<td>Turcja, Niemcy</td>
+			<td>35,00 mln €</td>
+		</tr>	
+				<tr>
+			<td>Brahim Díaz</td>
+			<td>Ofensywny pomocnik</td>
+			<td>Hiszpania, Maroko</td>
+			<td>14,00 mln €  </td>
+		</tr>	
+		<tr>
+			<td>Ante Rebic</td>
+			<td>Lewy napastnik</td>
+			<td>Chorwacja</td>
+			<td>32,00 mln € </td>
+		</tr>
+				<tr>
+			<td>Jens Petter Hauge</td>
+			<td>Lewy napastnik</td>
+			<td>Norwegia</td>
+			<td>10,00 mln €</td>
+		</tr>
+		<tr>
+			<td>Alexis Saelemaekers</td>
+			<td>Prawy napastnik</td>
+			<td>Belgia</td>
+			<td>18,00 mln € </td>
+		</tr>
+		<tr>
+			<td>Samu Castillejo</td>
+			<td>Prawy napastnik</td>
+			<td>Hiszpania</td>
+			<td>13,00 mln €</td>
+		</tr>
+				<tr>
+			<td>Rafael Leão</td>
+			<td>Środkowy napastnik</td>
+			<td>Portugalia, Angola</td>
+			<td>28,00 mln € </td>
+		</tr>
+				<tr>
+			<td>Zlatan Ibrahimovic</td>
+			<td>Środkowy napastnik</td>
+			<td>Szwecja, Bośnia i Hercegowina</td>
+			<td>5,00 mln € </td>
+		</tr>
+						<tr>
+			<td>Mario Mandzukic</td>
+			<td>Środkowy napastnik</td>
+			<td>Chorwacja</td>
+			<td>2,50 mln € </td>
+		</tr>
+	</tbody>
+</table></div>
+	<div class="transfer"><h2>Transfery</h2></div>
+	<div class="trofea"><h3>TOP-nabytki</h3>
+	<table>
+	<thead>
+		<th></th>
+		<th>Zawodnik</th>
+		<th>Sezon</th>
+		<th>Klub oddający</th>
+		<th>Kwota Transferu</th>
+	</thead>
+	<tbody>
+		<tr>
+			<td>1.</td>
+			<td>Leonardo Bonucci</td>
+			<td>18/19</td>
+			<td>Juventus FC(Serie A)</td>
+			<td>42,00 mln €</td>
+		</tr>
+			<tr>			
+			<td>2.</td>
+			<td>Rui Costa</td>
+			<td>01/02</td>
+			<td>AC Fiorentina(Serie A)
+
+</td>
+			<td>41,32 mln €</td>
+		</tr>
+		<tr>
+			<td>3.</td>
+			<td>Lucas Paquetá</td>
+			<td>18/19</td>
+			<td>Flamengo Rio de Janeiro (Série A)
+</td>
+			<td>38,40 mln €</td>
+		</tr>
+		<tr>
+			<td>4.</td>
+			<td>André Silva</td>
+			<td>17/18</td>
+			<td>FC Porto(Liga NOS)</td>
+			<td>38,00 mln €</td>
+		</tr>
+		<tr>
+			<td>5.</td>
+			<td>Mattia Caldara</td>
+			<td>18/19</td>
+			<td>Juventus FC(Serie A)</td>
+			<td>36,40 mln €</td>
+		</tr>
+	</tbody>
+</table></div>
+	<div class="trofea"><h3>TOP-odejścia</h3>
+	<table>
+	<thead>
+		<th></th>
+		<th>Zawodnik</th>
+		<th>Sezon</th>
+		<th>Klub kupujący</th>
+		<th>Kwota Transferu</th>
+	</thead>
+	<tbody>
+		<tr>
+			<td>1.</td>
+			<td>Kaká</td>
+			<td>09/10</td>
+			<td>Real Madryt (LaLiga)
+</td>
+			<td>67,00 mln €</td>
+		</tr>
+			<tr>
+			<td>2.</td>
+			<td>Andriy Shevchenko</td>
+			<td>06/07</td>
+			<td>Chelsea FC(Premier League)</td>
+			<td>43,88 mln €</td>
+		</tr>
+		<tr>
+			<td>3.</td>
+			<td>Thiago Silva</td>
+			<td>12/13</td>
+			<td>Paris SG(Ligue 1)</td>
+			<td>42,00 mln €</td>
+		</tr>
+		<tr>
+			<td>4.</td>
+			<td>Leonardo Bonucci</td>
+			<td>18/19</td>
+			<td>Juventus FC(Serie A)</td>
+			<td>35,00 mln €</td>
+		</tr>
+		<tr>
+			<td>5.</td>
+			<td>Patrick Cutrone</td>
+			<td>19/20</td>
+			<td>Wolverhampton Wanderers(Premier League)</td>
+			<td>28,00 mln €</td>
+		</tr>
+	</tbody>
+</table></div>
+	</body>
+</html>
